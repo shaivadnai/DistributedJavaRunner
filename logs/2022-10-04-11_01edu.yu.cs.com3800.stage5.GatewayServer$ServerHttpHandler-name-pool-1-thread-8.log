@@ -1,0 +1,175 @@
+Oct 04, 2022 11:01:33 AM edu.yu.cs.com3800.LoggingServer fileHandler
+INFO: Logging to file begins:
+Oct 04, 2022 11:01:33 AM edu.yu.cs.com3800.stage5.GatewayServer$ServerHttpHandler handle
+INFO: Server received request on /compileandrun from port 33486
+Oct 04, 2022 11:01:33 AM edu.yu.cs.com3800.stage5.GatewayServer$ServerHttpHandler handle
+INFO: Request body: package edu.yu.cs.fall2019.com3800.stage1;
+
+public class HelloWorld
+{
+    public String run()
+    {
+        return Thread.currentThread().getName();
+    }
+}
+
+Oct 04, 2022 11:01:33 AM edu.yu.cs.com3800.stage5.GatewayServer$ServerHttpHandler handle
+INFO: leader is localhost/127.0.0.1:30080
+Oct 04, 2022 11:01:33 AM edu.yu.cs.com3800.stage5.GatewayServer$ServerHttpHandler sendAndGetResponse
+INFO: Waiting for leader
+Oct 04, 2022 11:01:33 AM edu.yu.cs.com3800.stage5.GatewayServer$ServerHttpHandler sendAndGetResponse
+INFO: Leader found localhost/127.0.0.1:30080
+Oct 04, 2022 11:01:33 AM edu.yu.cs.com3800.stage5.GatewayServer$ServerHttpHandler sendAndGetResponse
+INFO: assigned request ID of 5
+Oct 04, 2022 11:01:33 AM edu.yu.cs.com3800.stage5.GatewayServer$ServerHttpHandler sendAndGetResponse
+INFO: Attempting to read leader response for requestID 5
+Oct 04, 2022 11:01:36 AM edu.yu.cs.com3800.stage5.GatewayServer$ServerHttpHandler handle
+INFO: Got response for 5
+Oct 04, 2022 11:01:36 AM edu.yu.cs.com3800.stage5.GatewayServer$ServerHttpHandler handle
+INFO: Attempting to send response headers for requestID 5
+Oct 04, 2022 11:01:36 AM edu.yu.cs.com3800.stage5.GatewayServer$ServerHttpHandler handle
+INFO: Response headers should be: 200 10
+Oct 04, 2022 11:01:36 AM edu.yu.cs.com3800.stage5.GatewayServer$ServerHttpHandler handle
+INFO: Attempting to write response body for requestID: 5
+Oct 04, 2022 11:01:36 AM edu.yu.cs.com3800.stage5.GatewayServer$ServerHttpHandler handle
+INFO: Response headers should be: 7 Follower
+Oct 04, 2022 11:01:36 AM edu.yu.cs.com3800.stage5.GatewayServer$ServerHttpHandler handle
+INFO: Finished processing requestId: 5
+Oct 04, 2022 11:02:27 AM edu.yu.cs.com3800.stage5.GatewayServer$ServerHttpHandler handle
+INFO: Server received request on /compileandrun from port 33622
+Oct 04, 2022 11:02:27 AM edu.yu.cs.com3800.stage5.GatewayServer$ServerHttpHandler handle
+INFO: Request body: package edu.yu.cs.fall2019.com3800.stage1;
+
+public class HelloWorld
+{
+    public String run()
+    {
+        return Thread.currentThread().getName();
+    }
+}
+
+Oct 04, 2022 11:02:27 AM edu.yu.cs.com3800.stage5.GatewayServer$ServerHttpHandler handle
+INFO: leader is localhost/127.0.0.1:30080
+Oct 04, 2022 11:02:27 AM edu.yu.cs.com3800.stage5.GatewayServer$ServerHttpHandler sendAndGetResponse
+INFO: Waiting for leader
+Oct 04, 2022 11:02:27 AM edu.yu.cs.com3800.stage5.GatewayServer$ServerHttpHandler sendAndGetResponse
+INFO: Leader found localhost/127.0.0.1:30080
+Oct 04, 2022 11:02:27 AM edu.yu.cs.com3800.stage5.GatewayServer$ServerHttpHandler sendAndGetResponse
+INFO: assigned request ID of 26
+Oct 04, 2022 11:02:27 AM edu.yu.cs.com3800.stage5.GatewayServer$ServerHttpHandler sendAndGetResponse
+INFO: Attempting to read leader response for requestID 26
+Oct 04, 2022 11:02:29 AM edu.yu.cs.com3800.stage5.GatewayServer$ServerHttpHandler handle
+INFO: Got response for 26
+Oct 04, 2022 11:02:29 AM edu.yu.cs.com3800.stage5.GatewayServer$ServerHttpHandler handle
+INFO: Attempting to send response headers for requestID 26
+Oct 04, 2022 11:02:29 AM edu.yu.cs.com3800.stage5.GatewayServer$ServerHttpHandler handle
+INFO: Response headers should be: 200 10
+Oct 04, 2022 11:02:29 AM edu.yu.cs.com3800.stage5.GatewayServer$ServerHttpHandler handle
+INFO: Attempting to write response body for requestID: 26
+Oct 04, 2022 11:02:29 AM edu.yu.cs.com3800.stage5.GatewayServer$ServerHttpHandler handle
+INFO: Response headers should be: 2 Follower
+Oct 04, 2022 11:02:29 AM edu.yu.cs.com3800.stage5.GatewayServer$ServerHttpHandler handle
+INFO: Finished processing requestId: 26
+Oct 04, 2022 11:02:29 AM edu.yu.cs.com3800.stage5.GatewayServer$ServerHttpHandler handle
+INFO: Server received request on /compileandrun from port 33662
+Oct 04, 2022 11:02:29 AM edu.yu.cs.com3800.stage5.GatewayServer$ServerHttpHandler handle
+INFO: Request body: public class HelloWorld {public HelloWorld(){}public String run(){return "happyShortSingleLine"}}
+Oct 04, 2022 11:02:29 AM edu.yu.cs.com3800.stage5.GatewayServer$ServerHttpHandler handle
+INFO: leader is localhost/127.0.0.1:30080
+Oct 04, 2022 11:02:29 AM edu.yu.cs.com3800.stage5.GatewayServer$ServerHttpHandler sendAndGetResponse
+INFO: Waiting for leader
+Oct 04, 2022 11:02:29 AM edu.yu.cs.com3800.stage5.GatewayServer$ServerHttpHandler sendAndGetResponse
+INFO: Leader found localhost/127.0.0.1:30080
+Oct 04, 2022 11:02:29 AM edu.yu.cs.com3800.stage5.GatewayServer$ServerHttpHandler sendAndGetResponse
+INFO: assigned request ID of 31
+Oct 04, 2022 11:02:29 AM edu.yu.cs.com3800.stage5.GatewayServer$ServerHttpHandler sendAndGetResponse
+INFO: Attempting to read leader response for requestID 31
+Oct 04, 2022 11:02:30 AM edu.yu.cs.com3800.stage5.GatewayServer$ServerHttpHandler handle
+INFO: Got response for 31
+Oct 04, 2022 11:02:30 AM edu.yu.cs.com3800.stage5.GatewayServer$ServerHttpHandler handle
+INFO: Attempting to send response headers for requestID 31
+Oct 04, 2022 11:02:30 AM edu.yu.cs.com3800.stage5.GatewayServer$ServerHttpHandler handle
+INFO: Response headers should be: 400 466
+Oct 04, 2022 11:02:30 AM edu.yu.cs.com3800.stage5.GatewayServer$ServerHttpHandler handle
+INFO: Attempting to write response body for requestID: 31
+Oct 04, 2022 11:02:30 AM edu.yu.cs.com3800.stage5.GatewayServer$ServerHttpHandler handle
+INFO: Response headers should be: Code did not compile:
+Error on line 1, column 96 in string:///HelloWorld.java
+
+java.lang.IllegalArgumentException: Code did not compile:
+Error on line 1, column 96 in string:///HelloWorld.java
+
+	at edu.yu.cs.com3800.JavaRunner.compileFromString(JavaRunner.java:104)
+	at edu.yu.cs.com3800.JavaRunner.compileAndRun(JavaRunner.java:78)
+	at edu.yu.cs.com3800.stage5.JavaRunnerFollower.run(JavaRunnerFollower.java:103)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+Oct 04, 2022 11:02:30 AM edu.yu.cs.com3800.stage5.GatewayServer$ServerHttpHandler handle
+INFO: Finished processing requestId: 31
+Oct 04, 2022 11:02:30 AM edu.yu.cs.com3800.stage5.GatewayServer$ServerHttpHandler handle
+INFO: Server received request on /compileandrun from port 33662
+Oct 04, 2022 11:02:30 AM edu.yu.cs.com3800.stage5.GatewayServer$ServerHttpHandler handle
+INFO: Request body: public class HelloWorld {public HelloWorld(){}public String run(){return "happyShortSingleLine";}}
+Oct 04, 2022 11:02:30 AM edu.yu.cs.com3800.stage5.GatewayServer$ServerHttpHandler handle
+INFO: leader is localhost/127.0.0.1:30080
+Oct 04, 2022 11:02:30 AM edu.yu.cs.com3800.stage5.GatewayServer$ServerHttpHandler sendAndGetResponse
+INFO: Waiting for leader
+Oct 04, 2022 11:02:30 AM edu.yu.cs.com3800.stage5.GatewayServer$ServerHttpHandler sendAndGetResponse
+INFO: Leader found localhost/127.0.0.1:30080
+Oct 04, 2022 11:02:30 AM edu.yu.cs.com3800.stage5.GatewayServer$ServerHttpHandler sendAndGetResponse
+INFO: assigned request ID of 32
+Oct 04, 2022 11:02:30 AM edu.yu.cs.com3800.stage5.GatewayServer$ServerHttpHandler sendAndGetResponse
+INFO: Attempting to read leader response for requestID 32
+Oct 04, 2022 11:02:31 AM edu.yu.cs.com3800.stage5.GatewayServer$ServerHttpHandler handle
+INFO: Got response for 32
+Oct 04, 2022 11:02:31 AM edu.yu.cs.com3800.stage5.GatewayServer$ServerHttpHandler handle
+INFO: Attempting to send response headers for requestID 32
+Oct 04, 2022 11:02:31 AM edu.yu.cs.com3800.stage5.GatewayServer$ServerHttpHandler handle
+INFO: Response headers should be: 200 20
+Oct 04, 2022 11:02:31 AM edu.yu.cs.com3800.stage5.GatewayServer$ServerHttpHandler handle
+INFO: Attempting to write response body for requestID: 32
+Oct 04, 2022 11:02:31 AM edu.yu.cs.com3800.stage5.GatewayServer$ServerHttpHandler handle
+INFO: Response headers should be: happyShortSingleLine
+Oct 04, 2022 11:02:31 AM edu.yu.cs.com3800.stage5.GatewayServer$ServerHttpHandler handle
+INFO: Finished processing requestId: 32
+Oct 04, 2022 11:02:31 AM edu.yu.cs.com3800.stage5.GatewayServer$ServerHttpHandler handle
+INFO: Server received request on /compileandrun from port 33662
+Oct 04, 2022 11:02:31 AM edu.yu.cs.com3800.stage5.GatewayServer$ServerHttpHandler handle
+INFO: Request body: public class HelloWorld {public HelloWorld(){}public String run(){return "happyShortSingleLine";}}
+Oct 04, 2022 11:02:31 AM edu.yu.cs.com3800.stage5.GatewayServer$ServerHttpHandler handle
+INFO: Content type was incorrect, sending 400 to client
+Oct 04, 2022 11:02:31 AM edu.yu.cs.com3800.stage5.GatewayServer$ServerHttpHandler handle
+INFO: Server received request on /compileandrun from port 33674
+Oct 04, 2022 11:02:31 AM edu.yu.cs.com3800.stage5.GatewayServer$ServerHttpHandler handle
+INFO: Request body: package edu.yu.cs.fall2019.com3800.stage1;
+
+public class HelloWorld
+{
+    public String run()
+    {
+        return "0";
+    }
+}
+
+Oct 04, 2022 11:02:31 AM edu.yu.cs.com3800.stage5.GatewayServer$ServerHttpHandler handle
+INFO: leader is localhost/127.0.0.1:30080
+Oct 04, 2022 11:02:31 AM edu.yu.cs.com3800.stage5.GatewayServer$ServerHttpHandler sendAndGetResponse
+INFO: Waiting for leader
+Oct 04, 2022 11:02:31 AM edu.yu.cs.com3800.stage5.GatewayServer$ServerHttpHandler sendAndGetResponse
+INFO: Leader found localhost/127.0.0.1:30080
+Oct 04, 2022 11:02:31 AM edu.yu.cs.com3800.stage5.GatewayServer$ServerHttpHandler sendAndGetResponse
+INFO: assigned request ID of 33
+Oct 04, 2022 11:02:31 AM edu.yu.cs.com3800.stage5.GatewayServer$ServerHttpHandler sendAndGetResponse
+INFO: Attempting to read leader response for requestID 33
+Oct 04, 2022 11:02:32 AM edu.yu.cs.com3800.stage5.GatewayServer$ServerHttpHandler handle
+INFO: Got response for 33
+Oct 04, 2022 11:02:32 AM edu.yu.cs.com3800.stage5.GatewayServer$ServerHttpHandler handle
+INFO: Attempting to send response headers for requestID 33
+Oct 04, 2022 11:02:32 AM edu.yu.cs.com3800.stage5.GatewayServer$ServerHttpHandler handle
+INFO: Response headers should be: 200 1
+Oct 04, 2022 11:02:32 AM edu.yu.cs.com3800.stage5.GatewayServer$ServerHttpHandler handle
+INFO: Attempting to write response body for requestID: 33
+Oct 04, 2022 11:02:32 AM edu.yu.cs.com3800.stage5.GatewayServer$ServerHttpHandler handle
+INFO: Response headers should be: 0
+Oct 04, 2022 11:02:32 AM edu.yu.cs.com3800.stage5.GatewayServer$ServerHttpHandler handle
+INFO: Finished processing requestId: 33

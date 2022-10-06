@@ -1,0 +1,6457 @@
+Oct 04, 2022 11:01:31 AM edu.yu.cs.com3800.LoggingServer fileHandler
+INFO: Logging to file begins:
+Oct 04, 2022 11:01:31 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:01:31 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30000
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 1
+	Sender server state: O
+	Sender server ID: 1
+	Sender peer epoch: 1
+Oct 04, 2022 11:01:31 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:01:31 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30070
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:-1
+	ID:1 Heartbeat:-1
+	ID:2 Heartbeat:-1
+	ID:3 Heartbeat:-1
+	ID:4 Heartbeat:-1
+	ID:5 Heartbeat:-1
+	ID:6 Heartbeat:-1
+	ID:7 Heartbeat:-1
+	ID:8 Heartbeat:1
+	ID:9 Heartbeat:-1
+Oct 04, 2022 11:01:31 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:01:31 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30080
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: O
+	Sender server ID: 9
+	Sender peer epoch: 1
+Oct 04, 2022 11:01:31 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:01:31 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8890
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: -1
+	Sender server state: B
+	Sender server ID: -1
+	Sender peer epoch: -1
+Oct 04, 2022 11:01:31 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:01:31 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30020
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 3
+	Sender server state: O
+	Sender server ID: 3
+	Sender peer epoch: 1
+Oct 04, 2022 11:01:31 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:01:31 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30000
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: O
+	Sender server ID: 1
+	Sender peer epoch: 1
+Oct 04, 2022 11:01:31 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:01:31 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30010
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 2
+	Sender server state: O
+	Sender server ID: 2
+	Sender peer epoch: 1
+Oct 04, 2022 11:01:31 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:01:31 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30050
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 6
+	Sender server state: O
+	Sender server ID: 6
+	Sender peer epoch: 1
+Oct 04, 2022 11:01:31 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:01:31 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30010
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: O
+	Sender server ID: 2
+	Sender peer epoch: 1
+Oct 04, 2022 11:01:31 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:01:31 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30070
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 8
+	Sender server state: O
+	Sender server ID: 8
+	Sender peer epoch: 1
+Oct 04, 2022 11:01:31 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:01:31 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30070
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: O
+	Sender server ID: 8
+	Sender peer epoch: 1
+Oct 04, 2022 11:01:31 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:01:31 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8890
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: -1
+	Sender server state: B
+	Sender server ID: -1
+	Sender peer epoch: -1
+Oct 04, 2022 11:01:31 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:01:31 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30060
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:-1
+	ID:1 Heartbeat:-1
+	ID:2 Heartbeat:-1
+	ID:3 Heartbeat:-1
+	ID:4 Heartbeat:-1
+	ID:5 Heartbeat:-1
+	ID:6 Heartbeat:-1
+	ID:7 Heartbeat:1
+	ID:8 Heartbeat:-1
+	ID:9 Heartbeat:-1
+Oct 04, 2022 11:01:31 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:01:31 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30060
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 7
+	Sender server state: O
+	Sender server ID: 7
+	Sender peer epoch: 1
+Oct 04, 2022 11:01:31 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:01:31 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30060
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: O
+	Sender server ID: 7
+	Sender peer epoch: 1
+Oct 04, 2022 11:01:31 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:01:31 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30050
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: O
+	Sender server ID: 6
+	Sender peer epoch: 1
+Oct 04, 2022 11:01:31 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:01:31 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30020
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: O
+	Sender server ID: 3
+	Sender peer epoch: 1
+Oct 04, 2022 11:01:31 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:01:31 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30030
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 4
+	Sender server state: O
+	Sender server ID: 4
+	Sender peer epoch: 1
+Oct 04, 2022 11:01:31 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:01:31 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30030
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: O
+	Sender server ID: 4
+	Sender peer epoch: 1
+Oct 04, 2022 11:01:31 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:01:34 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30010
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:-1
+	ID:1 Heartbeat:-1
+	ID:2 Heartbeat:2
+	ID:3 Heartbeat:-1
+	ID:4 Heartbeat:-1
+	ID:5 Heartbeat:1
+	ID:6 Heartbeat:-1
+	ID:7 Heartbeat:-1
+	ID:8 Heartbeat:-1
+	ID:9 Heartbeat:-1
+Oct 04, 2022 11:01:34 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:01:34 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 8890
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:2
+	ID:1 Heartbeat:-1
+	ID:2 Heartbeat:-1
+	ID:3 Heartbeat:1
+	ID:4 Heartbeat:-1
+	ID:5 Heartbeat:-1
+	ID:6 Heartbeat:-1
+	ID:7 Heartbeat:-1
+	ID:8 Heartbeat:-1
+	ID:9 Heartbeat:-1
+Oct 04, 2022 11:01:34 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:01:37 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30020
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:-1
+	ID:1 Heartbeat:-1
+	ID:2 Heartbeat:-1
+	ID:3 Heartbeat:2
+	ID:4 Heartbeat:-1
+	ID:5 Heartbeat:-1
+	ID:6 Heartbeat:-1
+	ID:7 Heartbeat:-1
+	ID:8 Heartbeat:-1
+	ID:9 Heartbeat:-1
+Oct 04, 2022 11:01:37 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:01:40 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:01:40 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30070
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:-1
+	ID:1 Heartbeat:-1
+	ID:2 Heartbeat:-1
+	ID:3 Heartbeat:-1
+	ID:4 Heartbeat:-1
+	ID:5 Heartbeat:-1
+	ID:6 Heartbeat:-1
+	ID:7 Heartbeat:-1
+	ID:8 Heartbeat:2
+	ID:9 Heartbeat:-1
+Oct 04, 2022 11:01:40 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:01:40 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30020
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:-1
+	ID:1 Heartbeat:1
+	ID:2 Heartbeat:-1
+	ID:3 Heartbeat:2
+	ID:4 Heartbeat:-1
+	ID:5 Heartbeat:-1
+	ID:6 Heartbeat:3
+	ID:7 Heartbeat:-1
+	ID:8 Heartbeat:-1
+	ID:9 Heartbeat:1
+Oct 04, 2022 11:01:40 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:01:43 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:01:46 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30080
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:-1
+	ID:1 Heartbeat:1
+	ID:2 Heartbeat:1
+	ID:3 Heartbeat:2
+	ID:4 Heartbeat:3
+	ID:5 Heartbeat:-1
+	ID:6 Heartbeat:2
+	ID:7 Heartbeat:-1
+	ID:8 Heartbeat:2
+	ID:9 Heartbeat:6
+Oct 04, 2022 11:01:46 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:01:49 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30080
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:-1
+	ID:1 Heartbeat:1
+	ID:2 Heartbeat:4
+	ID:3 Heartbeat:2
+	ID:4 Heartbeat:3
+	ID:5 Heartbeat:1
+	ID:6 Heartbeat:2
+	ID:7 Heartbeat:-1
+	ID:8 Heartbeat:2
+	ID:9 Heartbeat:7
+Oct 04, 2022 11:01:49 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:01:49 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30050
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:5
+	ID:1 Heartbeat:1
+	ID:2 Heartbeat:2
+	ID:3 Heartbeat:2
+	ID:4 Heartbeat:2
+	ID:5 Heartbeat:4
+	ID:6 Heartbeat:7
+	ID:7 Heartbeat:5
+	ID:8 Heartbeat:1
+	ID:9 Heartbeat:4
+Oct 04, 2022 11:01:49 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:01:52 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:01:55 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:01:58 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:02:01 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30020
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:8
+	ID:1 Heartbeat:1
+	ID:2 Heartbeat:7
+	ID:3 Heartbeat:8
+	ID:4 Heartbeat:2
+	ID:5 Heartbeat:6
+	ID:6 Heartbeat:3
+	ID:7 Heartbeat:4
+	ID:8 Heartbeat:3
+	ID:9 Heartbeat:4
+Oct 04, 2022 11:02:01 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:02:01 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30060
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:5
+	ID:1 Heartbeat:1
+	ID:2 Heartbeat:7
+	ID:3 Heartbeat:3
+	ID:4 Heartbeat:9
+	ID:5 Heartbeat:5
+	ID:6 Heartbeat:8
+	ID:7 Heartbeat:8
+	ID:8 Heartbeat:2
+	ID:9 Heartbeat:8
+Oct 04, 2022 11:02:01 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:02:04 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:02:07 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30030
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:9
+	ID:1 Heartbeat:1
+	ID:2 Heartbeat:7
+	ID:3 Heartbeat:4
+	ID:4 Heartbeat:12
+	ID:5 Heartbeat:9
+	ID:6 Heartbeat:8
+	ID:7 Heartbeat:5
+	ID:8 Heartbeat:3
+	ID:9 Heartbeat:8
+Oct 04, 2022 11:02:07 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:02:10 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:02:13 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:02:16 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30010
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:10
+	ID:1 Heartbeat:1
+	ID:2 Heartbeat:12
+	ID:3 Heartbeat:5
+	ID:4 Heartbeat:9
+	ID:5 Heartbeat:10
+	ID:6 Heartbeat:8
+	ID:7 Heartbeat:10
+	ID:8 Heartbeat:6
+	ID:9 Heartbeat:14
+Oct 04, 2022 11:02:16 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:02:19 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30070
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:11
+	ID:1 Heartbeat:1
+	ID:2 Heartbeat:7
+	ID:3 Heartbeat:5
+	ID:4 Heartbeat:7
+	ID:5 Heartbeat:10
+	ID:6 Heartbeat:8
+	ID:7 Heartbeat:7
+	ID:8 Heartbeat:9
+	ID:9 Heartbeat:12
+Oct 04, 2022 11:02:19 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:02:19 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30010
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:12
+	ID:1 Heartbeat:1
+	ID:2 Heartbeat:13
+	ID:3 Heartbeat:8
+	ID:4 Heartbeat:9
+	ID:5 Heartbeat:13
+	ID:6 Heartbeat:8
+	ID:7 Heartbeat:10
+	ID:8 Heartbeat:6
+	ID:9 Heartbeat:14
+Oct 04, 2022 11:02:19 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:02:19 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30080
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:7
+	ID:1 Heartbeat:1
+	ID:2 Heartbeat:7
+	ID:3 Heartbeat:7
+	ID:4 Heartbeat:8
+	ID:5 Heartbeat:8
+	ID:6 Heartbeat:4
+	ID:7 Heartbeat:5
+	ID:8 Heartbeat:5
+	ID:9 Heartbeat:17
+Oct 04, 2022 11:02:19 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:02:22 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:02:25 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:02:25 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30020
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:15
+	ID:2 Heartbeat:8
+	ID:3 Heartbeat:15
+	ID:4 Heartbeat:11
+	ID:5 Heartbeat:13
+	ID:6 Heartbeat:12
+	ID:7 Heartbeat:8
+	ID:8 Heartbeat:9
+	ID:9 Heartbeat:13
+Oct 04, 2022 11:02:25 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:02:28 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:02:31 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:02:34 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 8890
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:20
+	ID:1 Heartbeat:1
+	ID:2 Heartbeat:9
+	ID:3 Heartbeat:11
+	ID:4 Heartbeat:14
+	ID:5 Heartbeat:15
+	ID:6 Heartbeat:15
+	ID:7 Heartbeat:10
+	ID:8 Heartbeat:9
+	ID:9 Heartbeat:16
+Oct 04, 2022 11:02:34 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:02:34 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30010
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:12
+	ID:1 Heartbeat:1
+	ID:2 Heartbeat:18
+	ID:3 Heartbeat:13
+	ID:4 Heartbeat:12
+	ID:5 Heartbeat:18
+	ID:6 Heartbeat:9
+	ID:7 Heartbeat:10
+	ID:8 Heartbeat:9
+	ID:9 Heartbeat:17
+Oct 04, 2022 11:02:34 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:02:37 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:02:37 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30060
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:16
+	ID:2 Heartbeat:13
+	ID:3 Heartbeat:17
+	ID:4 Heartbeat:17
+	ID:5 Heartbeat:17
+	ID:6 Heartbeat:13
+	ID:7 Heartbeat:16
+	ID:8 Heartbeat:9
+	ID:9 Heartbeat:20
+Oct 04, 2022 11:02:37 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:02:40 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30050
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:18
+	ID:2 Heartbeat:16
+	ID:3 Heartbeat:13
+	ID:4 Heartbeat:15
+	ID:5 Heartbeat:15
+	ID:6 Heartbeat:20
+	ID:7 Heartbeat:10
+	ID:8 Heartbeat:10
+	ID:9 Heartbeat:16
+Oct 04, 2022 11:02:40 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:02:40 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30060
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:16
+	ID:2 Heartbeat:13
+	ID:3 Heartbeat:17
+	ID:4 Heartbeat:17
+	ID:5 Heartbeat:20
+	ID:6 Heartbeat:13
+	ID:7 Heartbeat:17
+	ID:8 Heartbeat:9
+	ID:9 Heartbeat:20
+Oct 04, 2022 11:02:40 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:02:43 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:02:46 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30080
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:19
+	ID:2 Heartbeat:14
+	ID:3 Heartbeat:14
+	ID:4 Heartbeat:15
+	ID:5 Heartbeat:15
+	ID:6 Heartbeat:17
+	ID:7 Heartbeat:13
+	ID:8 Heartbeat:9
+	ID:9 Heartbeat:26
+Oct 04, 2022 11:02:46 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:02:49 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:02:49 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 8890
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:25
+	ID:2 Heartbeat:18
+	ID:3 Heartbeat:18
+	ID:4 Heartbeat:17
+	ID:5 Heartbeat:20
+	ID:6 Heartbeat:18
+	ID:7 Heartbeat:18
+	ID:8 Heartbeat:13
+	ID:9 Heartbeat:23
+Oct 04, 2022 11:02:49 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:02:52 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:02:55 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 8890
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:27
+	ID:2 Heartbeat:18
+	ID:3 Heartbeat:20
+	ID:4 Heartbeat:17
+	ID:5 Heartbeat:20
+	ID:6 Heartbeat:23
+	ID:7 Heartbeat:18
+	ID:8 Heartbeat:13
+	ID:9 Heartbeat:23
+Oct 04, 2022 11:02:55 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:02:58 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30050
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:21
+	ID:2 Heartbeat:17
+	ID:3 Heartbeat:20
+	ID:4 Heartbeat:15
+	ID:5 Heartbeat:18
+	ID:6 Heartbeat:26
+	ID:7 Heartbeat:13
+	ID:8 Heartbeat:12
+	ID:9 Heartbeat:24
+Oct 04, 2022 11:02:58 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:01 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:04 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:07 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:10 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:13 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:16 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:19 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:19 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30030
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:32
+	ID:2 Heartbeat:24
+	ID:3 Heartbeat:22
+	ID:4 Heartbeat:30
+	ID:5 Heartbeat:29
+	ID:6 Heartbeat:30
+	ID:7 Heartbeat:24
+	ID:8 Heartbeat:21
+	ID:9 Heartbeat:26
+Oct 04, 2022 11:03:19 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:22 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30030
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:34
+	ID:2 Heartbeat:24
+	ID:3 Heartbeat:22
+	ID:4 Heartbeat:31
+	ID:5 Heartbeat:29
+	ID:6 Heartbeat:30
+	ID:7 Heartbeat:24
+	ID:8 Heartbeat:21
+	ID:9 Heartbeat:26
+Oct 04, 2022 11:03:22 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:25 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30050
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:30
+	ID:2 Heartbeat:21
+	ID:3 Heartbeat:20
+	ID:4 Heartbeat:25
+	ID:5 Heartbeat:27
+	ID:6 Heartbeat:35
+	ID:7 Heartbeat:23
+	ID:8 Heartbeat:16
+	ID:9 Heartbeat:26
+Oct 04, 2022 11:03:25 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:28 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:31 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:34 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:34 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30070
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:33
+	ID:2 Heartbeat:33
+	ID:3 Heartbeat:23
+	ID:4 Heartbeat:24
+	ID:5 Heartbeat:29
+	ID:6 Heartbeat:31
+	ID:7 Heartbeat:25
+	ID:8 Heartbeat:26
+	ID:9 Heartbeat:26
+Oct 04, 2022 11:03:34 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:34 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30010
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 2
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:34 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:34 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30020
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 3
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:34 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:34 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30030
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 4
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:34 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:34 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30050
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 6
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:34 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:34 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30060
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 7
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:34 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:34 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30070
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 8
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:34 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:34 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30010
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 2
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:34 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:34 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30020
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 3
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:34 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:34 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30030
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 4
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:34 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:34 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30050
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 6
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:34 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:34 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30060
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 7
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:34 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:34 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30070
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 8
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:34 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:35 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30010
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 2
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:35 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:35 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30020
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 3
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:35 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:35 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30030
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 4
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:35 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:35 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30050
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 6
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:35 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:35 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30060
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 7
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:35 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:35 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30070
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 8
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:35 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:35 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30010
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 2
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:35 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:35 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30020
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 3
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:35 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:35 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30030
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 4
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:35 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:35 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30050
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 6
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:35 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:35 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30060
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 7
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:35 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:35 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30070
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 8
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:35 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:36 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30010
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 2
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:36 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:36 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30020
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 3
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:36 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:36 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30030
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 4
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:36 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:36 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30050
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 6
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:36 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:36 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30060
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 7
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:36 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:36 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30070
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 8
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:36 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:36 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30010
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 2
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:36 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:36 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30020
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 3
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:36 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:36 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30030
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 4
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:36 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:36 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30050
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 6
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:36 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:36 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30060
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 7
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:36 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:36 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30070
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 8
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:36 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:36 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30010
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 2
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:36 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:36 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30020
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 3
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:36 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:36 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30030
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 4
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:36 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:36 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30050
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 6
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:36 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:36 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30060
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 7
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:36 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:36 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30070
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 8
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:36 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:37 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30010
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 2
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:37 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:37 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30020
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 3
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:37 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:37 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30030
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 4
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:37 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:37 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30050
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 6
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:37 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:37 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30060
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 7
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:37 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:37 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30070
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 8
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:37 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:37 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30020
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 3
+	Sender server state: O
+	Sender server ID: 3
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:37 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:37 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30010
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 2
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:37 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:37 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30030
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 4
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:37 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:37 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30050
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 6
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:37 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:37 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30060
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 7
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:37 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:37 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30020
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 5
+	Sender server state: O
+	Sender server ID: 3
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:37 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:37 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30070
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 8
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:37 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:38 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30010
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 2
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:38 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:38 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30030
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 4
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:38 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:38 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30050
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 6
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:38 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:38 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30020
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 5
+	Sender server state: O
+	Sender server ID: 3
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:38 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:38 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30060
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 7
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:38 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:38 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30070
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 8
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:38 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:38 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30010
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 2
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:38 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:38 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30020
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 5
+	Sender server state: O
+	Sender server ID: 3
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:38 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:38 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30030
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 4
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:38 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:38 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30050
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 6
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:38 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:38 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30060
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 7
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:38 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:38 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30070
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 8
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:38 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:39 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30020
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 5
+	Sender server state: O
+	Sender server ID: 3
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:39 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:39 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30010
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 2
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:39 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:39 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30030
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 4
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:39 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:39 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30050
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 6
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:39 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:39 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30060
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 7
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:39 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:39 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30070
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 8
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:39 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:39 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30010
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 2
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:39 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:39 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30030
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 4
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:39 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:39 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30050
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 6
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:39 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:39 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30060
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 7
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:39 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:39 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30070
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 8
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:39 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:39 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30020
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 5
+	Sender server state: O
+	Sender server ID: 3
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:39 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:40 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30010
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 2
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:40 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:40 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30030
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 4
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:40 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:40 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30050
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 6
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:40 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:40 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30060
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 7
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:40 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:40 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30070
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 8
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:40 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:40 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30030
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:39
+	ID:2 Heartbeat:30
+	ID:3 Heartbeat:22
+	ID:4 Heartbeat:35
+	ID:5 Heartbeat:31
+	ID:6 Heartbeat:37
+	ID:7 Heartbeat:32
+	ID:8 Heartbeat:24
+	ID:9 Heartbeat:26
+Oct 04, 2022 11:03:40 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:40 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30030
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 4
+	Sender server state: O
+	Sender server ID: 4
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:40 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:40 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30030
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 4
+	Sender server state: O
+	Sender server ID: 4
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:40 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:40 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30020
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 5
+	Sender server state: O
+	Sender server ID: 3
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:40 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:40 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30030
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 5
+	Sender server state: O
+	Sender server ID: 4
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:40 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:40 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30010
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 2
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:40 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:40 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30050
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 6
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:40 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:40 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30060
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 7
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:40 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:40 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30070
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 8
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:40 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:41 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30030
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 5
+	Sender server state: O
+	Sender server ID: 4
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:41 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:41 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30020
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 5
+	Sender server state: O
+	Sender server ID: 3
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:41 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:41 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30010
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 2
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:41 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:41 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30030
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 5
+	Sender server state: O
+	Sender server ID: 4
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:41 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:41 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30050
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 6
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:41 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:41 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30060
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 7
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:41 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:41 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30070
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 8
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:41 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:42 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30010
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 2
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:42 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:42 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30020
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 5
+	Sender server state: O
+	Sender server ID: 3
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:42 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:42 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30050
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 6
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:42 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:42 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30060
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 7
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:42 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:42 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30070
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 8
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:42 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:42 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30030
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 5
+	Sender server state: O
+	Sender server ID: 4
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:42 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:42 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30020
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 5
+	Sender server state: O
+	Sender server ID: 3
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:42 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:42 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30010
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 2
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:42 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:42 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30030
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 5
+	Sender server state: O
+	Sender server ID: 4
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:42 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:42 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30050
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 6
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:42 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:42 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30060
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 7
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:42 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:42 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30070
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 8
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:42 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:43 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30030
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 5
+	Sender server state: O
+	Sender server ID: 4
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:43 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:43 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30020
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 5
+	Sender server state: O
+	Sender server ID: 3
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:43 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:43 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30050
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:36
+	ID:2 Heartbeat:28
+	ID:3 Heartbeat:26
+	ID:4 Heartbeat:31
+	ID:5 Heartbeat:30
+	ID:6 Heartbeat:41
+	ID:7 Heartbeat:30
+	ID:8 Heartbeat:21
+	ID:9 Heartbeat:26
+Oct 04, 2022 11:03:43 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:43 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30060
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:38
+	ID:2 Heartbeat:33
+	ID:3 Heartbeat:28
+	ID:4 Heartbeat:31
+	ID:5 Heartbeat:32
+	ID:6 Heartbeat:36
+	ID:7 Heartbeat:35
+	ID:8 Heartbeat:26
+	ID:9 Heartbeat:26
+Oct 04, 2022 11:03:43 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:43 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30010
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:39
+	ID:2 Heartbeat:36
+	ID:3 Heartbeat:29
+	ID:4 Heartbeat:34
+	ID:5 Heartbeat:29
+	ID:6 Heartbeat:38
+	ID:7 Heartbeat:31
+	ID:8 Heartbeat:25
+	ID:9 Heartbeat:26
+Oct 04, 2022 11:03:43 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:43 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30060
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 7
+	Sender server state: O
+	Sender server ID: 7
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:43 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:43 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30020
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 7
+	Sender server state: O
+	Sender server ID: 3
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:43 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:43 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30030
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 7
+	Sender server state: O
+	Sender server ID: 4
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:43 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:43 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30010
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 2
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:43 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:43 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30050
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 6
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:43 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:43 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30070
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 8
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:43 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:43 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30060
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 7
+	Sender server state: O
+	Sender server ID: 7
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:43 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:43 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30030
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 7
+	Sender server state: O
+	Sender server ID: 4
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:43 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:43 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30020
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 7
+	Sender server state: O
+	Sender server ID: 3
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:43 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:44 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30010
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 2
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:44 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:44 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30020
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 7
+	Sender server state: O
+	Sender server ID: 3
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:44 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:44 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30030
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 7
+	Sender server state: O
+	Sender server ID: 4
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:44 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:44 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30050
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 6
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:44 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:44 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30070
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 8
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:44 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:44 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30060
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 7
+	Sender server state: O
+	Sender server ID: 7
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:44 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:44 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30010
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 2
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:44 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:44 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30050
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 6
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:44 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:44 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30060
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 7
+	Sender server state: O
+	Sender server ID: 7
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:44 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:44 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30070
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 8
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:44 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:45 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30030
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 7
+	Sender server state: O
+	Sender server ID: 4
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:45 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:45 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30020
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 7
+	Sender server state: O
+	Sender server ID: 3
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:45 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:45 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30030
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 7
+	Sender server state: O
+	Sender server ID: 4
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:45 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:45 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30060
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 7
+	Sender server state: O
+	Sender server ID: 7
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:45 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:45 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30010
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 2
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:45 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:45 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30050
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 6
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:45 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:45 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30070
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 8
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:45 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:45 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30010
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 2
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:45 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:45 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30020
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 7
+	Sender server state: O
+	Sender server ID: 3
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:45 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:45 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30060
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 7
+	Sender server state: O
+	Sender server ID: 7
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:45 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:45 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30050
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 6
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:45 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:45 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30070
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 8
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:45 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:45 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30030
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 7
+	Sender server state: O
+	Sender server ID: 4
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:45 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:46 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30010
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 2
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:46 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:46 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30050
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 6
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:46 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:46 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30020
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 7
+	Sender server state: O
+	Sender server ID: 3
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:46 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:46 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30070
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 8
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:46 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:46 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30060
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 7
+	Sender server state: O
+	Sender server ID: 7
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:46 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:46 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30020
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:40
+	ID:2 Heartbeat:30
+	ID:3 Heartbeat:31
+	ID:4 Heartbeat:36
+	ID:5 Heartbeat:31
+	ID:6 Heartbeat:39
+	ID:7 Heartbeat:32
+	ID:8 Heartbeat:24
+Oct 04, 2022 11:03:46 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:46 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30060
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:38
+	ID:2 Heartbeat:33
+	ID:3 Heartbeat:28
+	ID:4 Heartbeat:31
+	ID:5 Heartbeat:32
+	ID:6 Heartbeat:40
+	ID:7 Heartbeat:36
+	ID:8 Heartbeat:26
+Oct 04, 2022 11:03:46 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:46 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30010
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 2
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:46 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:46 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30030
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 7
+	Sender server state: O
+	Sender server ID: 4
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:46 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:46 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30050
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 6
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:46 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:46 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30070
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 8
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:46 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:46 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30020
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 7
+	Sender server state: O
+	Sender server ID: 3
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:46 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:46 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30060
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 7
+	Sender server state: O
+	Sender server ID: 7
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:46 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:47 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30010
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 2
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:47 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:47 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30030
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 7
+	Sender server state: O
+	Sender server ID: 4
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:47 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:47 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30050
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 6
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:47 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:47 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30070
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 8
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:47 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:47 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30020
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 7
+	Sender server state: O
+	Sender server ID: 3
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:47 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:47 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30060
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 7
+	Sender server state: O
+	Sender server ID: 7
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:47 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:47 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30010
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 2
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:47 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:47 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30030
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 7
+	Sender server state: O
+	Sender server ID: 4
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:47 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:47 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30050
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 6
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:47 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:47 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30070
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 8
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:47 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:47 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30060
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 7
+	Sender server state: O
+	Sender server ID: 7
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:47 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:48 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30020
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 7
+	Sender server state: O
+	Sender server ID: 3
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:48 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:48 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30010
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 2
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:48 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:48 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30050
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 6
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:48 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:48 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30070
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 8
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:48 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:48 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30030
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 7
+	Sender server state: O
+	Sender server ID: 4
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:48 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:48 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30060
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 7
+	Sender server state: O
+	Sender server ID: 7
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:48 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:48 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30010
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 2
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:48 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:48 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30050
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 6
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:48 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:48 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30070
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 8
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:48 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:48 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30060
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 7
+	Sender server state: O
+	Sender server ID: 7
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:48 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:48 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30030
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 7
+	Sender server state: O
+	Sender server ID: 4
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:48 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:48 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30020
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 7
+	Sender server state: O
+	Sender server ID: 3
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:48 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:49 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30060
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 7
+	Sender server state: O
+	Sender server ID: 7
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:49 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:49 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30020
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 7
+	Sender server state: O
+	Sender server ID: 3
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:49 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:49 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30010
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 2
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:49 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:49 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30050
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 6
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:49 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:49 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30070
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 8
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:49 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:49 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30030
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 7
+	Sender server state: O
+	Sender server ID: 4
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:49 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:49 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30020
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:40
+	ID:2 Heartbeat:30
+	ID:3 Heartbeat:32
+	ID:4 Heartbeat:36
+	ID:5 Heartbeat:31
+	ID:6 Heartbeat:39
+	ID:7 Heartbeat:32
+	ID:8 Heartbeat:24
+Oct 04, 2022 11:03:49 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:49 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30070
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 8
+	Sender server state: O
+	Sender server ID: 8
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:49 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:49 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30020
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 8
+	Sender server state: O
+	Sender server ID: 3
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:49 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:49 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30010
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 2
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:49 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:49 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30030
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 8
+	Sender server state: O
+	Sender server ID: 4
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:49 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:49 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30050
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 6
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:49 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:49 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30060
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 8
+	Sender server state: O
+	Sender server ID: 7
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:49 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:49 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30020
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 8
+	Sender server state: O
+	Sender server ID: 3
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:49 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:49 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30030
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 8
+	Sender server state: O
+	Sender server ID: 4
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:49 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:49 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30010
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 2
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:49 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:49 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30050
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 6
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:49 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:50 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30010
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 2
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:50 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:50 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30060
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 8
+	Sender server state: O
+	Sender server ID: 7
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:50 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:50 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30050
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 6
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:50 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:50 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30030
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 8
+	Sender server state: O
+	Sender server ID: 4
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:50 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:50 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30020
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 8
+	Sender server state: O
+	Sender server ID: 3
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:50 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:50 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30070
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 8
+	Sender server state: O
+	Sender server ID: 8
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:50 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:50 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30020
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 8
+	Sender server state: O
+	Sender server ID: 3
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:50 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:50 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30010
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 2
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:50 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:50 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30050
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 6
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:50 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:50 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30030
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 8
+	Sender server state: O
+	Sender server ID: 4
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:50 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:50 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30070
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 8
+	Sender server state: O
+	Sender server ID: 8
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:50 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:50 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30060
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 8
+	Sender server state: O
+	Sender server ID: 7
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:50 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:51 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30020
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 8
+	Sender server state: O
+	Sender server ID: 3
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:51 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:51 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30010
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 2
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:51 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:51 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30060
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 8
+	Sender server state: O
+	Sender server ID: 7
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:51 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:51 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30030
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 8
+	Sender server state: O
+	Sender server ID: 4
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:51 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:51 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30050
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 6
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:51 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:51 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30070
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 8
+	Sender server state: O
+	Sender server ID: 8
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:51 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:51 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30020
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 8
+	Sender server state: O
+	Sender server ID: 3
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:51 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:51 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30010
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 2
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:51 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:51 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30030
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 8
+	Sender server state: O
+	Sender server ID: 4
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:51 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:51 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30060
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 8
+	Sender server state: O
+	Sender server ID: 7
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:51 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:51 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30050
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 6
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:51 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:51 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30070
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 8
+	Sender server state: O
+	Sender server ID: 8
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:51 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:52 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30020
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 8
+	Sender server state: O
+	Sender server ID: 3
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:52 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:52 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30010
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 2
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:52 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:52 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30030
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 8
+	Sender server state: O
+	Sender server ID: 4
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:52 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:52 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30050
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 6
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:52 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:52 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30060
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 8
+	Sender server state: O
+	Sender server ID: 7
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:52 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:52 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30070
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 8
+	Sender server state: O
+	Sender server ID: 8
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:52 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:52 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30020
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 8
+	Sender server state: O
+	Sender server ID: 3
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:52 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:52 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30010
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 2
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:52 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:52 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30050
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 6
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:52 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:52 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30070
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 8
+	Sender server state: O
+	Sender server ID: 8
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:52 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:52 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30030
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 8
+	Sender server state: O
+	Sender server ID: 4
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:52 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:52 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30010
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:42
+	ID:2 Heartbeat:39
+	ID:3 Heartbeat:31
+	ID:4 Heartbeat:34
+	ID:5 Heartbeat:29
+	ID:6 Heartbeat:38
+	ID:7 Heartbeat:31
+	ID:8 Heartbeat:27
+	ID:9 Heartbeat:26
+Oct 04, 2022 11:03:52 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:52 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30010
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 2
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:52 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:52 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30020
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 8
+	Sender server state: O
+	Sender server ID: 3
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:52 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:52 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30050
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 6
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:52 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:52 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30070
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 8
+	Sender server state: O
+	Sender server ID: 8
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:52 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:52 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30060
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 8
+	Sender server state: O
+	Sender server ID: 7
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:52 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:53 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30020
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 8
+	Sender server state: O
+	Sender server ID: 3
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:53 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:53 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30010
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 2
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:53 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:53 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30030
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 8
+	Sender server state: O
+	Sender server ID: 4
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:53 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:53 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30060
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 8
+	Sender server state: O
+	Sender server ID: 7
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:53 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:53 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30050
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 6
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:53 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:53 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30020
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 8
+	Sender server state: O
+	Sender server ID: 3
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:53 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:53 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30030
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 8
+	Sender server state: O
+	Sender server ID: 4
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:53 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:53 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30070
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 8
+	Sender server state: O
+	Sender server ID: 8
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:53 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:54 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30030
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 8
+	Sender server state: O
+	Sender server ID: 4
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:54 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:54 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30010
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 2
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:54 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:54 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30050
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 6
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:54 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:54 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30070
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 8
+	Sender server state: O
+	Sender server ID: 8
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:54 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:54 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30020
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 8
+	Sender server state: O
+	Sender server ID: 3
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:54 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:54 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30060
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 8
+	Sender server state: O
+	Sender server ID: 7
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:54 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:54 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30010
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 2
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:54 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:54 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30030
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 8
+	Sender server state: O
+	Sender server ID: 4
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:54 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:54 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30070
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 8
+	Sender server state: O
+	Sender server ID: 8
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:54 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:54 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30050
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 6
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:54 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:54 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30060
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 8
+	Sender server state: O
+	Sender server ID: 7
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:54 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:54 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30020
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 8
+	Sender server state: O
+	Sender server ID: 3
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:54 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:54 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30010
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 2
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:54 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:54 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30060
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 8
+	Sender server state: O
+	Sender server ID: 7
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:54 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:54 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30070
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 8
+	Sender server state: O
+	Sender server ID: 8
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:54 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:54 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30050
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 6
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:54 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:54 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30030
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 8
+	Sender server state: O
+	Sender server ID: 4
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:54 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:55 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30010
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 2
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:55 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:55 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30020
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 8
+	Sender server state: O
+	Sender server ID: 3
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:55 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:55 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30050
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 6
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:55 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:55 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30070
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 8
+	Sender server state: O
+	Sender server ID: 8
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:55 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:55 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30060
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 8
+	Sender server state: O
+	Sender server ID: 7
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:55 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:55 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30070
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:42
+	ID:2 Heartbeat:38
+	ID:3 Heartbeat:29
+	ID:4 Heartbeat:35
+	ID:5 Heartbeat:33
+	ID:6 Heartbeat:40
+	ID:7 Heartbeat:37
+	ID:8 Heartbeat:30
+Oct 04, 2022 11:03:55 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:55 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30010
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 2
+	Sender server state: O
+	Sender server ID: 2
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:55 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:55 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8890
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: -1
+	Sender server state: B
+	Sender server ID: -1
+	Sender peer epoch: -1
+Oct 04, 2022 11:03:55 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:55 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8890
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: -1
+	Sender server state: B
+	Sender server ID: -1
+	Sender peer epoch: -1
+Oct 04, 2022 11:03:55 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:55 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8890
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: -1
+	Sender server state: B
+	Sender server ID: -1
+	Sender peer epoch: -1
+Oct 04, 2022 11:03:55 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:55 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 8890
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: -1
+	Sender server state: B
+	Sender server ID: -1
+	Sender peer epoch: -1
+Oct 04, 2022 11:03:55 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:55 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30010
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 2
+	Sender server state: O
+	Sender server ID: 2
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:55 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:55 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30030
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 8
+	Sender server state: O
+	Sender server ID: 4
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:55 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:55 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30010
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 8
+	Sender server state: O
+	Sender server ID: 2
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:55 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:55 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30020
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 8
+	Sender server state: O
+	Sender server ID: 3
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:55 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:55 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30050
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 9
+	Sender server state: F
+	Sender server ID: 6
+	Sender peer epoch: 1
+Oct 04, 2022 11:03:55 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:56 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30010
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 8
+	Sender server state: O
+	Sender server ID: 2
+	Sender peer epoch: 2
+Oct 04, 2022 11:03:56 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:03:58 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 8890
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:48
+	ID:2 Heartbeat:33
+	ID:3 Heartbeat:24
+	ID:4 Heartbeat:32
+	ID:5 Heartbeat:29
+	ID:6 Heartbeat:33
+	ID:7 Heartbeat:29
+	ID:8 Heartbeat:23
+Oct 04, 2022 11:03:58 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:04:01 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30050
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 6
+	Sender server state: O
+	Sender server ID: 6
+	Sender peer epoch: 2
+Oct 04, 2022 11:04:01 AM edu.yu.cs.com3800.UDPMessageReceiver sendElectionReply
+FINE: Election reply sent:
+Message Type: ELECTION
+Sender Host: localhost
+Sender port: 30040
+Receiver Host: localhost
+Receiver port: 30050
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+	Leader voted for: 8
+	Sender server state: F
+	Sender server ID: 5
+	Sender peer epoch: 2
+Oct 04, 2022 11:04:01 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:04:01 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30010
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:42
+	ID:2 Heartbeat:42
+	ID:3 Heartbeat:31
+	ID:4 Heartbeat:37
+	ID:5 Heartbeat:34
+	ID:6 Heartbeat:42
+	ID:7 Heartbeat:34
+	ID:8 Heartbeat:27
+Oct 04, 2022 11:04:01 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:04:04 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:04:07 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:04:07 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30020
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:50
+	ID:2 Heartbeat:36
+	ID:3 Heartbeat:35
+	ID:4 Heartbeat:36
+	ID:5 Heartbeat:38
+	ID:6 Heartbeat:41
+	ID:7 Heartbeat:36
+	ID:8 Heartbeat:26
+Oct 04, 2022 11:04:07 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:04:10 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30050
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:43
+	ID:2 Heartbeat:41
+	ID:3 Heartbeat:32
+	ID:4 Heartbeat:38
+	ID:5 Heartbeat:39
+	ID:6 Heartbeat:50
+	ID:7 Heartbeat:40
+	ID:8 Heartbeat:29
+Oct 04, 2022 11:04:10 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:04:13 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:04:13 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 8890
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:53
+	ID:2 Heartbeat:34
+	ID:3 Heartbeat:24
+	ID:4 Heartbeat:33
+	ID:5 Heartbeat:32
+	ID:6 Heartbeat:37
+	ID:7 Heartbeat:33
+	ID:8 Heartbeat:26
+Oct 04, 2022 11:04:13 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:04:16 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30060
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:49
+	ID:2 Heartbeat:46
+	ID:3 Heartbeat:32
+	ID:4 Heartbeat:42
+	ID:5 Heartbeat:42
+	ID:6 Heartbeat:48
+	ID:7 Heartbeat:45
+	ID:8 Heartbeat:30
+Oct 04, 2022 11:04:16 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:04:16 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 8890
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:54
+	ID:2 Heartbeat:34
+	ID:3 Heartbeat:30
+	ID:4 Heartbeat:33
+	ID:5 Heartbeat:32
+	ID:6 Heartbeat:37
+	ID:7 Heartbeat:33
+	ID:8 Heartbeat:26
+Oct 04, 2022 11:04:16 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:04:19 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30010
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:47
+	ID:2 Heartbeat:48
+	ID:3 Heartbeat:31
+	ID:4 Heartbeat:37
+	ID:5 Heartbeat:36
+	ID:6 Heartbeat:44
+	ID:7 Heartbeat:38
+	ID:8 Heartbeat:28
+Oct 04, 2022 11:04:19 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:04:22 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:04:25 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30010
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:47
+	ID:2 Heartbeat:50
+	ID:3 Heartbeat:34
+	ID:4 Heartbeat:38
+	ID:5 Heartbeat:38
+	ID:6 Heartbeat:44
+	ID:7 Heartbeat:38
+	ID:8 Heartbeat:31
+Oct 04, 2022 11:04:25 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:04:25 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30060
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:49
+	ID:2 Heartbeat:46
+	ID:3 Heartbeat:33
+	ID:4 Heartbeat:42
+	ID:5 Heartbeat:42
+	ID:6 Heartbeat:54
+	ID:7 Heartbeat:46
+	ID:8 Heartbeat:35
+Oct 04, 2022 11:04:25 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:04:25 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30030
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:53
+	ID:2 Heartbeat:42
+	ID:3 Heartbeat:35
+	ID:4 Heartbeat:45
+	ID:5 Heartbeat:46
+	ID:6 Heartbeat:50
+	ID:7 Heartbeat:41
+	ID:8 Heartbeat:32
+Oct 04, 2022 11:04:25 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:04:25 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30070
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:50
+	ID:2 Heartbeat:43
+	ID:3 Heartbeat:36
+	ID:4 Heartbeat:40
+	ID:5 Heartbeat:43
+	ID:6 Heartbeat:51
+	ID:7 Heartbeat:42
+	ID:8 Heartbeat:40
+Oct 04, 2022 11:04:25 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:04:25 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 8890
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:57
+	ID:2 Heartbeat:42
+	ID:3 Heartbeat:35
+	ID:4 Heartbeat:43
+	ID:5 Heartbeat:45
+	ID:6 Heartbeat:50
+	ID:7 Heartbeat:41
+	ID:8 Heartbeat:30
+Oct 04, 2022 11:04:25 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:04:28 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:04:31 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30010
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:47
+	ID:2 Heartbeat:52
+	ID:3 Heartbeat:35
+	ID:4 Heartbeat:41
+	ID:5 Heartbeat:38
+	ID:6 Heartbeat:45
+	ID:7 Heartbeat:39
+	ID:8 Heartbeat:31
+Oct 04, 2022 11:04:31 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:04:34 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:04:34 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 8890
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:60
+	ID:2 Heartbeat:46
+	ID:3 Heartbeat:35
+	ID:4 Heartbeat:45
+	ID:5 Heartbeat:45
+	ID:6 Heartbeat:50
+	ID:7 Heartbeat:46
+	ID:8 Heartbeat:32
+Oct 04, 2022 11:04:34 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:04:34 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30020
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:55
+	ID:2 Heartbeat:49
+	ID:3 Heartbeat:44
+	ID:4 Heartbeat:46
+	ID:5 Heartbeat:46
+	ID:6 Heartbeat:50
+	ID:7 Heartbeat:43
+	ID:8 Heartbeat:37
+Oct 04, 2022 11:04:34 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:04:37 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:04:40 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30030
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:59
+	ID:2 Heartbeat:50
+	ID:3 Heartbeat:38
+	ID:4 Heartbeat:50
+	ID:5 Heartbeat:50
+	ID:6 Heartbeat:56
+	ID:7 Heartbeat:47
+	ID:8 Heartbeat:35
+Oct 04, 2022 11:04:40 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:04:43 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30010
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:52
+	ID:2 Heartbeat:56
+	ID:3 Heartbeat:37
+	ID:4 Heartbeat:41
+	ID:5 Heartbeat:41
+	ID:6 Heartbeat:49
+	ID:7 Heartbeat:41
+	ID:8 Heartbeat:36
+Oct 04, 2022 11:04:43 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:04:43 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30030
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:59
+	ID:2 Heartbeat:53
+	ID:3 Heartbeat:38
+	ID:4 Heartbeat:51
+	ID:5 Heartbeat:50
+	ID:6 Heartbeat:56
+	ID:7 Heartbeat:47
+	ID:8 Heartbeat:35
+Oct 04, 2022 11:04:43 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:04:43 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30020
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:58
+	ID:2 Heartbeat:49
+	ID:3 Heartbeat:47
+	ID:4 Heartbeat:48
+	ID:5 Heartbeat:46
+	ID:6 Heartbeat:56
+	ID:7 Heartbeat:48
+	ID:8 Heartbeat:37
+Oct 04, 2022 11:04:43 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:04:46 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:04:49 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 8890
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:63
+	ID:2 Heartbeat:54
+	ID:3 Heartbeat:39
+	ID:4 Heartbeat:45
+	ID:5 Heartbeat:52
+	ID:6 Heartbeat:59
+	ID:7 Heartbeat:46
+	ID:8 Heartbeat:39
+Oct 04, 2022 11:04:49 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:04:52 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:04:55 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:04:55 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30070
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:55
+	ID:2 Heartbeat:51
+	ID:3 Heartbeat:43
+	ID:4 Heartbeat:45
+	ID:5 Heartbeat:49
+	ID:6 Heartbeat:53
+	ID:7 Heartbeat:45
+	ID:8 Heartbeat:50
+Oct 04, 2022 11:04:55 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:04:58 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 8890
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:66
+	ID:2 Heartbeat:54
+	ID:3 Heartbeat:39
+	ID:4 Heartbeat:45
+	ID:5 Heartbeat:55
+	ID:6 Heartbeat:59
+	ID:7 Heartbeat:46
+	ID:8 Heartbeat:40
+Oct 04, 2022 11:04:58 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:05:01 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:05:04 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:05:07 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:05:10 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30050
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:65
+	ID:2 Heartbeat:57
+	ID:3 Heartbeat:46
+	ID:4 Heartbeat:57
+	ID:5 Heartbeat:57
+	ID:6 Heartbeat:66
+	ID:7 Heartbeat:56
+	ID:8 Heartbeat:52
+Oct 04, 2022 11:05:10 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:05:10 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30020
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:65
+	ID:2 Heartbeat:59
+	ID:3 Heartbeat:56
+	ID:4 Heartbeat:55
+	ID:5 Heartbeat:57
+	ID:6 Heartbeat:63
+	ID:7 Heartbeat:56
+	ID:8 Heartbeat:51
+Oct 04, 2022 11:05:10 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:05:13 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30050
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:68
+	ID:2 Heartbeat:57
+	ID:3 Heartbeat:46
+	ID:4 Heartbeat:57
+	ID:5 Heartbeat:57
+	ID:6 Heartbeat:67
+	ID:7 Heartbeat:56
+	ID:8 Heartbeat:52
+Oct 04, 2022 11:05:13 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:05:16 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:05:16 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30030
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:64
+	ID:2 Heartbeat:60
+	ID:3 Heartbeat:49
+	ID:4 Heartbeat:62
+	ID:5 Heartbeat:58
+	ID:6 Heartbeat:61
+	ID:7 Heartbeat:55
+	ID:8 Heartbeat:47
+Oct 04, 2022 11:05:16 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:05:16 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30020
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:65
+	ID:2 Heartbeat:65
+	ID:3 Heartbeat:58
+	ID:4 Heartbeat:60
+	ID:5 Heartbeat:57
+	ID:6 Heartbeat:63
+	ID:7 Heartbeat:56
+	ID:8 Heartbeat:51
+Oct 04, 2022 11:05:16 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:05:19 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30070
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:62
+	ID:2 Heartbeat:58
+	ID:3 Heartbeat:51
+	ID:4 Heartbeat:54
+	ID:5 Heartbeat:56
+	ID:6 Heartbeat:62
+	ID:7 Heartbeat:51
+	ID:8 Heartbeat:58
+Oct 04, 2022 11:05:19 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:05:19 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30050
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:68
+	ID:2 Heartbeat:66
+	ID:3 Heartbeat:46
+	ID:4 Heartbeat:57
+	ID:5 Heartbeat:57
+	ID:6 Heartbeat:69
+	ID:7 Heartbeat:56
+	ID:8 Heartbeat:52
+Oct 04, 2022 11:05:19 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:05:19 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30060
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:70
+	ID:2 Heartbeat:63
+	ID:3 Heartbeat:53
+	ID:4 Heartbeat:56
+	ID:5 Heartbeat:60
+	ID:6 Heartbeat:62
+	ID:7 Heartbeat:62
+	ID:8 Heartbeat:56
+Oct 04, 2022 11:05:19 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:05:22 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30050
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:68
+	ID:2 Heartbeat:66
+	ID:3 Heartbeat:53
+	ID:4 Heartbeat:57
+	ID:5 Heartbeat:60
+	ID:6 Heartbeat:70
+	ID:7 Heartbeat:60
+	ID:8 Heartbeat:53
+Oct 04, 2022 11:05:22 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:05:25 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:05:28 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:05:28 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30070
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:62
+	ID:2 Heartbeat:59
+	ID:3 Heartbeat:52
+	ID:4 Heartbeat:54
+	ID:5 Heartbeat:59
+	ID:6 Heartbeat:62
+	ID:7 Heartbeat:51
+	ID:8 Heartbeat:61
+Oct 04, 2022 11:05:28 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:05:31 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30070
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:62
+	ID:2 Heartbeat:62
+	ID:3 Heartbeat:52
+	ID:4 Heartbeat:54
+	ID:5 Heartbeat:59
+	ID:6 Heartbeat:62
+	ID:7 Heartbeat:51
+	ID:8 Heartbeat:62
+Oct 04, 2022 11:05:31 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:05:31 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30020
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:70
+	ID:2 Heartbeat:65
+	ID:3 Heartbeat:63
+	ID:4 Heartbeat:60
+	ID:5 Heartbeat:64
+	ID:6 Heartbeat:68
+	ID:7 Heartbeat:63
+	ID:8 Heartbeat:57
+Oct 04, 2022 11:05:31 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet
+Oct 04, 2022 11:05:31 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: UDP packet received:
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30060
+Receiver Host: localhost
+Receiver port: 30040
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:70
+	ID:2 Heartbeat:70
+	ID:3 Heartbeat:57
+	ID:4 Heartbeat:65
+	ID:5 Heartbeat:60
+	ID:6 Heartbeat:64
+	ID:7 Heartbeat:66
+	ID:8 Heartbeat:56
+Oct 04, 2022 11:05:31 AM edu.yu.cs.com3800.UDPMessageReceiver run
+FINE: Waiting for packet

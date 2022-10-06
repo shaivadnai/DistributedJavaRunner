@@ -1,0 +1,22 @@
+Oct 04, 2022 11:01:31 AM edu.yu.cs.com3800.LoggingServer fileHandler
+INFO: Logging to file begins:
+Oct 04, 2022 11:01:31 AM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: Started UDP Receiver
+Oct 04, 2022 11:01:31 AM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: Started UDP Sender
+Oct 04, 2022 11:01:31 AM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: Entered looking case
+Oct 04, 2022 11:01:31 AM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: Found leader 9 and I'm a FOLLOWING
+Oct 04, 2022 11:01:32 AM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: Cleared incoming message queue
+Oct 04, 2022 11:01:32 AM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: Starting JavaRunner Thread
+Oct 04, 2022 11:04:01 AM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: Leader died, new election starting
+Oct 04, 2022 11:04:01 AM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: Entered looking case
+Oct 04, 2022 11:04:01 AM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: Found leader 8 and I'm a FOLLOWING
+Oct 04, 2022 11:04:01 AM edu.yu.cs.com3800.stage5.ZooKeeperPeerServerImpl run
+INFO: Cleared incoming message queue

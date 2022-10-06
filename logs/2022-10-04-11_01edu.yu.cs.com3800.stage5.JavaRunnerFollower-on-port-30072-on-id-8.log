@@ -1,0 +1,1006 @@
+Oct 04, 2022 11:01:32 AM edu.yu.cs.com3800.LoggingServer fileHandler
+INFO: Logging to file begins:
+Oct 04, 2022 11:01:32 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:32 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:32 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:32 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:32 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:33 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:33 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:33 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:33 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:33 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:34 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+INFO: Received WORK message from localhost30082 with RequestID 8
+Oct 04, 2022 11:01:34 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+INFO: Compiling request src code
+Oct 04, 2022 11:01:35 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+INFO: Compileandrun succesful
+Oct 04, 2022 11:01:35 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+INFO: Response body: 8 Follower
+Oct 04, 2022 11:01:35 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+INFO: Sending response to leader
+Oct 04, 2022 11:01:35 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+INFO: Send successful
+Oct 04, 2022 11:01:36 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:36 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:36 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+INFO: Received WORK message from localhost30082 with RequestID 14
+Oct 04, 2022 11:01:36 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+INFO: Compiling request src code
+Oct 04, 2022 11:01:36 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+INFO: Compileandrun succesful
+Oct 04, 2022 11:01:36 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+INFO: Response body: 8 Follower
+Oct 04, 2022 11:01:36 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+INFO: Sending response to leader
+Oct 04, 2022 11:01:36 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+INFO: Send successful
+Oct 04, 2022 11:01:36 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:36 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:36 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:37 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:37 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:37 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:37 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:37 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:37 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:38 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:38 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:38 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:38 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:38 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:38 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:38 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:39 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:39 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:39 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:39 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:39 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:39 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:40 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:40 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:40 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:40 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:40 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:40 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:40 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:41 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:41 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:41 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:41 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:41 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:41 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:41 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:42 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:42 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:42 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:42 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:42 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:42 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:43 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:43 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:43 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:43 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:43 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:43 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:43 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:44 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:44 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:44 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:44 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:44 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:44 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:45 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:45 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:45 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:45 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:45 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:45 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:45 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:46 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:46 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:46 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:46 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:46 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:46 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:46 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:47 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:47 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:47 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:47 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:47 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:47 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:48 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:48 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:48 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:48 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:48 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:48 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:48 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:49 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:49 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:49 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:49 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:49 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:49 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:49 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:50 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:50 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:50 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:50 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:50 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:50 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:51 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:51 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:51 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:51 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:51 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:51 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:51 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:52 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:52 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:52 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:52 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:52 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:52 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:52 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:53 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:53 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:53 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:53 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:53 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:53 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:54 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:54 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:54 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:54 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:54 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:54 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:54 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:55 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:55 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:55 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:55 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:55 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:55 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:55 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:56 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:56 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:56 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:56 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:56 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:56 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:57 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:57 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:57 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:57 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:57 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:57 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:57 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:58 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:58 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:58 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:58 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:58 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:58 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:59 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:59 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:59 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:59 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:59 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:59 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:01:59 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:00 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:00 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:00 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:00 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:00 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:00 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:00 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:01 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:01 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:01 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:01 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:01 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:01 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:02 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:02 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:02 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:02 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:02 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:02 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:02 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:03 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:03 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:03 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:03 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:03 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:03 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:03 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:04 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:04 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:04 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:04 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:04 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:04 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:05 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:05 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:05 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:05 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:05 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:05 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:05 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:06 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:06 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:06 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:06 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:06 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:06 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:06 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:07 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:07 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:07 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:07 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:07 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:07 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:08 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:08 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:08 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:08 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:08 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:08 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:08 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:09 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:09 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:09 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:09 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:09 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:09 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:09 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:10 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:10 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:10 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:10 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:10 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:10 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:11 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:11 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:11 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:11 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:11 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:11 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:11 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:12 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:12 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:12 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:12 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:12 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:12 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:12 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:13 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:13 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:13 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:13 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:13 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:13 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:14 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:14 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:14 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:14 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:14 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:14 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:14 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:15 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:15 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:15 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:15 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:15 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:15 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:16 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:16 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:16 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:16 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:16 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:16 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:16 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:17 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:17 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:17 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:17 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:17 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:17 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:17 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:18 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:18 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:18 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:18 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:18 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:18 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:19 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:19 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:19 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:19 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:19 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:19 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:19 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:20 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:20 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:20 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:20 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:20 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:20 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:20 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:21 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:21 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:21 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:21 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:21 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:21 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:22 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:22 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:22 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:22 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:22 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:22 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:22 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:23 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:23 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:23 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:23 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:23 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:23 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:23 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:24 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:24 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:24 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:24 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:24 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:24 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:25 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:25 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:25 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:25 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:25 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:25 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:25 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:26 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:26 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:26 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:26 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:26 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:26 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:26 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:27 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:27 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:27 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:27 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+INFO: Received WORK message from localhost30082 with RequestID 17
+Oct 04, 2022 11:02:27 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+INFO: Compiling request src code
+Oct 04, 2022 11:02:27 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+INFO: Compileandrun succesful
+Oct 04, 2022 11:02:27 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+INFO: Response body: 8 Follower
+Oct 04, 2022 11:02:27 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+INFO: Sending response to leader
+Oct 04, 2022 11:02:27 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+INFO: Send successful
+Oct 04, 2022 11:02:28 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+INFO: Received WORK message from localhost30082 with RequestID 24
+Oct 04, 2022 11:02:28 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+INFO: Compiling request src code
+Oct 04, 2022 11:02:28 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+INFO: Compileandrun succesful
+Oct 04, 2022 11:02:28 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+INFO: Response body: 8 Follower
+Oct 04, 2022 11:02:28 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+INFO: Sending response to leader
+Oct 04, 2022 11:02:28 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+INFO: Send successful
+Oct 04, 2022 11:02:28 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:28 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:28 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:28 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:29 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:29 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:29 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:29 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:29 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:29 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+INFO: Received WORK message from localhost30082 with RequestID 31
+Oct 04, 2022 11:02:29 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+INFO: Compiling request src code
+Oct 04, 2022 11:02:29 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINE: Compileandrun unsuccesful
+Oct 04, 2022 11:02:29 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+INFO: Response body: Code did not compile:
+Error on line 1, column 96 in string:///HelloWorld.java
+
+java.lang.IllegalArgumentException: Code did not compile:
+Error on line 1, column 96 in string:///HelloWorld.java
+
+	at edu.yu.cs.com3800.JavaRunner.compileFromString(JavaRunner.java:104)
+	at edu.yu.cs.com3800.JavaRunner.compileAndRun(JavaRunner.java:78)
+	at edu.yu.cs.com3800.stage5.JavaRunnerFollower.run(JavaRunnerFollower.java:103)
+	at java.base/java.lang.Thread.run(Thread.java:829)
+
+Oct 04, 2022 11:02:29 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+INFO: Sending response to leader
+Oct 04, 2022 11:02:29 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+INFO: Send successful
+Oct 04, 2022 11:02:29 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:30 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:30 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:30 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:30 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:30 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:30 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:30 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:31 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:31 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:31 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:31 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:31 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:31 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:31 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+INFO: Received WORK message from localhost30082 with RequestID 38
+Oct 04, 2022 11:02:31 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+INFO: Compiling request src code
+Oct 04, 2022 11:02:32 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+INFO: Compileandrun succesful
+Oct 04, 2022 11:02:32 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+INFO: Response body: 12
+Oct 04, 2022 11:02:32 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+INFO: Sending response to leader
+Oct 04, 2022 11:02:32 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+INFO: Send successful
+Oct 04, 2022 11:02:32 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:32 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+INFO: Received WORK message from localhost30082 with RequestID 45
+Oct 04, 2022 11:02:32 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+INFO: Compiling request src code
+Oct 04, 2022 11:02:32 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+INFO: Compileandrun succesful
+Oct 04, 2022 11:02:32 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+INFO: Response body: 8
+Oct 04, 2022 11:02:32 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+INFO: Sending response to leader
+Oct 04, 2022 11:02:32 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+INFO: Send successful
+Oct 04, 2022 11:02:32 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:32 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:33 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:33 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:33 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:33 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:33 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:33 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:34 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:34 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:34 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:34 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:34 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:34 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:34 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:35 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:35 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:35 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:35 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:35 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:35 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:36 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:36 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:36 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:36 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:36 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:36 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:36 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:37 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:37 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:37 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:37 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:37 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:37 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:37 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:38 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:38 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:38 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:38 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:38 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:38 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+INFO: Received WORK message from localhost30082 with RequestID 52
+Oct 04, 2022 11:02:38 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+INFO: Compiling request src code
+Oct 04, 2022 11:02:38 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+INFO: Compileandrun succesful
+Oct 04, 2022 11:02:38 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+INFO: Response body: happyShortSingleLine
+Oct 04, 2022 11:02:38 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+INFO: Sending response to leader
+Oct 04, 2022 11:02:38 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+INFO: Send successful
+Oct 04, 2022 11:02:39 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:39 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:39 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:39 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:39 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:39 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:39 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:40 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:40 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:40 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:40 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:40 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:40 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:41 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:41 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:41 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:41 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:41 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:41 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:41 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:42 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:42 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:42 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:42 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:42 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:42 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:42 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:43 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+FINEST: server socket timed out while waiting to accept connection - looping
+Oct 04, 2022 11:02:43 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+INFO: Received WORK message from localhost30082 with RequestID 57
+Oct 04, 2022 11:02:43 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+INFO: Compiling request src code
+Oct 04, 2022 11:04:13 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+INFO: Compileandrun succesful
+Oct 04, 2022 11:04:13 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+INFO: Response body: 8 Follower
+Oct 04, 2022 11:04:13 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+INFO: Sending response to leader
+Oct 04, 2022 11:04:13 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+INFO: Leader went down before could send response, looping and waiting
+Oct 04, 2022 11:04:13 AM edu.yu.cs.com3800.stage5.JavaRunnerFollower run
+SEVERE: Exiting Run Method - Shutdown

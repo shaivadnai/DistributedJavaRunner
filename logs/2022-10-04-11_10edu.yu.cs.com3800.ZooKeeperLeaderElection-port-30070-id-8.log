@@ -1,0 +1,58 @@
+Oct 04, 2022 11:10:06 AM edu.yu.cs.com3800.LoggingServer fileHandler
+INFO: Logging to file begins:
+Oct 04, 2022 11:10:06 AM edu.yu.cs.com3800.ZooKeeperLeaderElection lookForLeader
+INFO: Sent initial vote for myself
+Oct 04, 2022 11:10:06 AM edu.yu.cs.com3800.ZooKeeperLeaderElection lookForLeader
+INFO: Got notification from 1 who is LOOKING and voting for 1
+Oct 04, 2022 11:10:06 AM edu.yu.cs.com3800.ZooKeeperLeaderElection lookForLeader
+INFO: Got notification from 6 who is LOOKING and voting for 6
+Oct 04, 2022 11:10:06 AM edu.yu.cs.com3800.ZooKeeperLeaderElection lookForLeader
+INFO: Got notification from 7 who is LOOKING and voting for 7
+Oct 04, 2022 11:10:06 AM edu.yu.cs.com3800.ZooKeeperLeaderElection lookForLeader
+INFO: Got notification from 3 who is LOOKING and voting for 3
+Oct 04, 2022 11:10:06 AM edu.yu.cs.com3800.ZooKeeperLeaderElection lookForLeader
+INFO: Got notification from 4 who is LOOKING and voting for 4
+Oct 04, 2022 11:10:06 AM edu.yu.cs.com3800.ZooKeeperLeaderElection lookForLeader
+INFO: Got notification from 5 who is LOOKING and voting for 5
+Oct 04, 2022 11:10:06 AM edu.yu.cs.com3800.ZooKeeperLeaderElection lookForLeader
+INFO: Got notification from 2 who is LOOKING and voting for 2
+Oct 04, 2022 11:10:06 AM edu.yu.cs.com3800.ZooKeeperLeaderElection lookForLeader
+INFO: Got notification from -1 who is OBSERVER and voting for -1
+Oct 04, 2022 11:10:06 AM edu.yu.cs.com3800.ZooKeeperLeaderElection lookForLeader
+INFO: Got notification from 9 who is LOOKING and voting for 9
+Oct 04, 2022 11:10:06 AM edu.yu.cs.com3800.ZooKeeperLeaderElection lookForLeader
+INFO: changed my vote to 9
+Oct 04, 2022 11:10:06 AM edu.yu.cs.com3800.ZooKeeperLeaderElection lookForLeader
+INFO: Got notification from 4 who is LOOKING and voting for 6
+Oct 04, 2022 11:10:06 AM edu.yu.cs.com3800.ZooKeeperLeaderElection lookForLeader
+INFO: Got notification from 1 who is LOOKING and voting for 9
+Oct 04, 2022 11:10:06 AM edu.yu.cs.com3800.ZooKeeperLeaderElection lookForLeader
+INFO: Got notification from 7 who is LOOKING and voting for 9
+Oct 04, 2022 11:10:06 AM edu.yu.cs.com3800.ZooKeeperLeaderElection lookForLeader
+INFO: Got notification from 2 who is LOOKING and voting for 6
+Oct 04, 2022 11:10:06 AM edu.yu.cs.com3800.ZooKeeperLeaderElection lookForLeader
+INFO: Got notification from 3 who is LOOKING and voting for 6
+Oct 04, 2022 11:10:06 AM edu.yu.cs.com3800.ZooKeeperLeaderElection lookForLeader
+INFO: Got notification from -1 who is OBSERVER and voting for -1
+Oct 04, 2022 11:10:06 AM edu.yu.cs.com3800.ZooKeeperLeaderElection lookForLeader
+INFO: Got notification from 5 who is LOOKING and voting for 6
+Oct 04, 2022 11:10:06 AM edu.yu.cs.com3800.ZooKeeperLeaderElection lookForLeader
+INFO: Got notification from 4 who is LOOKING and voting for 7
+Oct 04, 2022 11:10:06 AM edu.yu.cs.com3800.ZooKeeperLeaderElection lookForLeader
+INFO: Got notification from 6 who is LOOKING and voting for 7
+Oct 04, 2022 11:10:06 AM edu.yu.cs.com3800.ZooKeeperLeaderElection lookForLeader
+INFO: Got notification from 5 who is LOOKING and voting for 7
+Oct 04, 2022 11:10:06 AM edu.yu.cs.com3800.ZooKeeperLeaderElection lookForLeader
+INFO: Got notification from 6 who is LOOKING and voting for 8
+Oct 04, 2022 11:10:06 AM edu.yu.cs.com3800.ZooKeeperLeaderElection lookForLeader
+INFO: Got notification from 2 who is LOOKING and voting for 7
+Oct 04, 2022 11:10:06 AM edu.yu.cs.com3800.ZooKeeperLeaderElection lookForLeader
+INFO: Got notification from 2 who is LOOKING and voting for 9
+Oct 04, 2022 11:10:06 AM edu.yu.cs.com3800.ZooKeeperLeaderElection lookForLeader
+INFO: Got notification from 5 who is LOOKING and voting for 8
+Oct 04, 2022 11:10:06 AM edu.yu.cs.com3800.ZooKeeperLeaderElection lookForLeader
+INFO: Got notification from 6 who is LOOKING and voting for 9
+Oct 04, 2022 11:10:06 AM edu.yu.cs.com3800.ZooKeeperLeaderElection lookForLeader
+INFO: There are enough votes for my current proposed leader 9. Checking if next message is for higher leader
+Oct 04, 2022 11:10:06 AM edu.yu.cs.com3800.ZooKeeperLeaderElection lookForLeader
+INFO: There was no higher server in the queue, accepting election

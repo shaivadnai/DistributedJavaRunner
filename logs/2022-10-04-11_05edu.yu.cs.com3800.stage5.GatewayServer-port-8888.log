@@ -1,0 +1,12 @@
+Oct 04, 2022 11:05:46 AM edu.yu.cs.com3800.LoggingServer fileHandler
+INFO: Logging to file begins:
+Oct 04, 2022 11:08:29 AM edu.yu.cs.com3800.stage5.GatewayServer$ServerHttpHandler sendAndGetResponse
+INFO: leader failed, going to resend
+Oct 04, 2022 11:08:29 AM edu.yu.cs.com3800.stage5.GatewayServer$ServerHttpHandler sendAndGetResponse
+INFO: leader failed, going to resend
+Oct 04, 2022 11:08:29 AM edu.yu.cs.com3800.stage5.GatewayServer$ServerHttpHandler sendAndGetResponse
+INFO: leader failed, going to resend
+Oct 04, 2022 11:08:29 AM edu.yu.cs.com3800.stage5.GatewayServer$ServerHttpHandler sendAndGetResponse
+INFO: leader failed, going to resend
+Oct 04, 2022 11:08:30 AM edu.yu.cs.com3800.stage5.GatewayServer$ServerHttpHandler sendAndGetResponse
+INFO: leader failed, going to resend

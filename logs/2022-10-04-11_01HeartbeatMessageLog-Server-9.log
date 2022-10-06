@@ -1,0 +1,546 @@
+Oct 04, 2022 11:01:31 AM edu.yu.cs.com3800.LoggingServer fileHandler
+INFO: Logging to file begins:
+Oct 04, 2022 11:01:31 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Received at: Oct 04, 2022 11:01:31
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30050
+Receiver Host: localhost
+Receiver port: 30080
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:-1
+	ID:1 Heartbeat:-1
+	ID:2 Heartbeat:-1
+	ID:3 Heartbeat:-1
+	ID:4 Heartbeat:-1
+	ID:5 Heartbeat:-1
+	ID:6 Heartbeat:1
+	ID:7 Heartbeat:-1
+	ID:8 Heartbeat:-1
+	ID:9 Heartbeat:-1
+Oct 04, 2022 11:01:34 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Received at: Oct 04, 2022 11:01:34
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30010
+Receiver Host: localhost
+Receiver port: 30080
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:-1
+	ID:1 Heartbeat:-1
+	ID:2 Heartbeat:1
+	ID:3 Heartbeat:-1
+	ID:4 Heartbeat:-1
+	ID:5 Heartbeat:-1
+	ID:6 Heartbeat:-1
+	ID:7 Heartbeat:-1
+	ID:8 Heartbeat:-1
+	ID:9 Heartbeat:-1
+Oct 04, 2022 11:01:37 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Received at: Oct 04, 2022 11:01:37
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30020
+Receiver Host: localhost
+Receiver port: 30080
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:-1
+	ID:1 Heartbeat:-1
+	ID:2 Heartbeat:-1
+	ID:3 Heartbeat:2
+	ID:4 Heartbeat:-1
+	ID:5 Heartbeat:-1
+	ID:6 Heartbeat:-1
+	ID:7 Heartbeat:-1
+	ID:8 Heartbeat:-1
+	ID:9 Heartbeat:-1
+Oct 04, 2022 11:01:40 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Received at: Oct 04, 2022 11:01:40
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30050
+Receiver Host: localhost
+Receiver port: 30080
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:-1
+	ID:1 Heartbeat:1
+	ID:2 Heartbeat:-1
+	ID:3 Heartbeat:-1
+	ID:4 Heartbeat:-1
+	ID:5 Heartbeat:-1
+	ID:6 Heartbeat:2
+	ID:7 Heartbeat:-1
+	ID:8 Heartbeat:-1
+	ID:9 Heartbeat:-1
+Oct 04, 2022 11:01:43 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Received at: Oct 04, 2022 11:01:43
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30030
+Receiver Host: localhost
+Receiver port: 30080
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:-1
+	ID:1 Heartbeat:-1
+	ID:2 Heartbeat:-1
+	ID:3 Heartbeat:-1
+	ID:4 Heartbeat:3
+	ID:5 Heartbeat:-1
+	ID:6 Heartbeat:1
+	ID:7 Heartbeat:-1
+	ID:8 Heartbeat:2
+	ID:9 Heartbeat:2
+Oct 04, 2022 11:01:46 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Received at: Oct 04, 2022 11:01:46
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30010
+Receiver Host: localhost
+Receiver port: 30080
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:-1
+	ID:1 Heartbeat:-1
+	ID:2 Heartbeat:4
+	ID:3 Heartbeat:-1
+	ID:4 Heartbeat:2
+	ID:5 Heartbeat:1
+	ID:6 Heartbeat:1
+	ID:7 Heartbeat:-1
+	ID:8 Heartbeat:2
+	ID:9 Heartbeat:2
+Oct 04, 2022 11:01:49 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Received at: Oct 04, 2022 11:01:49
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30030
+Receiver Host: localhost
+Receiver port: 30080
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:-1
+	ID:1 Heartbeat:-1
+	ID:2 Heartbeat:-1
+	ID:3 Heartbeat:-1
+	ID:4 Heartbeat:4
+	ID:5 Heartbeat:3
+	ID:6 Heartbeat:1
+	ID:7 Heartbeat:1
+	ID:8 Heartbeat:2
+	ID:9 Heartbeat:2
+Oct 04, 2022 11:01:52 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Received at: Oct 04, 2022 11:01:52
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30030
+Receiver Host: localhost
+Receiver port: 30080
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:-1
+	ID:1 Heartbeat:1
+	ID:2 Heartbeat:-1
+	ID:3 Heartbeat:-1
+	ID:4 Heartbeat:5
+	ID:5 Heartbeat:3
+	ID:6 Heartbeat:4
+	ID:7 Heartbeat:1
+	ID:8 Heartbeat:2
+	ID:9 Heartbeat:2
+Oct 04, 2022 11:01:55 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Received at: Oct 04, 2022 11:01:55
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30040
+Receiver Host: localhost
+Receiver port: 30080
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:2
+	ID:1 Heartbeat:-1
+	ID:2 Heartbeat:2
+	ID:3 Heartbeat:2
+	ID:4 Heartbeat:-1
+	ID:5 Heartbeat:7
+	ID:6 Heartbeat:-1
+	ID:7 Heartbeat:1
+	ID:8 Heartbeat:2
+	ID:9 Heartbeat:-1
+Oct 04, 2022 11:01:58 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Received at: Oct 04, 2022 11:01:58
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30060
+Receiver Host: localhost
+Receiver port: 30080
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:3
+	ID:1 Heartbeat:-1
+	ID:2 Heartbeat:2
+	ID:3 Heartbeat:1
+	ID:4 Heartbeat:2
+	ID:5 Heartbeat:4
+	ID:6 Heartbeat:-1
+	ID:7 Heartbeat:5
+	ID:8 Heartbeat:1
+	ID:9 Heartbeat:-1
+Oct 04, 2022 11:02:01 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Received at: Oct 04, 2022 11:02:01
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30070
+Receiver Host: localhost
+Receiver port: 30080
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:4
+	ID:1 Heartbeat:1
+	ID:2 Heartbeat:5
+	ID:3 Heartbeat:3
+	ID:4 Heartbeat:2
+	ID:5 Heartbeat:2
+	ID:6 Heartbeat:3
+	ID:7 Heartbeat:3
+	ID:8 Heartbeat:4
+	ID:9 Heartbeat:3
+Oct 04, 2022 11:02:04 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Received at: Oct 04, 2022 11:02:04
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30040
+Receiver Host: localhost
+Receiver port: 30080
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:2
+	ID:1 Heartbeat:1
+	ID:2 Heartbeat:2
+	ID:3 Heartbeat:2
+	ID:4 Heartbeat:-1
+	ID:5 Heartbeat:8
+	ID:6 Heartbeat:3
+	ID:7 Heartbeat:1
+	ID:8 Heartbeat:2
+	ID:9 Heartbeat:1
+Oct 04, 2022 11:02:07 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Received at: Oct 04, 2022 11:02:07
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30070
+Receiver Host: localhost
+Receiver port: 30080
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:4
+	ID:1 Heartbeat:1
+	ID:2 Heartbeat:5
+	ID:3 Heartbeat:3
+	ID:4 Heartbeat:2
+	ID:5 Heartbeat:2
+	ID:6 Heartbeat:3
+	ID:7 Heartbeat:3
+	ID:8 Heartbeat:5
+	ID:9 Heartbeat:3
+Oct 04, 2022 11:02:10 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Received at: Oct 04, 2022 11:02:10
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30070
+Receiver Host: localhost
+Receiver port: 30080
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:6
+	ID:1 Heartbeat:1
+	ID:2 Heartbeat:5
+	ID:3 Heartbeat:5
+	ID:4 Heartbeat:2
+	ID:5 Heartbeat:6
+	ID:6 Heartbeat:3
+	ID:7 Heartbeat:4
+	ID:8 Heartbeat:5
+	ID:9 Heartbeat:4
+Oct 04, 2022 11:02:13 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Received at: Oct 04, 2022 11:02:13
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30030
+Receiver Host: localhost
+Receiver port: 30080
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:4
+	ID:1 Heartbeat:1
+	ID:2 Heartbeat:7
+	ID:3 Heartbeat:3
+	ID:4 Heartbeat:8
+	ID:5 Heartbeat:5
+	ID:6 Heartbeat:4
+	ID:7 Heartbeat:3
+	ID:8 Heartbeat:2
+	ID:9 Heartbeat:8
+Oct 04, 2022 11:02:16 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Received at: Oct 04, 2022 11:02:16
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30020
+Receiver Host: localhost
+Receiver port: 30080
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:7
+	ID:1 Heartbeat:1
+	ID:2 Heartbeat:7
+	ID:3 Heartbeat:7
+	ID:4 Heartbeat:2
+	ID:5 Heartbeat:6
+	ID:6 Heartbeat:3
+	ID:7 Heartbeat:4
+	ID:8 Heartbeat:3
+	ID:9 Heartbeat:4
+Oct 04, 2022 11:02:19 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Received at: Oct 04, 2022 11:02:19
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30010
+Receiver Host: localhost
+Receiver port: 30080
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:4
+	ID:1 Heartbeat:1
+	ID:2 Heartbeat:7
+	ID:3 Heartbeat:3
+	ID:4 Heartbeat:7
+	ID:5 Heartbeat:5
+	ID:6 Heartbeat:4
+	ID:7 Heartbeat:6
+	ID:8 Heartbeat:2
+	ID:9 Heartbeat:3
+Oct 04, 2022 11:02:22 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Received at: Oct 04, 2022 11:02:22
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30040
+Receiver Host: localhost
+Receiver port: 30080
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:5
+	ID:1 Heartbeat:1
+	ID:2 Heartbeat:4
+	ID:3 Heartbeat:2
+	ID:4 Heartbeat:3
+	ID:5 Heartbeat:11
+	ID:6 Heartbeat:7
+	ID:7 Heartbeat:5
+	ID:8 Heartbeat:2
+	ID:9 Heartbeat:7
+Oct 04, 2022 11:02:25 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Received at: Oct 04, 2022 11:02:25
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30060
+Receiver Host: localhost
+Receiver port: 30080
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:5
+	ID:1 Heartbeat:1
+	ID:2 Heartbeat:7
+	ID:3 Heartbeat:3
+	ID:4 Heartbeat:9
+	ID:5 Heartbeat:5
+	ID:6 Heartbeat:8
+	ID:7 Heartbeat:9
+	ID:8 Heartbeat:2
+	ID:9 Heartbeat:8
+Oct 04, 2022 11:02:28 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Received at: Oct 04, 2022 11:02:28
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30010
+Receiver Host: localhost
+Receiver port: 30080
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:10
+	ID:1 Heartbeat:1
+	ID:2 Heartbeat:11
+	ID:3 Heartbeat:5
+	ID:4 Heartbeat:9
+	ID:5 Heartbeat:10
+	ID:6 Heartbeat:8
+	ID:7 Heartbeat:10
+	ID:8 Heartbeat:6
+	ID:9 Heartbeat:11
+Oct 04, 2022 11:02:31 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Received at: Oct 04, 2022 11:02:31
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30020
+Receiver Host: localhost
+Receiver port: 30080
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:11
+	ID:1 Heartbeat:1
+	ID:2 Heartbeat:8
+	ID:3 Heartbeat:14
+	ID:4 Heartbeat:11
+	ID:5 Heartbeat:12
+	ID:6 Heartbeat:12
+	ID:7 Heartbeat:7
+	ID:8 Heartbeat:9
+	ID:9 Heartbeat:13
+Oct 04, 2022 11:02:34 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Received at: Oct 04, 2022 11:02:34
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 8890
+Receiver Host: localhost
+Receiver port: 30080
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:17
+	ID:1 Heartbeat:1
+	ID:2 Heartbeat:9
+	ID:3 Heartbeat:11
+	ID:4 Heartbeat:14
+	ID:5 Heartbeat:13
+	ID:6 Heartbeat:10
+	ID:7 Heartbeat:8
+	ID:8 Heartbeat:7
+	ID:9 Heartbeat:16
+Oct 04, 2022 11:02:37 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Received at: Oct 04, 2022 11:02:37
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30060
+Receiver Host: localhost
+Receiver port: 30080
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:16
+	ID:1 Heartbeat:1
+	ID:2 Heartbeat:9
+	ID:3 Heartbeat:11
+	ID:4 Heartbeat:14
+	ID:5 Heartbeat:15
+	ID:6 Heartbeat:13
+	ID:7 Heartbeat:13
+	ID:8 Heartbeat:7
+	ID:9 Heartbeat:18
+Oct 04, 2022 11:02:40 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Received at: Oct 04, 2022 11:02:40
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 8890
+Receiver Host: localhost
+Receiver port: 30080
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:19
+	ID:1 Heartbeat:1
+	ID:2 Heartbeat:9
+	ID:3 Heartbeat:11
+	ID:4 Heartbeat:14
+	ID:5 Heartbeat:15
+	ID:6 Heartbeat:10
+	ID:7 Heartbeat:10
+	ID:8 Heartbeat:9
+	ID:9 Heartbeat:16
+Oct 04, 2022 11:02:43 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Received at: Oct 04, 2022 11:02:43
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30050
+Receiver Host: localhost
+Receiver port: 30080
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:14
+	ID:2 Heartbeat:14
+	ID:3 Heartbeat:12
+	ID:4 Heartbeat:15
+	ID:5 Heartbeat:14
+	ID:6 Heartbeat:17
+	ID:7 Heartbeat:10
+	ID:8 Heartbeat:8
+	ID:9 Heartbeat:15
+Oct 04, 2022 11:02:46 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Received at: Oct 04, 2022 11:02:46
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30030
+Receiver Host: localhost
+Receiver port: 30080
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:14
+	ID:2 Heartbeat:15
+	ID:3 Heartbeat:13
+	ID:4 Heartbeat:20
+	ID:5 Heartbeat:16
+	ID:6 Heartbeat:16
+	ID:7 Heartbeat:10
+	ID:8 Heartbeat:9
+	ID:9 Heartbeat:15

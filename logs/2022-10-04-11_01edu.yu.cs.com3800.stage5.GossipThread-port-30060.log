@@ -1,0 +1,884 @@
+Oct 04, 2022 11:01:31 AM edu.yu.cs.com3800.LoggingServer fileHandler
+INFO: Logging to file begins:
+Oct 04, 2022 11:01:31 AM edu.yu.cs.com3800.stage5.GossipThread initialGossipMapLoad
+INFO: Performing initial Gossip Map Load
+Oct 04, 2022 11:01:34 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Got gossip message from queue
+Oct 04, 2022 11:01:34 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Updating Map
+Oct 04, 2022 11:01:34 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 4 with heartbeat 2
+Oct 04, 2022 11:01:34 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Marking failed nodes
+Oct 04, 2022 11:01:34 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Cleaning failed nodes
+Oct 04, 2022 11:01:37 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Got gossip message from queue
+Oct 04, 2022 11:01:37 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Updating Map
+Oct 04, 2022 11:01:37 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server -1 with heartbeat 3
+Oct 04, 2022 11:01:37 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 3 with heartbeat 1
+Oct 04, 2022 11:01:37 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 5 with heartbeat 2
+Oct 04, 2022 11:01:37 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 8 with heartbeat 1
+Oct 04, 2022 11:01:37 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Marking failed nodes
+Oct 04, 2022 11:01:37 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Cleaning failed nodes
+Oct 04, 2022 11:01:40 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Got gossip message from queue
+Oct 04, 2022 11:01:40 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Updating Map
+Oct 04, 2022 11:01:40 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 2 with heartbeat 2
+Oct 04, 2022 11:01:40 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 5 with heartbeat 4
+Oct 04, 2022 11:01:40 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Marking failed nodes
+Oct 04, 2022 11:01:40 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Cleaning failed nodes
+Oct 04, 2022 11:01:46 AM edu.yu.cs.com3800.stage5.GossipThread run
+FINE: Got no Gossip, looping
+Oct 04, 2022 11:01:49 AM edu.yu.cs.com3800.stage5.GossipThread run
+FINE: Got no Gossip, looping
+Oct 04, 2022 11:01:49 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Got gossip message from queue
+Oct 04, 2022 11:01:49 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Updating Map
+Oct 04, 2022 11:01:49 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 1 with heartbeat 1
+Oct 04, 2022 11:01:49 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 3 with heartbeat 3
+Oct 04, 2022 11:01:49 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 4 with heartbeat 6
+Oct 04, 2022 11:01:49 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 5 with heartbeat 5
+Oct 04, 2022 11:01:49 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 6 with heartbeat 4
+Oct 04, 2022 11:01:49 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 8 with heartbeat 2
+Oct 04, 2022 11:01:49 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 9 with heartbeat 2
+Oct 04, 2022 11:01:49 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Marking failed nodes
+Oct 04, 2022 11:01:49 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Cleaning failed nodes
+Oct 04, 2022 11:01:52 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Got gossip message from queue
+Oct 04, 2022 11:01:52 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Updating Map
+Oct 04, 2022 11:01:52 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server -1 with heartbeat 4
+Oct 04, 2022 11:01:52 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 2 with heartbeat 7
+Oct 04, 2022 11:01:52 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 4 with heartbeat 7
+Oct 04, 2022 11:01:52 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 9 with heartbeat 3
+Oct 04, 2022 11:01:52 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Marking failed nodes
+Oct 04, 2022 11:01:52 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Cleaning failed nodes
+Oct 04, 2022 11:01:55 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Got gossip message from queue
+Oct 04, 2022 11:01:55 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Updating Map
+Oct 04, 2022 11:01:55 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server -1 with heartbeat 5
+Oct 04, 2022 11:01:55 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 6 with heartbeat 8
+Oct 04, 2022 11:01:55 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 9 with heartbeat 4
+Oct 04, 2022 11:01:55 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Marking failed nodes
+Oct 04, 2022 11:01:55 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Cleaning failed nodes
+Oct 04, 2022 11:01:58 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Got gossip message from queue
+Oct 04, 2022 11:01:58 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Updating Map
+Oct 04, 2022 11:01:58 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 4 with heartbeat 9
+Oct 04, 2022 11:01:58 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 9 with heartbeat 8
+Oct 04, 2022 11:01:58 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Marking failed nodes
+Oct 04, 2022 11:01:58 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Cleaning failed nodes
+Oct 04, 2022 11:02:01 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Got gossip message from queue
+Oct 04, 2022 11:02:01 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Updating Map
+Oct 04, 2022 11:02:01 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Marking failed nodes
+Oct 04, 2022 11:02:01 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Cleaning failed nodes
+Oct 04, 2022 11:02:07 AM edu.yu.cs.com3800.stage5.GossipThread run
+FINE: Got no Gossip, looping
+Oct 04, 2022 11:02:10 AM edu.yu.cs.com3800.stage5.GossipThread run
+FINE: Got no Gossip, looping
+Oct 04, 2022 11:02:13 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Got gossip message from queue
+Oct 04, 2022 11:02:13 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Updating Map
+Oct 04, 2022 11:02:13 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server -1 with heartbeat 9
+Oct 04, 2022 11:02:13 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 3 with heartbeat 8
+Oct 04, 2022 11:02:13 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 4 with heartbeat 12
+Oct 04, 2022 11:02:13 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 5 with heartbeat 15
+Oct 04, 2022 11:02:13 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 8 with heartbeat 3
+Oct 04, 2022 11:02:13 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Marking failed nodes
+Oct 04, 2022 11:02:13 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Cleaning failed nodes
+Oct 04, 2022 11:02:19 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Got gossip message from queue
+Oct 04, 2022 11:02:19 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Updating Map
+Oct 04, 2022 11:02:19 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 2 with heartbeat 8
+Oct 04, 2022 11:02:19 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 3 with heartbeat 10
+Oct 04, 2022 11:02:19 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 6 with heartbeat 13
+Oct 04, 2022 11:02:19 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 8 with heartbeat 4
+Oct 04, 2022 11:02:19 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 9 with heartbeat 13
+Oct 04, 2022 11:02:19 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Marking failed nodes
+Oct 04, 2022 11:02:19 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Cleaning failed nodes
+Oct 04, 2022 11:02:22 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Got gossip message from queue
+Oct 04, 2022 11:02:22 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Updating Map
+Oct 04, 2022 11:02:22 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 8 with heartbeat 5
+Oct 04, 2022 11:02:22 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 9 with heartbeat 18
+Oct 04, 2022 11:02:22 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Marking failed nodes
+Oct 04, 2022 11:02:22 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Cleaning failed nodes
+Oct 04, 2022 11:02:25 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Got gossip message from queue
+Oct 04, 2022 11:02:25 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Updating Map
+Oct 04, 2022 11:02:25 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server -1 with heartbeat 16
+Oct 04, 2022 11:02:25 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 2 with heartbeat 9
+Oct 04, 2022 11:02:25 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 3 with heartbeat 11
+Oct 04, 2022 11:02:25 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 4 with heartbeat 14
+Oct 04, 2022 11:02:25 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 8 with heartbeat 7
+Oct 04, 2022 11:02:25 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Marking failed nodes
+Oct 04, 2022 11:02:25 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Cleaning failed nodes
+Oct 04, 2022 11:02:28 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Got gossip message from queue
+Oct 04, 2022 11:02:28 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Updating Map
+Oct 04, 2022 11:02:28 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 4 with heartbeat 17
+Oct 04, 2022 11:02:28 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Marking failed nodes
+Oct 04, 2022 11:02:28 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Cleaning failed nodes
+Oct 04, 2022 11:02:31 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Got gossip message from queue
+Oct 04, 2022 11:02:31 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Updating Map
+Oct 04, 2022 11:02:31 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 2 with heartbeat 13
+Oct 04, 2022 11:02:31 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 3 with heartbeat 16
+Oct 04, 2022 11:02:31 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 5 with heartbeat 17
+Oct 04, 2022 11:02:31 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 8 with heartbeat 9
+Oct 04, 2022 11:02:31 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Marking failed nodes
+Oct 04, 2022 11:02:31 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Cleaning failed nodes
+Oct 04, 2022 11:02:34 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Got gossip message from queue
+Oct 04, 2022 11:02:34 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Updating Map
+Oct 04, 2022 11:02:34 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 3 with heartbeat 17
+Oct 04, 2022 11:02:34 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 9 with heartbeat 20
+Oct 04, 2022 11:02:34 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Marking failed nodes
+Oct 04, 2022 11:02:34 AM edu.yu.cs.com3800.stage5.GossipThread markFailedNodes
+FINE: Marked failed 1
+Oct 04, 2022 11:02:34 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Cleaning failed nodes
+Oct 04, 2022 11:02:37 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Got gossip message from queue
+Oct 04, 2022 11:02:37 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Updating Map
+Oct 04, 2022 11:02:37 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 5 with heartbeat 20
+Oct 04, 2022 11:02:37 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Marking failed nodes
+Oct 04, 2022 11:02:37 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Cleaning failed nodes
+Oct 04, 2022 11:02:40 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Got gossip message from queue
+Oct 04, 2022 11:02:40 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Updating Map
+Oct 04, 2022 11:02:40 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server -1 with heartbeat 17
+Oct 04, 2022 11:02:40 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 9 with heartbeat 23
+Oct 04, 2022 11:02:40 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Marking failed nodes
+Oct 04, 2022 11:02:40 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Cleaning failed nodes
+Oct 04, 2022 11:02:43 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Got gossip message from queue
+Oct 04, 2022 11:02:43 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Updating Map
+Oct 04, 2022 11:02:43 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 3 with heartbeat 19
+Oct 04, 2022 11:02:43 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 6 with heartbeat 14
+Oct 04, 2022 11:02:43 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 8 with heartbeat 12
+Oct 04, 2022 11:02:43 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Marking failed nodes
+Oct 04, 2022 11:02:43 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Cleaning failed nodes
+Oct 04, 2022 11:02:46 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Got gossip message from queue
+Oct 04, 2022 11:02:46 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Updating Map
+Oct 04, 2022 11:02:46 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 2 with heartbeat 16
+Oct 04, 2022 11:02:46 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 6 with heartbeat 19
+Oct 04, 2022 11:02:46 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Marking failed nodes
+Oct 04, 2022 11:02:46 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Cleaning failed nodes
+Oct 04, 2022 11:02:49 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Got gossip message from queue
+Oct 04, 2022 11:02:49 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Updating Map
+Oct 04, 2022 11:02:49 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 4 with heartbeat 22
+Oct 04, 2022 11:02:49 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Marking failed nodes
+Oct 04, 2022 11:02:49 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Cleaning failed nodes
+Oct 04, 2022 11:02:52 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Got gossip message from queue
+Oct 04, 2022 11:02:52 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Updating Map
+Oct 04, 2022 11:02:52 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server -1 with heartbeat 18
+Oct 04, 2022 11:02:52 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 6 with heartbeat 21
+Oct 04, 2022 11:02:52 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Marking failed nodes
+Oct 04, 2022 11:02:52 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Cleaning failed nodes
+Oct 04, 2022 11:02:55 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Got gossip message from queue
+Oct 04, 2022 11:02:55 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Updating Map
+Oct 04, 2022 11:02:55 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 2 with heartbeat 17
+Oct 04, 2022 11:02:55 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 6 with heartbeat 22
+Oct 04, 2022 11:02:55 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Marking failed nodes
+Oct 04, 2022 11:02:55 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Cleaning failed nodes
+Oct 04, 2022 11:02:58 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Got gossip message from queue
+Oct 04, 2022 11:02:58 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Updating Map
+Oct 04, 2022 11:02:58 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server -1 with heartbeat 24
+Oct 04, 2022 11:02:58 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 2 with heartbeat 18
+Oct 04, 2022 11:02:58 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 3 with heartbeat 21
+Oct 04, 2022 11:02:58 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 5 with heartbeat 25
+Oct 04, 2022 11:02:58 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 9 with heartbeat 26
+Oct 04, 2022 11:02:58 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Marking failed nodes
+Oct 04, 2022 11:02:58 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Cleaning failed nodes
+Oct 04, 2022 11:03:04 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Got gossip message from queue
+Oct 04, 2022 11:03:04 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Updating Map
+Oct 04, 2022 11:03:04 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 2 with heartbeat 24
+Oct 04, 2022 11:03:04 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 4 with heartbeat 23
+Oct 04, 2022 11:03:04 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 8 with heartbeat 17
+Oct 04, 2022 11:03:04 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Marking failed nodes
+Oct 04, 2022 11:03:04 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Cleaning failed nodes
+Oct 04, 2022 11:03:07 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Got gossip message from queue
+Oct 04, 2022 11:03:07 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Updating Map
+Oct 04, 2022 11:03:07 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 8 with heartbeat 18
+Oct 04, 2022 11:03:07 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Marking failed nodes
+Oct 04, 2022 11:03:07 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Cleaning failed nodes
+Oct 04, 2022 11:03:10 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Got gossip message from queue
+Oct 04, 2022 11:03:10 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Updating Map
+Oct 04, 2022 11:03:10 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server -1 with heartbeat 26
+Oct 04, 2022 11:03:10 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 2 with heartbeat 27
+Oct 04, 2022 11:03:10 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 6 with heartbeat 27
+Oct 04, 2022 11:03:10 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Marking failed nodes
+Oct 04, 2022 11:03:10 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Cleaning failed nodes
+Oct 04, 2022 11:03:13 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Got gossip message from queue
+Oct 04, 2022 11:03:13 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Updating Map
+Oct 04, 2022 11:03:13 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server -1 with heartbeat 29
+Oct 04, 2022 11:03:13 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 4 with heartbeat 28
+Oct 04, 2022 11:03:13 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 5 with heartbeat 29
+Oct 04, 2022 11:03:13 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Marking failed nodes
+Oct 04, 2022 11:03:13 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Cleaning failed nodes
+Oct 04, 2022 11:03:16 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Got gossip message from queue
+Oct 04, 2022 11:03:16 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Updating Map
+Oct 04, 2022 11:03:16 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 6 with heartbeat 32
+Oct 04, 2022 11:03:16 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Marking failed nodes
+Oct 04, 2022 11:03:16 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Cleaning failed nodes
+Oct 04, 2022 11:03:22 AM edu.yu.cs.com3800.stage5.GossipThread run
+FINE: Got no Gossip, looping
+Oct 04, 2022 11:03:25 AM edu.yu.cs.com3800.stage5.GossipThread run
+FINE: Got no Gossip, looping
+Oct 04, 2022 11:03:25 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Got gossip message from queue
+Oct 04, 2022 11:03:25 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Updating Map
+Oct 04, 2022 11:03:25 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server -1 with heartbeat 33
+Oct 04, 2022 11:03:25 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 2 with heartbeat 30
+Oct 04, 2022 11:03:25 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 3 with heartbeat 22
+Oct 04, 2022 11:03:25 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 8 with heartbeat 24
+Oct 04, 2022 11:03:25 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Marking failed nodes
+Oct 04, 2022 11:03:25 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Cleaning failed nodes
+Oct 04, 2022 11:03:25 AM edu.yu.cs.com3800.stage5.GossipThread cleanupFailedNodes
+FINE: cleaned entry 1
+Oct 04, 2022 11:03:28 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Got gossip message from queue
+Oct 04, 2022 11:03:28 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Updating Map
+Oct 04, 2022 11:03:28 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 6 with heartbeat 36
+Oct 04, 2022 11:03:28 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Marking failed nodes
+Oct 04, 2022 11:03:28 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Cleaning failed nodes
+Oct 04, 2022 11:03:31 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Got gossip message from queue
+Oct 04, 2022 11:03:31 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Updating Map
+Oct 04, 2022 11:03:31 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server -1 with heartbeat 34
+Oct 04, 2022 11:03:31 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 4 with heartbeat 31
+Oct 04, 2022 11:03:31 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 5 with heartbeat 31
+Oct 04, 2022 11:03:31 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Marking failed nodes
+Oct 04, 2022 11:03:31 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Cleaning failed nodes
+Oct 04, 2022 11:03:34 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Got gossip message from queue
+Oct 04, 2022 11:03:34 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Updating Map
+Oct 04, 2022 11:03:34 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 2 with heartbeat 31
+Oct 04, 2022 11:03:34 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 3 with heartbeat 23
+Oct 04, 2022 11:03:34 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 8 with heartbeat 26
+Oct 04, 2022 11:03:34 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Marking failed nodes
+Oct 04, 2022 11:03:34 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Cleaning failed nodes
+Oct 04, 2022 11:03:37 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Got gossip message from queue
+Oct 04, 2022 11:03:37 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Updating Map
+Oct 04, 2022 11:03:37 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server -1 with heartbeat 38
+Oct 04, 2022 11:03:37 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 3 with heartbeat 28
+Oct 04, 2022 11:03:37 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Marking failed nodes
+Oct 04, 2022 11:03:37 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Cleaning failed nodes
+Oct 04, 2022 11:03:40 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Got gossip message from queue
+Oct 04, 2022 11:03:40 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Updating Map
+Oct 04, 2022 11:03:40 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 2 with heartbeat 33
+Oct 04, 2022 11:03:40 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 5 with heartbeat 32
+Oct 04, 2022 11:03:40 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Marking failed nodes
+Oct 04, 2022 11:03:40 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Cleaning failed nodes
+Oct 04, 2022 11:03:43 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Got gossip message from queue
+Oct 04, 2022 11:03:43 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Updating Map
+Oct 04, 2022 11:03:43 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 6 with heartbeat 40
+Oct 04, 2022 11:03:43 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Marking failed nodes
+Oct 04, 2022 11:03:43 AM edu.yu.cs.com3800.stage5.GossipThread markFailedNodes
+FINE: Marked failed 9
+Oct 04, 2022 11:03:43 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Cleaning failed nodes
+Oct 04, 2022 11:03:46 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Got gossip message from queue
+Oct 04, 2022 11:03:46 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Updating Map
+Oct 04, 2022 11:03:46 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server -1 with heartbeat 39
+Oct 04, 2022 11:03:46 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 2 with heartbeat 35
+Oct 04, 2022 11:03:46 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 4 with heartbeat 34
+Oct 04, 2022 11:03:46 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Marking failed nodes
+Oct 04, 2022 11:03:46 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Cleaning failed nodes
+Oct 04, 2022 11:03:49 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Got gossip message from queue
+Oct 04, 2022 11:03:49 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Updating Map
+Oct 04, 2022 11:03:49 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 6 with heartbeat 43
+Oct 04, 2022 11:03:49 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Marking failed nodes
+Oct 04, 2022 11:03:49 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Cleaning failed nodes
+Oct 04, 2022 11:03:52 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Got gossip message from queue
+Oct 04, 2022 11:03:52 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Updating Map
+Oct 04, 2022 11:03:52 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 4 with heartbeat 35
+Oct 04, 2022 11:03:52 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 5 with heartbeat 33
+Oct 04, 2022 11:03:52 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 8 with heartbeat 29
+Oct 04, 2022 11:03:52 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Marking failed nodes
+Oct 04, 2022 11:03:52 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Cleaning failed nodes
+Oct 04, 2022 11:03:55 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Got gossip message from queue
+Oct 04, 2022 11:03:55 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Updating Map
+Oct 04, 2022 11:03:55 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server -1 with heartbeat 42
+Oct 04, 2022 11:03:55 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 2 with heartbeat 40
+Oct 04, 2022 11:03:55 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 3 with heartbeat 31
+Oct 04, 2022 11:03:55 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 5 with heartbeat 34
+Oct 04, 2022 11:03:55 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Marking failed nodes
+Oct 04, 2022 11:03:55 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Cleaning failed nodes
+Oct 04, 2022 11:04:01 AM edu.yu.cs.com3800.stage5.GossipThread run
+FINE: Got no Gossip, looping
+Oct 04, 2022 11:04:01 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Got gossip message from queue
+Oct 04, 2022 11:04:01 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Updating Map
+Oct 04, 2022 11:04:01 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server -1 with heartbeat 49
+Oct 04, 2022 11:04:01 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Marking failed nodes
+Oct 04, 2022 11:04:01 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Cleaning failed nodes
+Oct 04, 2022 11:04:04 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Got gossip message from queue
+Oct 04, 2022 11:04:04 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Updating Map
+Oct 04, 2022 11:04:04 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 2 with heartbeat 41
+Oct 04, 2022 11:04:04 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 4 with heartbeat 38
+Oct 04, 2022 11:04:04 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 5 with heartbeat 37
+Oct 04, 2022 11:04:04 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 6 with heartbeat 48
+Oct 04, 2022 11:04:04 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Marking failed nodes
+Oct 04, 2022 11:04:04 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Cleaning failed nodes
+Oct 04, 2022 11:04:07 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Got gossip message from queue
+Oct 04, 2022 11:04:07 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Updating Map
+Oct 04, 2022 11:04:07 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 3 with heartbeat 32
+Oct 04, 2022 11:04:07 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 4 with heartbeat 42
+Oct 04, 2022 11:04:07 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Marking failed nodes
+Oct 04, 2022 11:04:07 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Cleaning failed nodes
+Oct 04, 2022 11:04:10 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Got gossip message from queue
+Oct 04, 2022 11:04:10 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Updating Map
+Oct 04, 2022 11:04:10 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 5 with heartbeat 42
+Oct 04, 2022 11:04:10 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 8 with heartbeat 30
+Oct 04, 2022 11:04:10 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Marking failed nodes
+Oct 04, 2022 11:04:10 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Cleaning failed nodes
+Oct 04, 2022 11:04:13 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Got gossip message from queue
+Oct 04, 2022 11:04:13 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Updating Map
+Oct 04, 2022 11:04:13 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 2 with heartbeat 46
+Oct 04, 2022 11:04:13 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Marking failed nodes
+Oct 04, 2022 11:04:13 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Cleaning failed nodes
+Oct 04, 2022 11:04:19 AM edu.yu.cs.com3800.stage5.GossipThread run
+FINE: Got no Gossip, looping
+Oct 04, 2022 11:04:22 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Got gossip message from queue
+Oct 04, 2022 11:04:22 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Updating Map
+Oct 04, 2022 11:04:22 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 3 with heartbeat 33
+Oct 04, 2022 11:04:22 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 6 with heartbeat 54
+Oct 04, 2022 11:04:22 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 8 with heartbeat 35
+Oct 04, 2022 11:04:22 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Marking failed nodes
+Oct 04, 2022 11:04:22 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Cleaning failed nodes
+Oct 04, 2022 11:04:25 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Got gossip message from queue
+Oct 04, 2022 11:04:25 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Updating Map
+Oct 04, 2022 11:04:25 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server -1 with heartbeat 56
+Oct 04, 2022 11:04:25 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 3 with heartbeat 35
+Oct 04, 2022 11:04:25 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 4 with heartbeat 43
+Oct 04, 2022 11:04:25 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 5 with heartbeat 44
+Oct 04, 2022 11:04:25 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Marking failed nodes
+Oct 04, 2022 11:04:25 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Cleaning failed nodes
+Oct 04, 2022 11:04:28 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Got gossip message from queue
+Oct 04, 2022 11:04:28 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Updating Map
+Oct 04, 2022 11:04:28 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 6 with heartbeat 55
+Oct 04, 2022 11:04:28 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Marking failed nodes
+Oct 04, 2022 11:04:28 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Cleaning failed nodes
+Oct 04, 2022 11:04:28 AM edu.yu.cs.com3800.stage5.GossipThread cleanupFailedNodes
+FINE: cleaned entry 9
+Oct 04, 2022 11:04:31 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Got gossip message from queue
+Oct 04, 2022 11:04:31 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Updating Map
+Oct 04, 2022 11:04:31 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 3 with heartbeat 36
+Oct 04, 2022 11:04:31 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 4 with heartbeat 44
+Oct 04, 2022 11:04:31 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 8 with heartbeat 41
+Oct 04, 2022 11:04:31 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Marking failed nodes
+Oct 04, 2022 11:04:31 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Cleaning failed nodes
+Oct 04, 2022 11:04:34 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Got gossip message from queue
+Oct 04, 2022 11:04:34 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Updating Map
+Oct 04, 2022 11:04:34 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 2 with heartbeat 49
+Oct 04, 2022 11:04:34 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 4 with heartbeat 47
+Oct 04, 2022 11:04:34 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 5 with heartbeat 46
+Oct 04, 2022 11:04:34 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Marking failed nodes
+Oct 04, 2022 11:04:34 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Cleaning failed nodes
+Oct 04, 2022 11:04:37 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Got gossip message from queue
+Oct 04, 2022 11:04:37 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Updating Map
+Oct 04, 2022 11:04:37 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 8 with heartbeat 43
+Oct 04, 2022 11:04:37 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Marking failed nodes
+Oct 04, 2022 11:04:37 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Cleaning failed nodes
+Oct 04, 2022 11:04:40 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Got gossip message from queue
+Oct 04, 2022 11:04:40 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Updating Map
+Oct 04, 2022 11:04:40 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 8 with heartbeat 44
+Oct 04, 2022 11:04:40 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Marking failed nodes
+Oct 04, 2022 11:04:40 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Cleaning failed nodes
+Oct 04, 2022 11:04:43 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Got gossip message from queue
+Oct 04, 2022 11:04:43 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Updating Map
+Oct 04, 2022 11:04:43 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server -1 with heartbeat 58
+Oct 04, 2022 11:04:43 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 3 with heartbeat 45
+Oct 04, 2022 11:04:43 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Marking failed nodes
+Oct 04, 2022 11:04:43 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Cleaning failed nodes
+Oct 04, 2022 11:04:46 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Got gossip message from queue
+Oct 04, 2022 11:04:46 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Updating Map
+Oct 04, 2022 11:04:46 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 3 with heartbeat 46
+Oct 04, 2022 11:04:46 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Marking failed nodes
+Oct 04, 2022 11:04:46 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Cleaning failed nodes
+Oct 04, 2022 11:04:49 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Got gossip message from queue
+Oct 04, 2022 11:04:49 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Updating Map
+Oct 04, 2022 11:04:49 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server -1 with heartbeat 59
+Oct 04, 2022 11:04:49 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 2 with heartbeat 55
+Oct 04, 2022 11:04:49 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 4 with heartbeat 52
+Oct 04, 2022 11:04:49 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 5 with heartbeat 50
+Oct 04, 2022 11:04:49 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 6 with heartbeat 61
+Oct 04, 2022 11:04:49 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 8 with heartbeat 46
+Oct 04, 2022 11:04:49 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Marking failed nodes
+Oct 04, 2022 11:04:49 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Cleaning failed nodes
+Oct 04, 2022 11:04:55 AM edu.yu.cs.com3800.stage5.GossipThread run
+FINE: Got no Gossip, looping
+Oct 04, 2022 11:04:58 AM edu.yu.cs.com3800.stage5.GossipThread run
+FINE: Got no Gossip, looping
+Oct 04, 2022 11:04:58 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Got gossip message from queue
+Oct 04, 2022 11:04:58 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Updating Map
+Oct 04, 2022 11:04:58 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 2 with heartbeat 57
+Oct 04, 2022 11:04:58 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 4 with heartbeat 56
+Oct 04, 2022 11:04:58 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 8 with heartbeat 47
+Oct 04, 2022 11:04:58 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Marking failed nodes
+Oct 04, 2022 11:04:58 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Cleaning failed nodes
+Oct 04, 2022 11:05:01 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Got gossip message from queue
+Oct 04, 2022 11:05:01 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Updating Map
+Oct 04, 2022 11:05:01 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 2 with heartbeat 59
+Oct 04, 2022 11:05:01 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 3 with heartbeat 53
+Oct 04, 2022 11:05:01 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 5 with heartbeat 51
+Oct 04, 2022 11:05:01 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Marking failed nodes
+Oct 04, 2022 11:05:01 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Cleaning failed nodes
+Oct 04, 2022 11:05:04 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Got gossip message from queue
+Oct 04, 2022 11:05:04 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Updating Map
+Oct 04, 2022 11:05:04 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server -1 with heartbeat 60
+Oct 04, 2022 11:05:04 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 5 with heartbeat 60
+Oct 04, 2022 11:05:04 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Marking failed nodes
+Oct 04, 2022 11:05:04 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Cleaning failed nodes
+Oct 04, 2022 11:05:07 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Got gossip message from queue
+Oct 04, 2022 11:05:07 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Updating Map
+Oct 04, 2022 11:05:07 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 2 with heartbeat 63
+Oct 04, 2022 11:05:07 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Marking failed nodes
+Oct 04, 2022 11:05:07 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Cleaning failed nodes
+Oct 04, 2022 11:05:10 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Got gossip message from queue
+Oct 04, 2022 11:05:10 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Updating Map
+Oct 04, 2022 11:05:10 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server -1 with heartbeat 62
+Oct 04, 2022 11:05:10 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 8 with heartbeat 53
+Oct 04, 2022 11:05:10 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Marking failed nodes
+Oct 04, 2022 11:05:10 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Cleaning failed nodes
+Oct 04, 2022 11:05:13 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Got gossip message from queue
+Oct 04, 2022 11:05:13 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Updating Map
+Oct 04, 2022 11:05:13 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server -1 with heartbeat 70
+Oct 04, 2022 11:05:13 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Marking failed nodes
+Oct 04, 2022 11:05:13 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Cleaning failed nodes
+Oct 04, 2022 11:05:16 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Got gossip message from queue
+Oct 04, 2022 11:05:16 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Updating Map
+Oct 04, 2022 11:05:16 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 6 with heartbeat 62
+Oct 04, 2022 11:05:16 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 8 with heartbeat 56
+Oct 04, 2022 11:05:16 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Marking failed nodes
+Oct 04, 2022 11:05:16 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Cleaning failed nodes
+Oct 04, 2022 11:05:19 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Got gossip message from queue
+Oct 04, 2022 11:05:19 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Updating Map
+Oct 04, 2022 11:05:19 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 2 with heartbeat 65
+Oct 04, 2022 11:05:19 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 3 with heartbeat 57
+Oct 04, 2022 11:05:19 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 6 with heartbeat 63
+Oct 04, 2022 11:05:19 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Marking failed nodes
+Oct 04, 2022 11:05:19 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Cleaning failed nodes
+Oct 04, 2022 11:05:22 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Got gossip message from queue
+Oct 04, 2022 11:05:22 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Updating Map
+Oct 04, 2022 11:05:22 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 4 with heartbeat 64
+Oct 04, 2022 11:05:22 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Marking failed nodes
+Oct 04, 2022 11:05:22 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Cleaning failed nodes
+Oct 04, 2022 11:05:25 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Got gossip message from queue
+Oct 04, 2022 11:05:25 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Updating Map
+Oct 04, 2022 11:05:25 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 2 with heartbeat 70
+Oct 04, 2022 11:05:25 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 6 with heartbeat 64
+Oct 04, 2022 11:05:25 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Marking failed nodes
+Oct 04, 2022 11:05:25 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Cleaning failed nodes
+Oct 04, 2022 11:05:28 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Got gossip message from queue
+Oct 04, 2022 11:05:28 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Updating Map
+Oct 04, 2022 11:05:28 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 4 with heartbeat 65
+Oct 04, 2022 11:05:28 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Marking failed nodes
+Oct 04, 2022 11:05:28 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Cleaning failed nodes
+Oct 04, 2022 11:05:31 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Got gossip message from queue
+Oct 04, 2022 11:05:31 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Updating Map
+Oct 04, 2022 11:05:31 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 3 with heartbeat 61
+Oct 04, 2022 11:05:31 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 5 with heartbeat 64
+Oct 04, 2022 11:05:31 AM edu.yu.cs.com3800.stage5.GossipThread updateGossipMap
+FINE: updated server 8 with heartbeat 57
+Oct 04, 2022 11:05:31 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Marking failed nodes
+Oct 04, 2022 11:05:31 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Cleaning failed nodes

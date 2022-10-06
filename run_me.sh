@@ -1,0 +1,1 @@
+./logic.sh | tee output.log

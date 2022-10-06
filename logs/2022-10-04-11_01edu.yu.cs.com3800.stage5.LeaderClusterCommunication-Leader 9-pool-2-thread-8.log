@@ -1,0 +1,108 @@
+Oct 04, 2022 11:01:33 AM edu.yu.cs.com3800.LoggingServer fileHandler
+INFO: Logging to file begins:
+Oct 04, 2022 11:01:33 AM edu.yu.cs.com3800.stage5.LeaderClusterCommunication run
+INFO: sending requestID 11 to localhost/127.0.0.130032
+Oct 04, 2022 11:01:33 AM edu.yu.cs.com3800.stage5.LeaderClusterCommunication run
+FINEST: Attempting to open socket
+Oct 04, 2022 11:01:33 AM edu.yu.cs.com3800.stage5.LeaderClusterCommunication run
+FINEST: Opened Socket successfully, getting output stream
+Oct 04, 2022 11:01:33 AM edu.yu.cs.com3800.stage5.LeaderClusterCommunication run
+FINEST: Got output stream successfully, writing
+Oct 04, 2022 11:01:33 AM edu.yu.cs.com3800.stage5.LeaderClusterCommunication run
+FINEST: Sent work successfully, awaiting response from follower
+Oct 04, 2022 11:01:36 AM edu.yu.cs.com3800.stage5.LeaderClusterCommunication run
+FINEST: received response for 11, sending to gateway
+Oct 04, 2022 11:01:36 AM edu.yu.cs.com3800.stage5.LeaderClusterCommunication run
+FINEST: Got output stream successfully, writing
+Oct 04, 2022 11:01:36 AM edu.yu.cs.com3800.stage5.LeaderClusterCommunication run
+INFO: Sent response for requestID 11
+Oct 04, 2022 11:02:25 AM edu.yu.cs.com3800.stage5.LeaderClusterCommunication run
+INFO: sending requestID 12 to localhost/127.0.0.130052
+Oct 04, 2022 11:02:25 AM edu.yu.cs.com3800.stage5.LeaderClusterCommunication run
+FINEST: Attempting to open socket
+Oct 04, 2022 11:02:25 AM edu.yu.cs.com3800.stage5.LeaderClusterCommunication run
+FINEST: Opened Socket successfully, getting output stream
+Oct 04, 2022 11:02:25 AM edu.yu.cs.com3800.stage5.LeaderClusterCommunication run
+FINEST: Got output stream successfully, writing
+Oct 04, 2022 11:02:25 AM edu.yu.cs.com3800.stage5.LeaderClusterCommunication run
+FINEST: Sent work successfully, awaiting response from follower
+Oct 04, 2022 11:02:26 AM edu.yu.cs.com3800.stage5.LeaderClusterCommunication run
+FINEST: received response for 12, sending to gateway
+Oct 04, 2022 11:02:26 AM edu.yu.cs.com3800.stage5.LeaderClusterCommunication run
+FINEST: Got output stream successfully, writing
+Oct 04, 2022 11:02:26 AM edu.yu.cs.com3800.stage5.LeaderClusterCommunication run
+INFO: Sent response for requestID 12
+Oct 04, 2022 11:02:27 AM edu.yu.cs.com3800.stage5.LeaderClusterCommunication run
+INFO: sending requestID 23 to localhost/127.0.0.130022
+Oct 04, 2022 11:02:27 AM edu.yu.cs.com3800.stage5.LeaderClusterCommunication run
+FINEST: Attempting to open socket
+Oct 04, 2022 11:02:27 AM edu.yu.cs.com3800.stage5.LeaderClusterCommunication run
+FINEST: Opened Socket successfully, getting output stream
+Oct 04, 2022 11:02:27 AM edu.yu.cs.com3800.stage5.LeaderClusterCommunication run
+FINEST: Got output stream successfully, writing
+Oct 04, 2022 11:02:27 AM edu.yu.cs.com3800.stage5.LeaderClusterCommunication run
+FINEST: Sent work successfully, awaiting response from follower
+Oct 04, 2022 11:02:28 AM edu.yu.cs.com3800.stage5.LeaderClusterCommunication run
+FINEST: received response for 23, sending to gateway
+Oct 04, 2022 11:02:28 AM edu.yu.cs.com3800.stage5.LeaderClusterCommunication run
+FINEST: Got output stream successfully, writing
+Oct 04, 2022 11:02:28 AM edu.yu.cs.com3800.stage5.LeaderClusterCommunication run
+INFO: Sent response for requestID 23
+Oct 04, 2022 11:02:29 AM edu.yu.cs.com3800.stage5.LeaderClusterCommunication run
+INFO: sending requestID 31 to localhost/127.0.0.130072
+Oct 04, 2022 11:02:29 AM edu.yu.cs.com3800.stage5.LeaderClusterCommunication run
+FINEST: Attempting to open socket
+Oct 04, 2022 11:02:29 AM edu.yu.cs.com3800.stage5.LeaderClusterCommunication run
+FINEST: Opened Socket successfully, getting output stream
+Oct 04, 2022 11:02:29 AM edu.yu.cs.com3800.stage5.LeaderClusterCommunication run
+FINEST: Got output stream successfully, writing
+Oct 04, 2022 11:02:29 AM edu.yu.cs.com3800.stage5.LeaderClusterCommunication run
+FINEST: Sent work successfully, awaiting response from follower
+Oct 04, 2022 11:02:30 AM edu.yu.cs.com3800.stage5.LeaderClusterCommunication run
+FINEST: received response for 31, sending to gateway
+Oct 04, 2022 11:02:30 AM edu.yu.cs.com3800.stage5.LeaderClusterCommunication run
+FINEST: Got output stream successfully, writing
+Oct 04, 2022 11:02:30 AM edu.yu.cs.com3800.stage5.LeaderClusterCommunication run
+INFO: Sent response for requestID 31
+Oct 04, 2022 11:02:32 AM edu.yu.cs.com3800.stage5.LeaderClusterCommunication run
+INFO: sending requestID 41 to localhost/127.0.0.130062
+Oct 04, 2022 11:02:32 AM edu.yu.cs.com3800.stage5.LeaderClusterCommunication run
+FINEST: Attempting to open socket
+Oct 04, 2022 11:02:32 AM edu.yu.cs.com3800.stage5.LeaderClusterCommunication run
+FINEST: Opened Socket successfully, getting output stream
+Oct 04, 2022 11:02:32 AM edu.yu.cs.com3800.stage5.LeaderClusterCommunication run
+FINEST: Got output stream successfully, writing
+Oct 04, 2022 11:02:32 AM edu.yu.cs.com3800.stage5.LeaderClusterCommunication run
+FINEST: Sent work successfully, awaiting response from follower
+Oct 04, 2022 11:02:32 AM edu.yu.cs.com3800.stage5.LeaderClusterCommunication run
+FINEST: received response for 41, sending to gateway
+Oct 04, 2022 11:02:32 AM edu.yu.cs.com3800.stage5.LeaderClusterCommunication run
+FINEST: Got output stream successfully, writing
+Oct 04, 2022 11:02:32 AM edu.yu.cs.com3800.stage5.LeaderClusterCommunication run
+INFO: Sent response for requestID 41
+Oct 04, 2022 11:02:33 AM edu.yu.cs.com3800.stage5.LeaderClusterCommunication run
+INFO: sending requestID 48 to localhost/127.0.0.130062
+Oct 04, 2022 11:02:33 AM edu.yu.cs.com3800.stage5.LeaderClusterCommunication run
+FINEST: Attempting to open socket
+Oct 04, 2022 11:02:33 AM edu.yu.cs.com3800.stage5.LeaderClusterCommunication run
+FINEST: Opened Socket successfully, getting output stream
+Oct 04, 2022 11:02:33 AM edu.yu.cs.com3800.stage5.LeaderClusterCommunication run
+FINEST: Got output stream successfully, writing
+Oct 04, 2022 11:02:33 AM edu.yu.cs.com3800.stage5.LeaderClusterCommunication run
+FINEST: Sent work successfully, awaiting response from follower
+Oct 04, 2022 11:02:34 AM edu.yu.cs.com3800.stage5.LeaderClusterCommunication run
+FINEST: received response for 48, sending to gateway
+Oct 04, 2022 11:02:34 AM edu.yu.cs.com3800.stage5.LeaderClusterCommunication run
+FINEST: Got output stream successfully, writing
+Oct 04, 2022 11:02:34 AM edu.yu.cs.com3800.stage5.LeaderClusterCommunication run
+INFO: Sent response for requestID 48
+Oct 04, 2022 11:02:43 AM edu.yu.cs.com3800.stage5.LeaderClusterCommunication run
+INFO: sending requestID 59 to localhost/127.0.0.130022
+Oct 04, 2022 11:02:43 AM edu.yu.cs.com3800.stage5.LeaderClusterCommunication run
+FINEST: Attempting to open socket
+Oct 04, 2022 11:02:43 AM edu.yu.cs.com3800.stage5.LeaderClusterCommunication run
+FINEST: Opened Socket successfully, getting output stream
+Oct 04, 2022 11:02:43 AM edu.yu.cs.com3800.stage5.LeaderClusterCommunication run
+FINEST: Got output stream successfully, writing
+Oct 04, 2022 11:02:43 AM edu.yu.cs.com3800.stage5.LeaderClusterCommunication run
+FINEST: Sent work successfully, awaiting response from follower

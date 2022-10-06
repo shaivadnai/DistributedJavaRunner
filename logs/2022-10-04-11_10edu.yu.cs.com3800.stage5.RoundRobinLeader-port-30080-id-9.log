@@ -1,0 +1,54 @@
+Oct 04, 2022 11:10:06 AM edu.yu.cs.com3800.LoggingServer fileHandler
+INFO: Logging to file begins:
+Oct 04, 2022 11:10:07 AM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+FINEST: No message received, waiting
+Oct 04, 2022 11:10:08 AM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: Got a message from Queue
+Oct 04, 2022 11:10:08 AM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: Received WORK from Gateway at localhost/127.0.0.1:8888
+Oct 04, 2022 11:10:08 AM edu.yu.cs.com3800.stage5.RoundRobinLeader sendWorkToCluster
+INFO: Sending 1 to follower at: localhost/127.0.0.1:30000
+Oct 04, 2022 11:10:08 AM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: Got a message from Queue
+Oct 04, 2022 11:10:08 AM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: Received WORK from Gateway at localhost/127.0.0.1:8888
+Oct 04, 2022 11:10:08 AM edu.yu.cs.com3800.stage5.RoundRobinLeader sendWorkToCluster
+INFO: Sending 2 to follower at: localhost/127.0.0.1:30050
+Oct 04, 2022 11:10:08 AM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: Got a message from Queue
+Oct 04, 2022 11:10:08 AM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: Received WORK from Gateway at localhost/127.0.0.1:8888
+Oct 04, 2022 11:10:08 AM edu.yu.cs.com3800.stage5.RoundRobinLeader sendWorkToCluster
+INFO: Sending 3 to follower at: localhost/127.0.0.1:30020
+Oct 04, 2022 11:10:08 AM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: Got a message from Queue
+Oct 04, 2022 11:10:08 AM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: Received WORK from Gateway at localhost/127.0.0.1:8888
+Oct 04, 2022 11:10:08 AM edu.yu.cs.com3800.stage5.RoundRobinLeader sendWorkToCluster
+INFO: Sending 4 to follower at: localhost/127.0.0.1:30070
+Oct 04, 2022 11:10:08 AM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+FINEST: No message received, waiting
+Oct 04, 2022 11:10:08 AM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: Got a message from Queue
+Oct 04, 2022 11:10:08 AM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+INFO: Received WORK from Gateway at localhost/127.0.0.1:8888
+Oct 04, 2022 11:10:08 AM edu.yu.cs.com3800.stage5.RoundRobinLeader sendWorkToCluster
+INFO: Sending 5 to follower at: localhost/127.0.0.1:30040
+Oct 04, 2022 11:10:09 AM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+FINEST: No message received, waiting
+Oct 04, 2022 11:10:09 AM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+FINEST: No message received, waiting
+Oct 04, 2022 11:10:09 AM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+FINEST: No message received, waiting
+Oct 04, 2022 11:10:10 AM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+FINEST: No message received, waiting
+Oct 04, 2022 11:10:10 AM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+FINEST: No message received, waiting
+Oct 04, 2022 11:10:11 AM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+FINEST: No message received, waiting
+Oct 04, 2022 11:10:11 AM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+FINEST: No message received, waiting
+Oct 04, 2022 11:10:11 AM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+FINEST: No message received, waiting
+Oct 04, 2022 11:10:12 AM edu.yu.cs.com3800.stage5.RoundRobinLeader run
+FINEST: No message received, waiting

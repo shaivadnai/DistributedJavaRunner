@@ -1,0 +1,1575 @@
+Running JUnit Tests...
+[[1;34mINFO[m] Scanning for projects...
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m----------------------< [0;36medu.yu.cs.com3800:stage5[0;1m >----------------------[m
+[[1;34mINFO[m] [1mBuilding stage5 1.0[m
+[[1;34mINFO[m] [1m--------------------------------[ jar ]---------------------------------[m
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.22.1/maven-surefire-plugin-2.22.1.pom
+Progress (1): 2.7/5.0 kBProgress (1): 5.0 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-surefire-plugin/2.22.1/maven-surefire-plugin-2.22.1.pom (5.0 kB at 19 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire/2.22.1/surefire-2.22.1.pom
+Progress (1): 2.7/26 kBProgress (1): 5.5/26 kBProgress (1): 8.2/26 kBProgress (1): 11/26 kB Progress (1): 14/26 kBProgress (1): 16/26 kBProgress (1): 19/26 kBProgress (1): 22/26 kBProgress (1): 25/26 kBProgress (1): 26 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire/2.22.1/surefire-2.22.1.pom (26 kB at 782 kB/s)
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-resources-plugin:2.6:resources[m [1m(default-resources)[m @ [36mstage5[0;1m ---[m
+[[1;34mINFO[m] Using 'UTF-8' encoding to copy filtered resources.
+[[1;34mINFO[m] skip non existing resourceDirectory /home/sv126/stage5/src/main/resources
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-compiler-plugin:3.1:compile[m [1m(default-compile)[m @ [36mstage5[0;1m ---[m
+[[1;34mINFO[m] Changes detected - recompiling the module!
+[[1;34mINFO[m] Compiling 21 source files to /home/sv126/stage5/target/classes
+[[1;33mWARNING[m] /home/sv126/stage5/src/main/java/edu/yu/cs/com3800/JavaRunner.java: /home/sv126/stage5/src/main/java/edu/yu/cs/com3800/JavaRunner.java uses unchecked or unsafe operations.
+[[1;33mWARNING[m] /home/sv126/stage5/src/main/java/edu/yu/cs/com3800/JavaRunner.java: Recompile with -Xlint:unchecked for details.
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-resources-plugin:2.6:testResources[m [1m(default-testResources)[m @ [36mstage5[0;1m ---[m
+[[1;34mINFO[m] Using 'UTF-8' encoding to copy filtered resources.
+[[1;34mINFO[m] skip non existing resourceDirectory /home/sv126/stage5/src/test/resources
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-compiler-plugin:3.1:testCompile[m [1m(default-testCompile)[m @ [36mstage5[0;1m ---[m
+[[1;34mINFO[m] Changes detected - recompiling the module!
+[[1;34mINFO[m] Compiling 3 source files to /home/sv126/stage5/target/test-classes
+[[1;33mWARNING[m] /home/sv126/stage5/src/test/java/edu/yu/cs/com3800/Cluster.java: /home/sv126/stage5/src/test/java/edu/yu/cs/com3800/Cluster.java uses unchecked or unsafe operations.
+[[1;33mWARNING[m] /home/sv126/stage5/src/test/java/edu/yu/cs/com3800/Cluster.java: Recompile with -Xlint:unchecked for details.
+[[1;34mINFO[m] 
+[[1;34mINFO[m] [1m--- [0;32mmaven-surefire-plugin:2.22.1:test[m [1m(default-test)[m @ [36mstage5[0;1m ---[m
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/maven-surefire-common/2.22.1/maven-surefire-common-2.22.1.pom
+Progress (1): 2.7/11 kBProgress (1): 5.5/11 kBProgress (1): 8.2/11 kBProgress (1): 11/11 kB Progress (1): 11 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/maven-surefire-common/2.22.1/maven-surefire-common-2.22.1.pom (11 kB at 409 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-api/2.22.1/surefire-api-2.22.1.pom
+Progress (1): 2.7/3.5 kBProgress (1): 3.5 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-api/2.22.1/surefire-api-2.22.1.pom (3.5 kB at 154 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-logger-api/2.22.1/surefire-logger-api-2.22.1.pom
+Progress (1): 2.0 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-logger-api/2.22.1/surefire-logger-api-2.22.1.pom (2.0 kB at 78 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-booter/2.22.1/surefire-booter-2.22.1.pom
+Progress (1): 2.7/7.5 kBProgress (1): 5.5/7.5 kBProgress (1): 7.5 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-booter/2.22.1/surefire-booter-2.22.1.pom (7.5 kB at 191 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/maven-surefire-common/2.22.1/maven-surefire-common-2.22.1.jar
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-api/2.22.1/surefire-api-2.22.1.jar
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-booter/2.22.1/surefire-booter-2.22.1.jar
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-logger-api/2.22.1/surefire-logger-api-2.22.1.jar
+Progress (1): 4.1/528 kBProgress (1): 8.2/528 kBProgress (1): 12/528 kB Progress (1): 16/528 kBProgress (1): 20/528 kBProgress (1): 24/528 kBProgress (1): 28/528 kBProgress (1): 32/528 kBProgress (1): 36/528 kBProgress (1): 40/528 kBProgress (1): 45/528 kBProgress (1): 49/528 kBProgress (1): 53/528 kBProgress (1): 57/528 kBProgress (1): 61/528 kBProgress (1): 65/528 kBProgress (1): 69/528 kBProgress (1): 73/528 kBProgress (1): 77/528 kBProgress (1): 81/528 kBProgress (1): 85/528 kBProgress (1): 90/528 kBProgress (1): 94/528 kBProgress (1): 98/528 kBProgress (1): 102/528 kBProgress (1): 106/528 kBProgress (1): 110/528 kBProgress (1): 114/528 kBProgress (2): 114/528 kB | 2.7/13 kBProgress (2): 118/528 kB | 2.7/13 kBProgress (2): 118/528 kB | 5.5/13 kBProgress (3): 118/528 kB | 5.5/13 kB | 4.1/186 kBProgress (3): 118/528 kB | 5.5/13 kB | 8.2/186 kBProgress (3): 122/528 kB | 5.5/13 kB | 8.2/186 kBProgress (3): 122/528 kB | 5.5/13 kB | 12/186 kB Progress (3): 122/528 kB | 8.2/13 kB | 12/186 kBProgress (3): 122/528 kB | 8.2/13 kB | 16/186 kBProgress (3): 122/528 kB | 11/13 kB | 16/186 kB Progress (3): 122/528 kB | 11/13 kB | 20/186 kBProgress (3): 122/528 kB | 11/13 kB | 25/186 kBProgress (3): 122/528 kB | 11/13 kB | 29/186 kBProgress (3): 126/528 kB | 11/13 kB | 29/186 kBProgress (3): 126/528 kB | 11/13 kB | 33/186 kBProgress (3): 126/528 kB | 13 kB | 33/186 kB   Progress (3): 126/528 kB | 13 kB | 37/186 kBProgress (3): 126/528 kB | 13 kB | 41/186 kBProgress (3): 126/528 kB | 13 kB | 45/186 kBProgress (3): 126/528 kB | 13 kB | 49/186 kBProgress (3): 126/528 kB | 13 kB | 53/186 kBProgress (3): 126/528 kB | 13 kB | 57/186 kBProgress (4): 126/528 kB | 13 kB | 57/186 kB | 4.1/274 kBProgress (4): 126/528 kB | 13 kB | 57/186 kB | 8.2/274 kBProgress (4): 126/528 kB | 13 kB | 61/186 kB | 8.2/274 kBProgress (4): 131/528 kB | 13 kB | 61/186 kB | 8.2/274 kBProgress (4): 131/528 kB | 13 kB | 66/186 kB | 8.2/274 kBProgress (4): 131/528 kB | 13 kB | 66/186 kB | 12/274 kB Progress (4): 135/528 kB | 13 kB | 66/186 kB | 12/274 kBProgress (4): 135/528 kB | 13 kB | 66/186 kB | 16/274 kBProgress (4): 135/528 kB | 13 kB | 70/186 kB | 16/274 kBProgress (4): 135/528 kB | 13 kB | 70/186 kB | 20/274 kBProgress (4): 139/528 kB | 13 kB | 70/186 kB | 20/274 kBProgress (4): 139/528 kB | 13 kB | 74/186 kB | 20/274 kBProgress (4): 139/528 kB | 13 kB | 74/186 kB | 25/274 kBProgress (4): 139/528 kB | 13 kB | 78/186 kB | 25/274 kBProgress (4): 143/528 kB | 13 kB | 78/186 kB | 25/274 kB                                                        Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-logger-api/2.22.1/surefire-logger-api-2.22.1.jar (13 kB at 141 kB/s)
+Progress (3): 143/528 kB | 82/186 kB | 25/274 kBProgress (3): 143/528 kB | 82/186 kB | 29/274 kBProgress (3): 143/528 kB | 82/186 kB | 33/274 kBProgress (3): 147/528 kB | 82/186 kB | 33/274 kBProgress (3): 147/528 kB | 86/186 kB | 33/274 kBProgress (3): 147/528 kB | 90/186 kB | 33/274 kBProgress (3): 147/528 kB | 94/186 kB | 33/274 kBProgress (3): 147/528 kB | 94/186 kB | 37/274 kBProgress (3): 147/528 kB | 98/186 kB | 37/274 kBProgress (3): 151/528 kB | 98/186 kB | 37/274 kBProgress (3): 151/528 kB | 102/186 kB | 37/274 kBProgress (3): 151/528 kB | 102/186 kB | 41/274 kBProgress (3): 151/528 kB | 106/186 kB | 41/274 kBProgress (3): 155/528 kB | 106/186 kB | 41/274 kBProgress (3): 159/528 kB | 106/186 kB | 41/274 kBProgress (3): 159/528 kB | 111/186 kB | 41/274 kBProgress (3): 159/528 kB | 111/186 kB | 45/274 kBProgress (3): 159/528 kB | 115/186 kB | 45/274 kBProgress (3): 163/528 kB | 115/186 kB | 45/274 kBProgress (3): 163/528 kB | 115/186 kB | 49/274 kBProgress (3): 167/528 kB | 115/186 kB | 49/274 kBProgress (3): 167/528 kB | 119/186 kB | 49/274 kBProgress (3): 167/528 kB | 119/186 kB | 53/274 kBProgress (3): 167/528 kB | 123/186 kB | 53/274 kBProgress (3): 167/528 kB | 127/186 kB | 53/274 kBProgress (3): 167/528 kB | 131/186 kB | 53/274 kBProgress (3): 171/528 kB | 131/186 kB | 53/274 kBProgress (3): 171/528 kB | 131/186 kB | 57/274 kBProgress (3): 176/528 kB | 131/186 kB | 57/274 kBProgress (3): 176/528 kB | 131/186 kB | 61/274 kBProgress (3): 180/528 kB | 131/186 kB | 61/274 kBProgress (3): 180/528 kB | 135/186 kB | 61/274 kBProgress (3): 180/528 kB | 139/186 kB | 61/274 kBProgress (3): 184/528 kB | 139/186 kB | 61/274 kBProgress (3): 184/528 kB | 139/186 kB | 66/274 kBProgress (3): 188/528 kB | 139/186 kB | 66/274 kBProgress (3): 188/528 kB | 143/186 kB | 66/274 kBProgress (3): 192/528 kB | 143/186 kB | 66/274 kBProgress (3): 192/528 kB | 147/186 kB | 66/274 kBProgress (3): 196/528 kB | 147/186 kB | 66/274 kBProgress (3): 196/528 kB | 147/186 kB | 70/274 kBProgress (3): 196/528 kB | 152/186 kB | 70/274 kBProgress (3): 200/528 kB | 152/186 kB | 70/274 kBProgress (3): 200/528 kB | 156/186 kB | 70/274 kBProgress (3): 200/528 kB | 160/186 kB | 70/274 kBProgress (3): 200/528 kB | 164/186 kB | 70/274 kBProgress (3): 200/528 kB | 168/186 kB | 70/274 kBProgress (3): 200/528 kB | 168/186 kB | 74/274 kBProgress (3): 200/528 kB | 168/186 kB | 78/274 kBProgress (3): 200/528 kB | 172/186 kB | 78/274 kBProgress (3): 204/528 kB | 172/186 kB | 78/274 kBProgress (3): 208/528 kB | 172/186 kB | 78/274 kBProgress (3): 212/528 kB | 172/186 kB | 78/274 kBProgress (3): 212/528 kB | 176/186 kB | 78/274 kBProgress (3): 212/528 kB | 176/186 kB | 82/274 kBProgress (3): 212/528 kB | 180/186 kB | 82/274 kBProgress (3): 217/528 kB | 180/186 kB | 82/274 kBProgress (3): 217/528 kB | 184/186 kB | 82/274 kBProgress (3): 217/528 kB | 184/186 kB | 86/274 kBProgress (3): 217/528 kB | 184/186 kB | 90/274 kBProgress (3): 217/528 kB | 184/186 kB | 94/274 kBProgress (3): 217/528 kB | 184/186 kB | 98/274 kBProgress (3): 221/528 kB | 184/186 kB | 98/274 kBProgress (3): 221/528 kB | 184/186 kB | 102/274 kBProgress (3): 221/528 kB | 186 kB | 102/274 kB    Progress (3): 221/528 kB | 186 kB | 106/274 kBProgress (3): 221/528 kB | 186 kB | 111/274 kBProgress (3): 225/528 kB | 186 kB | 111/274 kBProgress (3): 229/528 kB | 186 kB | 111/274 kBProgress (3): 229/528 kB | 186 kB | 115/274 kBProgress (3): 233/528 kB | 186 kB | 115/274 kBProgress (3): 237/528 kB | 186 kB | 115/274 kBProgress (3): 241/528 kB | 186 kB | 115/274 kBProgress (3): 245/528 kB | 186 kB | 115/274 kBProgress (3): 245/528 kB | 186 kB | 119/274 kBProgress (3): 245/528 kB | 186 kB | 123/274 kBProgress (3): 249/528 kB | 186 kB | 123/274 kBProgress (3): 249/528 kB | 186 kB | 127/274 kBProgress (3): 253/528 kB | 186 kB | 127/274 kBProgress (3): 253/528 kB | 186 kB | 131/274 kBProgress (3): 258/528 kB | 186 kB | 131/274 kBProgress (3): 262/528 kB | 186 kB | 131/274 kBProgress (3): 262/528 kB | 186 kB | 135/274 kBProgress (3): 266/528 kB | 186 kB | 135/274 kBProgress (3): 266/528 kB | 186 kB | 139/274 kBProgress (3): 270/528 kB | 186 kB | 139/274 kBProgress (3): 270/528 kB | 186 kB | 143/274 kBProgress (3): 274/528 kB | 186 kB | 143/274 kBProgress (3): 274/528 kB | 186 kB | 147/274 kBProgress (3): 278/528 kB | 186 kB | 147/274 kBProgress (3): 278/528 kB | 186 kB | 152/274 kBProgress (3): 282/528 kB | 186 kB | 152/274 kBProgress (3): 282/528 kB | 186 kB | 156/274 kBProgress (3): 286/528 kB | 186 kB | 156/274 kBProgress (3): 286/528 kB | 186 kB | 160/274 kBProgress (3): 290/528 kB | 186 kB | 160/274 kBProgress (3): 290/528 kB | 186 kB | 164/274 kBProgress (3): 294/528 kB | 186 kB | 164/274 kBProgress (3): 294/528 kB | 186 kB | 168/274 kBProgress (3): 294/528 kB | 186 kB | 172/274 kBProgress (3): 298/528 kB | 186 kB | 172/274 kB                                              Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-api/2.22.1/surefire-api-2.22.1.jar (186 kB at 1.1 MB/s)
+Progress (2): 303/528 kB | 172/274 kBProgress (2): 303/528 kB | 176/274 kBProgress (2): 307/528 kB | 176/274 kBProgress (2): 307/528 kB | 180/274 kBProgress (2): 311/528 kB | 180/274 kBProgress (2): 311/528 kB | 184/274 kBProgress (2): 311/528 kB | 188/274 kBProgress (2): 315/528 kB | 188/274 kBProgress (2): 315/528 kB | 193/274 kBProgress (2): 319/528 kB | 193/274 kBProgress (2): 319/528 kB | 197/274 kBProgress (2): 323/528 kB | 197/274 kBProgress (2): 327/528 kB | 197/274 kBProgress (2): 327/528 kB | 201/274 kBProgress (2): 327/528 kB | 205/274 kBProgress (2): 331/528 kB | 205/274 kBProgress (2): 331/528 kB | 209/274 kBProgress (2): 335/528 kB | 209/274 kBProgress (2): 335/528 kB | 213/274 kBProgress (2): 339/528 kB | 213/274 kBProgress (2): 344/528 kB | 213/274 kBProgress (2): 344/528 kB | 217/274 kBProgress (2): 344/528 kB | 221/274 kBProgress (2): 348/528 kB | 221/274 kBProgress (2): 348/528 kB | 225/274 kBProgress (2): 352/528 kB | 225/274 kBProgress (2): 352/528 kB | 229/274 kBProgress (2): 356/528 kB | 229/274 kBProgress (2): 360/528 kB | 229/274 kBProgress (2): 360/528 kB | 233/274 kBProgress (2): 360/528 kB | 238/274 kBProgress (2): 364/528 kB | 238/274 kBProgress (2): 364/528 kB | 242/274 kBProgress (2): 368/528 kB | 242/274 kBProgress (2): 368/528 kB | 246/274 kBProgress (2): 372/528 kB | 246/274 kBProgress (2): 376/528 kB | 246/274 kBProgress (2): 376/528 kB | 250/274 kBProgress (2): 376/528 kB | 254/274 kBProgress (2): 380/528 kB | 254/274 kBProgress (2): 384/528 kB | 254/274 kBProgress (2): 389/528 kB | 254/274 kBProgress (2): 393/528 kB | 254/274 kBProgress (2): 393/528 kB | 258/274 kBProgress (2): 393/528 kB | 262/274 kBProgress (2): 397/528 kB | 262/274 kBProgress (2): 397/528 kB | 266/274 kBProgress (2): 401/528 kB | 266/274 kBProgress (2): 401/528 kB | 270/274 kBProgress (2): 401/528 kB | 274 kB    Progress (2): 405/528 kB | 274 kBProgress (2): 409/528 kB | 274 kBProgress (2): 413/528 kB | 274 kBProgress (2): 417/528 kB | 274 kBProgress (2): 421/528 kB | 274 kBProgress (2): 425/528 kB | 274 kBProgress (2): 430/528 kB | 274 kBProgress (2): 434/528 kB | 274 kBProgress (2): 438/528 kB | 274 kBProgress (2): 442/528 kB | 274 kBProgress (2): 446/528 kB | 274 kBProgress (2): 450/528 kB | 274 kBProgress (2): 454/528 kB | 274 kBProgress (2): 458/528 kB | 274 kBProgress (2): 462/528 kB | 274 kBProgress (2): 466/528 kB | 274 kBProgress (2): 470/528 kB | 274 kBProgress (2): 475/528 kB | 274 kBProgress (2): 479/528 kB | 274 kBProgress (2): 483/528 kB | 274 kBProgress (2): 487/528 kB | 274 kB                                 Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-booter/2.22.1/surefire-booter-2.22.1.jar (274 kB at 1.4 MB/s)
+Progress (1): 491/528 kBProgress (1): 495/528 kBProgress (1): 499/528 kBProgress (1): 503/528 kBProgress (1): 507/528 kBProgress (1): 511/528 kBProgress (1): 516/528 kBProgress (1): 520/528 kBProgress (1): 524/528 kBProgress (1): 528/528 kBProgress (1): 528 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/maven-surefire-common/2.22.1/maven-surefire-common-2.22.1.jar (528 kB at 2.4 MB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-junit4/2.22.1/surefire-junit4-2.22.1.pom
+Progress (1): 3.1 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-junit4/2.22.1/surefire-junit4-2.22.1.pom (3.1 kB at 134 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-providers/2.22.1/surefire-providers-2.22.1.pom
+Progress (1): 2.5 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-providers/2.22.1/surefire-providers-2.22.1.pom (2.5 kB at 124 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-junit4/2.22.1/surefire-junit4-2.22.1.jar
+Progress (1): 4.1/85 kBProgress (1): 8.2/85 kBProgress (1): 12/85 kB Progress (1): 16/85 kBProgress (1): 20/85 kBProgress (1): 24/85 kBProgress (1): 28/85 kBProgress (1): 32/85 kBProgress (1): 36/85 kBProgress (1): 40/85 kBProgress (1): 45/85 kBProgress (1): 49/85 kBProgress (1): 53/85 kBProgress (1): 57/85 kBProgress (1): 61/85 kBProgress (1): 65/85 kBProgress (1): 69/85 kBProgress (1): 73/85 kBProgress (1): 77/85 kBProgress (1): 81/85 kBProgress (1): 85 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/surefire/surefire-junit4/2.22.1/surefire-junit4-2.22.1.jar (85 kB at 3.4 MB/s)
+[[1;34mINFO[m] 
+[[1;34mINFO[m] -------------------------------------------------------
+[[1;34mINFO[m]  T E S T S
+[[1;34mINFO[m] -------------------------------------------------------
+[[1;34mINFO[m] Running edu.yu.cs.com3800.[1mHttpTests[m
+Initializing 9 servers
+5 : updated 8's heartbeat sequence to 1 based on 8 at node time 11:01:31
+-1 : updated 3's heartbeat sequence to 1 based on 3 at node time 11:01:31
+6 : updated 1's heartbeat sequence to 1 based on 1 at node time 11:01:31
+9 : updated 6's heartbeat sequence to 1 based on 6 at node time 11:01:31
+2 : updated 5's heartbeat sequence to 1 based on 5 at node time 11:01:31
+Validating 9 servers and printing states
+
+5 : switching from LOOKING to FOLLOWING
+7 : switching from LOOKING to FOLLOWING
+1 : switching from LOOKING to FOLLOWING
+3 : switching from LOOKING to FOLLOWING
+2 : switching from LOOKING to FOLLOWING
+8 : switching from LOOKING to FOLLOWING
+4 : switching from LOOKING to FOLLOWING
+6 : switching from LOOKING to FOLLOWING
+9 : switching from LOOKING to LEADING
+1 is FOLLOWING 9
+2 is FOLLOWING 9
+3 is FOLLOWING 9
+4 is FOLLOWING 9
+5 is FOLLOWING 9
+6 is FOLLOWING 9
+7 is FOLLOWING 9
+8 is FOLLOWING 9
+9 is LEADING 9
+
+1 messages sent
+11 messages sent
+7 : updated 4's heartbeat sequence to 2 based on 4 at node time 11:01:34
+5 : updated 7's heartbeat sequence to 1 based on 7 at node time 11:01:34
+6 : updated 9's heartbeat sequence to 1 based on 9 at node time 11:01:34
+-1 : updated 5's heartbeat sequence to 2 based on 5 at node time 11:01:34
+-1 : updated 8's heartbeat sequence to 1 based on 5 at node time 11:01:34
+9 : updated 2's heartbeat sequence to 1 based on 2 at node time 11:01:34
+2 : updated 8's heartbeat sequence to 2 based on 8 at node time 11:01:34
+4 : updated 6's heartbeat sequence to 1 based on 9 at node time 11:01:34
+4 : updated 9's heartbeat sequence to 2 based on 9 at node time 11:01:34
+1 messages received
+6 : updated 4's heartbeat sequence to 1 based on 4 at node time 11:01:37
+3 : updated 1's heartbeat sequence to 1 based on 6 at node time 11:01:37
+3 : updated 6's heartbeat sequence to 3 based on 6 at node time 11:01:37
+3 : updated 9's heartbeat sequence to 1 based on 6 at node time 11:01:37
+9 : updated 3's heartbeat sequence to 2 based on 3 at node time 11:01:37
+5 : updated 2's heartbeat sequence to 2 based on 2 at node time 11:01:37
+7 : updated -1's heartbeat sequence to 3 based on -1 at node time 11:01:37
+-1 : updated 2's heartbeat sequence to 1 based on 9 at node time 11:01:37
+7 : updated 3's heartbeat sequence to 1 based on -1 at node time 11:01:37
+-1 : updated 6's heartbeat sequence to 1 based on 9 at node time 11:01:37
+7 : updated 5's heartbeat sequence to 2 based on -1 at node time 11:01:37
+7 : updated 8's heartbeat sequence to 1 based on -1 at node time 11:01:37
+-1 : updated 9's heartbeat sequence to 3 based on 9 at node time 11:01:37
+4 : updated 8's heartbeat sequence to 2 based on 8 at node time 11:01:37
+2 : updated 4's heartbeat sequence to 2 based on 4 at node time 11:01:37
+2 : updated 6's heartbeat sequence to 1 based on 4 at node time 11:01:37
+2 : updated 9's heartbeat sequence to 2 based on 4 at node time 11:01:37
+6 : updated 4's heartbeat sequence to 2 based on 7 at node time 11:01:40
+6 : updated 7's heartbeat sequence to 2 based on 7 at node time 11:01:40
+9 : updated 1's heartbeat sequence to 1 based on 6 at node time 11:01:40
+9 : updated 6's heartbeat sequence to 2 based on 6 at node time 11:01:40
+5 : updated -1's heartbeat sequence to 2 based on -1 at node time 11:01:40
+5 : updated 3's heartbeat sequence to 1 based on -1 at node time 11:01:40
+-1 : updated 3's heartbeat sequence to 2 based on 9 at node time 11:01:40
+-1 : updated 9's heartbeat sequence to 4 based on 9 at node time 11:01:40
+8 : updated -1's heartbeat sequence to 3 based on 7 at node time 11:01:40
+8 : updated 3's heartbeat sequence to 1 based on 7 at node time 11:01:40
+8 : updated 4's heartbeat sequence to 2 based on 7 at node time 11:01:40
+8 : updated 5's heartbeat sequence to 2 based on 7 at node time 11:01:40
+8 : updated 7's heartbeat sequence to 3 based on 7 at node time 11:01:40
+7 : updated 2's heartbeat sequence to 2 based on 5 at node time 11:01:40
+7 : updated 5's heartbeat sequence to 4 based on 5 at node time 11:01:40
+4 : updated 5's heartbeat sequence to 3 based on 5 at node time 11:01:40
+4 : updated 7's heartbeat sequence to 1 based on 5 at node time 11:01:40
+2 : updated -1's heartbeat sequence to 4 based on -1 at node time 11:01:40
+2 : updated 3's heartbeat sequence to 1 based on -1 at node time 11:01:40
+2 : updated 5's heartbeat sequence to 2 based on -1 at node time 11:01:40
+2 : updated 9's heartbeat sequence to 3 based on -1 at node time 11:01:40
+9 : updated 4's heartbeat sequence to 3 based on 4 at node time 11:01:43
+9 : updated 8's heartbeat sequence to 2 based on 4 at node time 11:01:43
+3 : updated -1's heartbeat sequence to 2 based on 5 at node time 11:01:43
+3 : updated 2's heartbeat sequence to 2 based on 5 at node time 11:01:43
+5 : updated 3's heartbeat sequence to 2 based on 3 at node time 11:01:43
+3 : updated 5's heartbeat sequence to 5 based on 5 at node time 11:01:43
+3 : updated 7's heartbeat sequence to 1 based on 5 at node time 11:01:43
+3 : updated 8's heartbeat sequence to 1 based on 5 at node time 11:01:43
+8 : updated 1's heartbeat sequence to 1 based on 3 at node time 11:01:43
+8 : updated 3's heartbeat sequence to 3 based on 3 at node time 11:01:43
+8 : updated 6's heartbeat sequence to 3 based on 3 at node time 11:01:43
+8 : updated 9's heartbeat sequence to 1 based on 3 at node time 11:01:43
+6 : updated -1's heartbeat sequence to 5 based on -1 at node time 11:01:43
+6 : updated 2's heartbeat sequence to 1 based on -1 at node time 11:01:43
+6 : updated 3's heartbeat sequence to 2 based on -1 at node time 11:01:43
+6 : updated 5's heartbeat sequence to 2 based on -1 at node time 11:01:43
+6 : updated 8's heartbeat sequence to 1 based on -1 at node time 11:01:43
+6 : updated 9's heartbeat sequence to 4 based on -1 at node time 11:01:43
+4 : updated 1's heartbeat sequence to 1 based on 6 at node time 11:01:43
+4 : updated 6's heartbeat sequence to 4 based on 6 at node time 11:01:43
+2 : updated 7's heartbeat sequence to 3 based on 8 at node time 11:01:43
+9 : updated 2's heartbeat sequence to 4 based on 2 at node time 11:01:46
+9 : updated 5's heartbeat sequence to 1 based on 2 at node time 11:01:46
+3 : updated -1's heartbeat sequence to 3 based on 7 at node time 11:01:46
+5 : updated 8's heartbeat sequence to 2 based on 8 at node time 11:01:46
+3 : updated 4's heartbeat sequence to 2 based on 7 at node time 11:01:46
+3 : updated 7's heartbeat sequence to 4 based on 7 at node time 11:01:46
+-1 : updated 2's heartbeat sequence to 2 based on 5 at node time 11:01:46
+-1 : updated 5's heartbeat sequence to 6 based on 5 at node time 11:01:46
+-1 : updated 7's heartbeat sequence to 1 based on 5 at node time 11:01:46
+8 : updated -1's heartbeat sequence to 4 based on 2 at node time 11:01:46
+8 : updated 2's heartbeat sequence to 5 based on 2 at node time 11:01:46
+8 : updated 9's heartbeat sequence to 3 based on 2 at node time 11:01:46
+6 : updated 2's heartbeat sequence to 2 based on 7 at node time 11:01:46
+6 : updated 5's heartbeat sequence to 4 based on 7 at node time 11:01:46
+6 : updated 7's heartbeat sequence to 5 based on 7 at node time 11:01:46
+4 : updated -1's heartbeat sequence to 2 based on 3 at node time 11:01:46
+4 : updated 2's heartbeat sequence to 2 based on 3 at node time 11:01:46
+4 : updated 3's heartbeat sequence to 3 based on 3 at node time 11:01:46
+4 : updated 5's heartbeat sequence to 5 based on 3 at node time 11:01:46
+9 : updated 4's heartbeat sequence to 4 based on 4 at node time 11:01:49
+9 : updated 5's heartbeat sequence to 3 based on 4 at node time 11:01:49
+9 : updated 7's heartbeat sequence to 1 based on 4 at node time 11:01:49
+5 : updated 1's heartbeat sequence to 1 based on 3 at node time 11:01:49
+5 : updated 6's heartbeat sequence to 3 based on 3 at node time 11:01:49
+5 : updated 9's heartbeat sequence to 1 based on 3 at node time 11:01:49
+-1 : updated 1's heartbeat sequence to 1 based on 8 at node time 11:01:49
+-1 : updated 3's heartbeat sequence to 3 based on 8 at node time 11:01:49
+3 : updated -1's heartbeat sequence to 6 based on -1 at node time 11:01:49
+-1 : updated 4's heartbeat sequence to 2 based on 8 at node time 11:01:49
+3 : updated 5's heartbeat sequence to 6 based on -1 at node time 11:01:49
+-1 : updated 6's heartbeat sequence to 3 based on 8 at node time 11:01:49
+3 : updated 9's heartbeat sequence to 4 based on -1 at node time 11:01:49
+-1 : updated 7's heartbeat sequence to 3 based on 8 at node time 11:01:49
+-1 : updated 8's heartbeat sequence to 3 based on 8 at node time 11:01:49
+7 : updated 1's heartbeat sequence to 1 based on 4 at node time 11:01:49
+7 : updated 3's heartbeat sequence to 3 based on 4 at node time 11:01:49
+7 : updated 4's heartbeat sequence to 6 based on 4 at node time 11:01:49
+7 : updated 5's heartbeat sequence to 5 based on 4 at node time 11:01:49
+7 : updated 6's heartbeat sequence to 4 based on 4 at node time 11:01:49
+7 : updated 8's heartbeat sequence to 2 based on 4 at node time 11:01:49
+7 : updated 9's heartbeat sequence to 2 based on 4 at node time 11:01:49
+4 : updated -1's heartbeat sequence to 4 based on 2 at node time 11:01:49
+4 : updated 2's heartbeat sequence to 7 based on 2 at node time 11:01:49
+4 : updated 7's heartbeat sequence to 3 based on 2 at node time 11:01:49
+4 : updated 9's heartbeat sequence to 3 based on 2 at node time 11:01:49
+9 : updated 4's heartbeat sequence to 5 based on 4 at node time 11:01:52
+9 : updated 6's heartbeat sequence to 4 based on 4 at node time 11:01:52
+5 : updated 4's heartbeat sequence to 3 based on 9 at node time 11:01:52
+5 : updated 9's heartbeat sequence to 6 based on 9 at node time 11:01:52
+-1 : updated 2's heartbeat sequence to 6 based on 2 at node time 11:01:52
+3 : updated -1's heartbeat sequence to 7 based on -1 at node time 11:01:52
+3 : updated 8's heartbeat sequence to 3 based on -1 at node time 11:01:52
+8 : updated -1's heartbeat sequence to 6 based on 3 at node time 11:01:52
+8 : updated 3's heartbeat sequence to 5 based on 3 at node time 11:01:52
+8 : updated 5's heartbeat sequence to 6 based on 3 at node time 11:01:52
+8 : updated 7's heartbeat sequence to 4 based on 3 at node time 11:01:52
+8 : updated 9's heartbeat sequence to 4 based on 3 at node time 11:01:52
+4 : updated 9's heartbeat sequence to 8 based on 9 at node time 11:01:52
+7 : updated -1's heartbeat sequence to 4 based on 4 at node time 11:01:52
+7 : updated 2's heartbeat sequence to 7 based on 4 at node time 11:01:52
+7 : updated 4's heartbeat sequence to 7 based on 4 at node time 11:01:52
+7 : updated 9's heartbeat sequence to 3 based on 4 at node time 11:01:52
+9 : updated -1's heartbeat sequence to 2 based on 5 at node time 11:01:55
+9 : updated 5's heartbeat sequence to 7 based on 5 at node time 11:01:55
+5 : updated 2's heartbeat sequence to 4 based on 9 at node time 11:01:55
+5 : updated 9's heartbeat sequence to 7 based on 9 at node time 11:01:55
+-1 : updated 3's heartbeat sequence to 4 based on 3 at node time 11:01:55
+-1 : updated 7's heartbeat sequence to 4 based on 3 at node time 11:01:55
+3 : updated 2's heartbeat sequence to 7 based on 2 at node time 11:01:55
+4 : updated -1's heartbeat sequence to 5 based on 6 at node time 11:01:55
+4 : updated 6's heartbeat sequence to 8 based on 6 at node time 11:01:55
+4 : updated 7's heartbeat sequence to 5 based on 6 at node time 11:01:55
+6 : updated 2's heartbeat sequence to 7 based on 2 at node time 11:01:55
+6 : updated 8's heartbeat sequence to 2 based on 2 at node time 11:01:55
+7 : updated -1's heartbeat sequence to 5 based on 6 at node time 11:01:55
+7 : updated 6's heartbeat sequence to 8 based on 6 at node time 11:01:55
+7 : updated 9's heartbeat sequence to 4 based on 6 at node time 11:01:55
+2 : updated 1's heartbeat sequence to 1 based on 7 at node time 11:01:55
+2 : updated 3's heartbeat sequence to 3 based on 7 at node time 11:01:55
+2 : updated 4's heartbeat sequence to 7 based on 7 at node time 11:01:55
+2 : updated 5's heartbeat sequence to 5 based on 7 at node time 11:01:55
+2 : updated 6's heartbeat sequence to 4 based on 7 at node time 11:01:55
+2 : updated 7's heartbeat sequence to 6 based on 7 at node time 11:01:55
+9 : updated -1's heartbeat sequence to 3 based on 7 at node time 11:01:58
+9 : updated 7's heartbeat sequence to 5 based on 7 at node time 11:01:58
+8 : updated 4's heartbeat sequence to 5 based on 9 at node time 11:01:58
+8 : updated 5's heartbeat sequence to 7 based on 9 at node time 11:01:58
+8 : updated 6's heartbeat sequence to 4 based on 9 at node time 11:01:58
+8 : updated 9's heartbeat sequence to 10 based on 9 at node time 11:01:58
+5 : updated -1's heartbeat sequence to 5 based on 6 at node time 11:01:58
+5 : updated 6's heartbeat sequence to 7 based on 6 at node time 11:01:58
+5 : updated 7's heartbeat sequence to 5 based on 6 at node time 11:01:58
+3 : updated -1's heartbeat sequence to 8 based on -1 at node time 11:01:58
+-1 : updated 4's heartbeat sequence to 3 based on 5 at node time 11:01:58
+-1 : updated 5's heartbeat sequence to 10 based on 5 at node time 11:01:58
+-1 : updated 9's heartbeat sequence to 7 based on 5 at node time 11:01:58
+7 : updated 4's heartbeat sequence to 9 based on 4 at node time 11:01:58
+7 : updated 9's heartbeat sequence to 8 based on 4 at node time 11:01:58
+9 : updated -1's heartbeat sequence to 4 based on 8 at node time 11:02:01
+9 : updated 2's heartbeat sequence to 5 based on 8 at node time 11:02:01
+9 : updated 3's heartbeat sequence to 3 based on 8 at node time 11:02:01
+9 : updated 8's heartbeat sequence to 4 based on 8 at node time 11:02:01
+2 : updated 5's heartbeat sequence to 7 based on 9 at node time 11:02:01
+2 : updated 9's heartbeat sequence to 11 based on 9 at node time 11:02:01
+8 : updated 2's heartbeat sequence to 7 based on 7 at node time 11:02:01
+8 : updated 4's heartbeat sequence to 7 based on 7 at node time 11:02:01
+8 : updated 6's heartbeat sequence to 8 based on 7 at node time 11:02:01
+8 : updated 7's heartbeat sequence to 7 based on 7 at node time 11:02:01
+5 : updated -1's heartbeat sequence to 8 based on 3 at node time 11:02:01
+5 : updated 2's heartbeat sequence to 7 based on 3 at node time 11:02:01
+5 : updated 3's heartbeat sequence to 8 based on 3 at node time 11:02:01
+5 : updated 8's heartbeat sequence to 3 based on 3 at node time 11:02:01
+4 : updated 5's heartbeat sequence to 9 based on 5 at node time 11:02:01
+3 : updated 4's heartbeat sequence to 10 based on 4 at node time 11:02:01
+3 : updated 6's heartbeat sequence to 8 based on 4 at node time 11:02:01
+3 : updated 7's heartbeat sequence to 5 based on 4 at node time 11:02:01
+3 : updated 9's heartbeat sequence to 8 based on 4 at node time 11:02:01
+9 : updated 5's heartbeat sequence to 8 based on 5 at node time 11:02:04
+-1 : updated 4's heartbeat sequence to 5 based on 9 at node time 11:02:04
+2 : updated -1's heartbeat sequence to 6 based on 8 at node time 11:02:04
+-1 : updated 6's heartbeat sequence to 4 based on 9 at node time 11:02:04
+2 : updated 3's heartbeat sequence to 5 based on 8 at node time 11:02:04
+-1 : updated 7's heartbeat sequence to 5 based on 9 at node time 11:02:04
+2 : updated 8's heartbeat sequence to 6 based on 8 at node time 11:02:04
+-1 : updated 8's heartbeat sequence to 4 based on 9 at node time 11:02:04
+-1 : updated 9's heartbeat sequence to 12 based on 9 at node time 11:02:04
+6 : updated 2's heartbeat sequence to 8 based on 2 at node time 11:02:04
+6 : updated 3's heartbeat sequence to 3 based on 2 at node time 11:02:04
+6 : updated 4's heartbeat sequence to 7 based on 2 at node time 11:02:04
+6 : updated 5's heartbeat sequence to 7 based on 2 at node time 11:02:04
+6 : updated 7's heartbeat sequence to 6 based on 2 at node time 11:02:04
+6 : updated 9's heartbeat sequence to 11 based on 2 at node time 11:02:04
+5 : updated 4's heartbeat sequence to 9 based on 7 at node time 11:02:04
+5 : updated 6's heartbeat sequence to 8 based on 7 at node time 11:02:04
+5 : updated 7's heartbeat sequence to 8 based on 7 at node time 11:02:04
+5 : updated 9's heartbeat sequence to 8 based on 7 at node time 11:02:04
+4 : updated -1's heartbeat sequence to 9 based on -1 at node time 11:02:04
+4 : updated 3's heartbeat sequence to 4 based on -1 at node time 11:02:04
+4 : updated 8's heartbeat sequence to 3 based on -1 at node time 11:02:04
+3 : updated 6's heartbeat sequence to 9 based on 6 at node time 11:02:04
+9 : updated 8's heartbeat sequence to 5 based on 8 at node time 11:02:07
+2 : updated -1's heartbeat sequence to 10 based on -1 at node time 11:02:07
+2 : updated 5's heartbeat sequence to 10 based on -1 at node time 11:02:07
+8 : updated -1's heartbeat sequence to 11 based on -1 at node time 11:02:07
+8 : updated 5's heartbeat sequence to 10 based on -1 at node time 11:02:07
+8 : updated 9's heartbeat sequence to 12 based on -1 at node time 11:02:07
+-1 : updated 2's heartbeat sequence to 7 based on 5 at node time 11:02:07
+-1 : updated 3's heartbeat sequence to 8 based on 5 at node time 11:02:07
+-1 : updated 4's heartbeat sequence to 9 based on 5 at node time 11:02:07
+-1 : updated 5's heartbeat sequence to 13 based on 5 at node time 11:02:07
+-1 : updated 6's heartbeat sequence to 8 based on 5 at node time 11:02:07
+-1 : updated 7's heartbeat sequence to 8 based on 5 at node time 11:02:07
+6 : updated 4's heartbeat sequence to 11 based on 4 at node time 11:02:07
+6 : updated 5's heartbeat sequence to 9 based on 4 at node time 11:02:07
+3 : updated 5's heartbeat sequence to 12 based on 5 at node time 11:02:07
+4 : updated 3's heartbeat sequence to 5 based on 8 at node time 11:02:07
+4 : updated 7's heartbeat sequence to 7 based on 8 at node time 11:02:07
+4 : updated 8's heartbeat sequence to 7 based on 8 at node time 11:02:07
+4 : updated 9's heartbeat sequence to 10 based on 8 at node time 11:02:07
+5 : updated -1's heartbeat sequence to 9 based on 4 at node time 11:02:07
+5 : updated 4's heartbeat sequence to 12 based on 4 at node time 11:02:07
+9 : updated -1's heartbeat sequence to 6 based on 8 at node time 11:02:10
+9 : updated 3's heartbeat sequence to 5 based on 8 at node time 11:02:10
+2 : updated 4's heartbeat sequence to 9 based on 7 at node time 11:02:10
+2 : updated 6's heartbeat sequence to 8 based on 7 at node time 11:02:10
+2 : updated 7's heartbeat sequence to 10 based on 7 at node time 11:02:10
+-1 : updated 2's heartbeat sequence to 8 based on 6 at node time 11:02:10
+-1 : updated 6's heartbeat sequence to 9 based on 6 at node time 11:02:10
+6 : updated 8's heartbeat sequence to 4 based on 9 at node time 11:02:10
+6 : updated 9's heartbeat sequence to 13 based on 9 at node time 11:02:10
+3 : updated -1's heartbeat sequence to 11 based on 8 at node time 11:02:10
+3 : updated 7's heartbeat sequence to 7 based on 8 at node time 11:02:10
+3 : updated 8's heartbeat sequence to 8 based on 8 at node time 11:02:10
+3 : updated 9's heartbeat sequence to 12 based on 8 at node time 11:02:10
+4 : updated 2's heartbeat sequence to 9 based on 2 at node time 11:02:10
+4 : updated 9's heartbeat sequence to 11 based on 2 at node time 11:02:10
+9 : updated 2's heartbeat sequence to 7 based on 4 at node time 11:02:13
+9 : updated 4's heartbeat sequence to 8 based on 4 at node time 11:02:13
+2 : updated 9's heartbeat sequence to 14 based on 9 at node time 11:02:13
+-1 : updated 4's heartbeat sequence to 11 based on 6 at node time 11:02:13
+-1 : updated 6's heartbeat sequence to 10 based on 6 at node time 11:02:13
+6 : updated -1's heartbeat sequence to 8 based on 3 at node time 11:02:13
+6 : updated 3's heartbeat sequence to 10 based on 3 at node time 11:02:13
+3 : updated 8's heartbeat sequence to 9 based on 8 at node time 11:02:13
+7 : updated -1's heartbeat sequence to 9 based on 5 at node time 11:02:13
+7 : updated 3's heartbeat sequence to 8 based on 5 at node time 11:02:13
+7 : updated 4's heartbeat sequence to 12 based on 5 at node time 11:02:13
+7 : updated 5's heartbeat sequence to 15 based on 5 at node time 11:02:13
+7 : updated 8's heartbeat sequence to 3 based on 5 at node time 11:02:13
+4 : updated 7's heartbeat sequence to 10 based on 7 at node time 11:02:13
+9 : updated -1's heartbeat sequence to 7 based on 3 at node time 11:02:16
+9 : updated 3's heartbeat sequence to 7 based on 3 at node time 11:02:16
+2 : updated -1's heartbeat sequence to 12 based on -1 at node time 11:02:16
+2 : updated 3's heartbeat sequence to 8 based on -1 at node time 11:02:16
+2 : updated 5's heartbeat sequence to 13 based on -1 at node time 11:02:16
+5 : updated -1's heartbeat sequence to 10 based on 2 at node time 11:02:16
+5 : updated 2's heartbeat sequence to 12 based on 2 at node time 11:02:16
+5 : updated 7's heartbeat sequence to 10 based on 2 at node time 11:02:16
+5 : updated 8's heartbeat sequence to 6 based on 2 at node time 11:02:16
+5 : updated 9's heartbeat sequence to 14 based on 2 at node time 11:02:16
+-1 : updated 3's heartbeat sequence to 11 based on 3 at node time 11:02:16
+6 : updated -1's heartbeat sequence to 9 based on 5 at node time 11:02:16
+6 : updated 4's heartbeat sequence to 12 based on 5 at node time 11:02:16
+6 : updated 5's heartbeat sequence to 14 based on 5 at node time 11:02:16
+6 : updated 7's heartbeat sequence to 8 based on 5 at node time 11:02:16
+6 : no heartbeat from server 1 - server failed
+3 : updated 2's heartbeat sequence to 8 based on 6 at node time 11:02:16
+3 : updated 4's heartbeat sequence to 11 based on 6 at node time 11:02:16
+3 : updated 6's heartbeat sequence to 12 based on 6 at node time 11:02:16
+3 : updated 9's heartbeat sequence to 13 based on 6 at node time 11:02:16
+4 : updated 6's heartbeat sequence to 11 based on 6 at node time 11:02:16
+4 : updated 9's heartbeat sequence to 13 based on 6 at node time 11:02:16
+9 : updated 7's heartbeat sequence to 6 based on 2 at node time 11:02:19
+2 : updated 3's heartbeat sequence to 12 based on 3 at node time 11:02:19
+2 : updated 4's heartbeat sequence to 10 based on 3 at node time 11:02:19
+2 : updated 6's heartbeat sequence to 9 based on 3 at node time 11:02:19
+2 : updated 8's heartbeat sequence to 8 based on 3 at node time 11:02:19
+5 : updated -1's heartbeat sequence to 11 based on 8 at node time 11:02:19
+5 : updated 8's heartbeat sequence to 9 based on 8 at node time 11:02:19
+-1 : updated 2's heartbeat sequence to 9 based on 4 at node time 11:02:19
+-1 : updated 4's heartbeat sequence to 14 based on 4 at node time 11:02:19
+8 : updated -1's heartbeat sequence to 15 based on -1 at node time 11:02:19
+-1 : updated 8's heartbeat sequence to 7 based on 4 at node time 11:02:19
+8 : updated 2's heartbeat sequence to 8 based on -1 at node time 11:02:19
+8 : updated 3's heartbeat sequence to 11 based on -1 at node time 11:02:19
+8 : updated 4's heartbeat sequence to 11 based on -1 at node time 11:02:19
+8 : updated 5's heartbeat sequence to 13 based on -1 at node time 11:02:19
+8 : updated 6's heartbeat sequence to 10 based on -1 at node time 11:02:19
+8 : updated 7's heartbeat sequence to 8 based on -1 at node time 11:02:19
+6 : updated 8's heartbeat sequence to 5 based on 9 at node time 11:02:19
+6 : updated 9's heartbeat sequence to 15 based on 9 at node time 11:02:19
+7 : updated 2's heartbeat sequence to 8 based on 6 at node time 11:02:19
+7 : updated 3's heartbeat sequence to 10 based on 6 at node time 11:02:19
+7 : updated 6's heartbeat sequence to 13 based on 6 at node time 11:02:19
+7 : updated 8's heartbeat sequence to 4 based on 6 at node time 11:02:19
+7 : updated 9's heartbeat sequence to 13 based on 6 at node time 11:02:19
+4 : updated -1's heartbeat sequence to 13 based on -1 at node time 11:02:19
+4 : updated 3's heartbeat sequence to 8 based on -1 at node time 11:02:19
+4 : updated 5's heartbeat sequence to 13 based on -1 at node time 11:02:19
+9 : updated 5's heartbeat sequence to 11 based on 5 at node time 11:02:22
+9 : updated 6's heartbeat sequence to 7 based on 5 at node time 11:02:22
+2 : updated 3's heartbeat sequence to 13 based on 3 at node time 11:02:22
+2 : updated 8's heartbeat sequence to 9 based on 3 at node time 11:02:22
+5 : updated -1's heartbeat sequence to 12 based on 2 at node time 11:02:22
+5 : updated 2's heartbeat sequence to 13 based on 2 at node time 11:02:22
+-1 : updated 9's heartbeat sequence to 16 based on 9 at node time 11:02:22
+3 : updated -1's heartbeat sequence to 15 based on 8 at node time 11:02:22
+3 : updated 5's heartbeat sequence to 13 based on 8 at node time 11:02:22
+3 : updated 7's heartbeat sequence to 8 based on 8 at node time 11:02:22
+3 : no heartbeat from server 1 - server failed
+6 : updated -1's heartbeat sequence to 14 based on -1 at node time 11:02:22
+8 : updated 4's heartbeat sequence to 12 based on 6 at node time 11:02:22
+8 : updated 5's heartbeat sequence to 14 based on 6 at node time 11:02:22
+8 : updated 6's heartbeat sequence to 14 based on 6 at node time 11:02:22
+8 : updated 9's heartbeat sequence to 15 based on 6 at node time 11:02:22
+7 : updated 8's heartbeat sequence to 5 based on 9 at node time 11:02:22
+7 : updated 9's heartbeat sequence to 18 based on 9 at node time 11:02:22
+4 : updated 2's heartbeat sequence to 12 based on 5 at node time 11:02:22
+4 : updated 5's heartbeat sequence to 16 based on 5 at node time 11:02:22
+4 : updated 8's heartbeat sequence to 9 based on 5 at node time 11:02:22
+4 : updated 9's heartbeat sequence to 14 based on 5 at node time 11:02:22
+9 : updated 4's heartbeat sequence to 9 based on 7 at node time 11:02:25
+9 : updated 6's heartbeat sequence to 8 based on 7 at node time 11:02:25
+9 : updated 7's heartbeat sequence to 9 based on 7 at node time 11:02:25
+9 : no heartbeat from server 1 - server failed
+2 : updated 4's heartbeat sequence to 12 based on 5 at node time 11:02:25
+2 : updated 5's heartbeat sequence to 15 based on 5 at node time 11:02:25
+5 : updated 9's heartbeat sequence to 17 based on 9 at node time 11:02:25
+-1 : updated 8's heartbeat sequence to 9 based on 8 at node time 11:02:25
+3 : updated 2's heartbeat sequence to 13 based on 5 at node time 11:02:25
+3 : updated 4's heartbeat sequence to 12 based on 5 at node time 11:02:25
+3 : updated 5's heartbeat sequence to 17 based on 5 at node time 11:02:25
+3 : updated 7's heartbeat sequence to 10 based on 5 at node time 11:02:25
+3 : updated 9's heartbeat sequence to 14 based on 5 at node time 11:02:25
+6 : updated 2's heartbeat sequence to 9 based on 4 at node time 11:02:25
+6 : updated 4's heartbeat sequence to 15 based on 4 at node time 11:02:25
+6 : updated 7's heartbeat sequence to 10 based on 4 at node time 11:02:25
+6 : updated 8's heartbeat sequence to 7 based on 4 at node time 11:02:25
+7 : updated -1's heartbeat sequence to 16 based on -1 at node time 11:02:25
+8 : updated 5's heartbeat sequence to 15 based on 7 at node time 11:02:25
+8 : updated 7's heartbeat sequence to 12 based on 7 at node time 11:02:25
+7 : updated 2's heartbeat sequence to 9 based on -1 at node time 11:02:25
+7 : updated 3's heartbeat sequence to 11 based on -1 at node time 11:02:25
+8 : updated 9's heartbeat sequence to 18 based on 7 at node time 11:02:25
+7 : updated 4's heartbeat sequence to 14 based on -1 at node time 11:02:25
+7 : updated 8's heartbeat sequence to 7 based on -1 at node time 11:02:25
+4 : updated 2's heartbeat sequence to 15 based on 2 at node time 11:02:25
+4 : updated 3's heartbeat sequence to 13 based on 2 at node time 11:02:25
+6 messages received
+11 messages received
+1 messages sent
+11 messages sent
+1 messages received
+9 : updated -1's heartbeat sequence to 10 based on 2 at node time 11:02:28
+9 : updated 2's heartbeat sequence to 11 based on 2 at node time 11:02:28
+9 : updated 7's heartbeat sequence to 10 based on 2 at node time 11:02:28
+9 : updated 8's heartbeat sequence to 6 based on 2 at node time 11:02:28
+5 : updated -1's heartbeat sequence to 15 based on 3 at node time 11:02:28
+5 : updated 3's heartbeat sequence to 15 based on 3 at node time 11:02:28
+5 : updated 6's heartbeat sequence to 12 based on 3 at node time 11:02:28
+-1 : updated 5's heartbeat sequence to 15 based on 7 at node time 11:02:28
+-1 : updated 7's heartbeat sequence to 10 based on 7 at node time 11:02:28
+3 : updated 9's heartbeat sequence to 20 based on 9 at node time 11:02:28
+6 : updated 2's heartbeat sequence to 14 based on 2 at node time 11:02:28
+6 : updated 3's heartbeat sequence to 12 based on 2 at node time 11:02:28
+6 : updated 8's heartbeat sequence to 8 based on 2 at node time 11:02:28
+2 : updated 5's heartbeat sequence to 18 based on 5 at node time 11:02:28
+2 : updated 9's heartbeat sequence to 17 based on 5 at node time 11:02:28
+7 : updated 4's heartbeat sequence to 17 based on 4 at node time 11:02:28
+4 : updated -1's heartbeat sequence to 14 based on 6 at node time 11:02:28
+4 : updated 6's heartbeat sequence to 16 based on 6 at node time 11:02:28
+4 : updated 9's heartbeat sequence to 15 based on 6 at node time 11:02:28
+4 : no heartbeat from server 1 - server failed
+6 messages received
+11 messages received
+Expected response:
+Code did not compile:
+Error on line 1, column 96 in string:///HelloWorld.java
+
+java.lang.IllegalArgumentException: Code did not compile:
+Error on line 1, column 96 in string:///HelloWorld.java
+
+	at edu.yu.cs.com3800.JavaRunner.compileFromString(JavaRunner.java:104)
+	at edu.yu.cs.com3800.JavaRunner.compileAndRun(JavaRunner.java:78)
+Actual response:
+Code did not compile:
+Error on line 1, column 96 in string:///HelloWorld.java
+
+java.lang.IllegalArgumentException: Code did not compile:
+Error on line 1, column 96 in string:///HelloWorld.java
+
+	at edu.yu.cs.com3800.JavaRunner.compileFromString(JavaRunner.java:104)
+	at edu.yu.cs.com3800.JavaRunner.compileAndRun(JavaRunner.java:78)
+9 : updated -1's heartbeat sequence to 11 based on 3 at node time 11:02:31
+9 : updated 3's heartbeat sequence to 14 based on 3 at node time 11:02:31
+9 : updated 4's heartbeat sequence to 11 based on 3 at node time 11:02:31
+9 : updated 5's heartbeat sequence to 12 based on 3 at node time 11:02:31
+9 : updated 6's heartbeat sequence to 12 based on 3 at node time 11:02:31
+9 : updated 8's heartbeat sequence to 9 based on 3 at node time 11:02:31
+-1 : updated 6's heartbeat sequence to 15 based on 6 at node time 11:02:31
+3 : updated 6's heartbeat sequence to 14 based on 8 at node time 11:02:31
+3 : updated 7's heartbeat sequence to 12 based on 8 at node time 11:02:31
+3 : updated 8's heartbeat sequence to 11 based on 8 at node time 11:02:31
+6 : updated -1's heartbeat sequence to 15 based on 8 at node time 11:02:31
+6 : updated 8's heartbeat sequence to 10 based on 8 at node time 11:02:31
+7 : updated 2's heartbeat sequence to 13 based on 3 at node time 11:02:31
+7 : updated 3's heartbeat sequence to 16 based on 3 at node time 11:02:31
+7 : updated 5's heartbeat sequence to 17 based on 3 at node time 11:02:31
+7 : updated 8's heartbeat sequence to 9 based on 3 at node time 11:02:31
+Expected response:
+happyShortSingleLine
+Actual response:
+happyShortSingleLine
+Expected response:
+400
+Actual response:
+400
+Expected response:
+
+Actual response:
+
+1 messages sent
+6 messages sent
+11 messages sent
+1 messages received
+6 messages received
+11 messages received
+9 : updated -1's heartbeat sequence to 17 based on -1 at node time 11:02:34
+9 : updated 4's heartbeat sequence to 14 based on -1 at node time 11:02:34
+9 : updated 5's heartbeat sequence to 13 based on -1 at node time 11:02:34
+5 : updated -1's heartbeat sequence to 20 based on -1 at node time 11:02:34
+5 : updated 4's heartbeat sequence to 14 based on -1 at node time 11:02:34
+5 : updated 6's heartbeat sequence to 15 based on -1 at node time 11:02:34
+5 : no heartbeat from server 1 - server failed
+3 : updated 8's heartbeat sequence to 12 based on 8 at node time 11:02:34
+-1 : updated 2's heartbeat sequence to 13 based on 3 at node time 11:02:34
+-1 : updated 3's heartbeat sequence to 18 based on 3 at node time 11:02:34
+-1 : updated 5's heartbeat sequence to 17 based on 3 at node time 11:02:34
+-1 : updated 7's heartbeat sequence to 12 based on 3 at node time 11:02:34
+-1 : updated 8's heartbeat sequence to 11 based on 3 at node time 11:02:34
+-1 : updated 9's heartbeat sequence to 20 based on 3 at node time 11:02:34
+-1 : no heartbeat from server 1 - server failed
+6 : updated 2's heartbeat sequence to 16 based on 2 at node time 11:02:34
+6 : updated 3's heartbeat sequence to 13 based on 2 at node time 11:02:34
+6 : updated 5's heartbeat sequence to 15 based on 2 at node time 11:02:34
+7 : updated 3's heartbeat sequence to 17 based on 3 at node time 11:02:34
+7 : updated 9's heartbeat sequence to 20 based on 3 at node time 11:02:34
+7 : no heartbeat from server 1 - server failed
+4 : updated -1's heartbeat sequence to 16 based on 7 at node time 11:02:34
+4 : updated 3's heartbeat sequence to 16 based on 7 at node time 11:02:34
+4 : updated 5's heartbeat sequence to 17 based on 7 at node time 11:02:34
+4 : updated 7's heartbeat sequence to 15 based on 7 at node time 11:02:34
+4 : updated 9's heartbeat sequence to 18 based on 7 at node time 11:02:34
+Expected response:
+Code did not compile:
+Error on line 5, column 29 in string:///HelloWorld.java
+
+java.lang.IllegalArgumentException: Code did not compile:
+Error on line 5, column 29 in string:///HelloWorld.java
+
+	at edu.yu.cs.com3800.JavaRunner.compileFromString(JavaRunner.java:104)
+	at edu.yu.cs.com3800.JavaRunner.compileAndRun(JavaRunner.java:78)
+Actual response:
+Code did not compile:
+Error on line 5, column 29 in string:///HelloWorld.java
+
+java.lang.IllegalArgumentException: Code did not compile:
+Error on line 5, column 29 in string:///HelloWorld.java
+
+	at edu.yu.cs.com3800.JavaRunner.compileFromString(JavaRunner.java:104)
+	at edu.yu.cs.com3800.JavaRunner.compileAndRun(JavaRunner.java:78)
+Expected response:
+happyShortMultiLine
+Actual response:
+happyShortMultiLine
+9 : updated 5's heartbeat sequence to 15 based on 7 at node time 11:02:37
+9 : updated 6's heartbeat sequence to 13 based on 7 at node time 11:02:37
+9 : updated 7's heartbeat sequence to 13 based on 7 at node time 11:02:37
+-1 : updated 2's heartbeat sequence to 14 based on 6 at node time 11:02:37
+-1 : updated 4's heartbeat sequence to 15 based on 6 at node time 11:02:37
+-1 : updated 6's heartbeat sequence to 18 based on 6 at node time 11:02:37
+5 : updated 2's heartbeat sequence to 18 based on 2 at node time 11:02:37
+6 : updated -1's heartbeat sequence to 18 based on -1 at node time 11:02:37
+6 : updated 9's heartbeat sequence to 16 based on -1 at node time 11:02:37
+8 : updated -1's heartbeat sequence to 21 based on -1 at node time 11:02:37
+8 : updated 2's heartbeat sequence to 13 based on -1 at node time 11:02:37
+8 : updated 3's heartbeat sequence to 18 based on -1 at node time 11:02:37
+8 : updated 4's heartbeat sequence to 14 based on -1 at node time 11:02:37
+8 : updated 5's heartbeat sequence to 17 based on -1 at node time 11:02:37
+8 : updated 6's heartbeat sequence to 15 based on -1 at node time 11:02:37
+8 : updated 9's heartbeat sequence to 20 based on -1 at node time 11:02:37
+8 : no heartbeat from server 1 - server failed
+7 : updated 5's heartbeat sequence to 20 based on 5 at node time 11:02:37
+Expected response:
+200
+Actual response:
+200
+Expected response:
+happyShortMultiLine
+Actual response:
+happyShortMultiLine
+Expected response:
+happyShortMultiLine
+Actual response:
+happyShortMultiLine
+Expected response:
+200
+Actual response:
+200
+Expected response:
+happyShortSingleLine
+Actual response:
+happyShortSingleLine
+9 : updated -1's heartbeat sequence to 19 based on -1 at node time 11:02:40
+-1 : updated 5's heartbeat sequence to 20 based on 5 at node time 11:02:40
+5 : updated 3's heartbeat sequence to 17 based on 7 at node time 11:02:40
+5 : updated 4's heartbeat sequence to 17 based on 7 at node time 11:02:40
+5 : updated 7's heartbeat sequence to 16 based on 7 at node time 11:02:40
+5 : updated 9's heartbeat sequence to 20 based on 7 at node time 11:02:40
+6 : updated 9's heartbeat sequence to 21 based on 9 at node time 11:02:40
+2 : updated -1's heartbeat sequence to 22 based on -1 at node time 11:02:40
+2 : updated 3's heartbeat sequence to 18 based on -1 at node time 11:02:40
+2 : updated 4's heartbeat sequence to 15 based on -1 at node time 11:02:40
+2 : updated 6's heartbeat sequence to 18 based on -1 at node time 11:02:40
+2 : updated 7's heartbeat sequence to 12 based on -1 at node time 11:02:40
+2 : updated 8's heartbeat sequence to 11 based on -1 at node time 11:02:40
+2 : updated 9's heartbeat sequence to 20 based on -1 at node time 11:02:40
+7 : updated -1's heartbeat sequence to 17 based on 9 at node time 11:02:40
+7 : updated 9's heartbeat sequence to 23 based on 9 at node time 11:02:40
+Expected response:
+200
+Actual response:
+200
+Expected response:
+happyShortMultiLine
+Actual response:
+happyShortMultiLine
+Expected response:
+400
+Actual response:
+400
+Expected response:
+Code did not compile:
+Error on line 1, column 96 in string:///HelloWorld.java
+
+java.lang.IllegalArgumentException: Code did not compile:
+Error on line 1, column 96 in string:///HelloWorld.java
+
+	at edu.yu.cs.com3800.JavaRunner.compileFromString(JavaRunner.java:104)
+	at edu.yu.cs.com3800.JavaRunner.compileAndRun(JavaRunner.java:78)
+Actual response:
+Code did not compile:
+Error on line 1, column 96 in string:///HelloWorld.java
+
+java.lang.IllegalArgumentException: Code did not compile:
+Error on line 1, column 96 in string:///HelloWorld.java
+
+	at edu.yu.cs.com3800.JavaRunner.compileFromString(JavaRunner.java:104)
+	at edu.yu.cs.com3800.JavaRunner.compileAndRun(JavaRunner.java:78)
+Expected response:
+400
+Actual response:
+400
+Expected response:
+Code did not compile:
+Error on line 5, column 29 in string:///HelloWorld.java
+
+java.lang.IllegalArgumentException: Code did not compile:
+Error on line 5, column 29 in string:///HelloWorld.java
+
+	at edu.yu.cs.com3800.JavaRunner.compileFromString(JavaRunner.java:104)
+	at edu.yu.cs.com3800.JavaRunner.compileAndRun(JavaRunner.java:78)
+Actual response:
+Code did not compile:
+Error on line 5, column 29 in string:///HelloWorld.java
+
+java.lang.IllegalArgumentException: Code did not compile:
+Error on line 5, column 29 in string:///HelloWorld.java
+
+	at edu.yu.cs.com3800.JavaRunner.compileFromString(JavaRunner.java:104)
+	at edu.yu.cs.com3800.JavaRunner.compileAndRun(JavaRunner.java:78)
+1 messages sent
+9 : updated 2's heartbeat sequence to 14 based on 6 at node time 11:02:43
+9 : updated 4's heartbeat sequence to 15 based on 6 at node time 11:02:43
+9 : updated 6's heartbeat sequence to 17 based on 6 at node time 11:02:43
+-1 : updated 2's heartbeat sequence to 18 based on 2 at node time 11:02:43
+5 : updated 6's heartbeat sequence to 20 based on 6 at node time 11:02:43
+5 : updated 8's heartbeat sequence to 10 based on 6 at node time 11:02:43
+6 : updated 2's heartbeat sequence to 17 based on 2 at node time 11:02:43
+6 : updated 5's heartbeat sequence to 18 based on 2 at node time 11:02:43
+4 : updated -1's heartbeat sequence to 22 based on 2 at node time 11:02:43
+4 : updated 2's heartbeat sequence to 18 based on 2 at node time 11:02:43
+2 : updated 5's heartbeat sequence to 21 based on 5 at node time 11:02:43
+4 : updated 3's heartbeat sequence to 18 based on 2 at node time 11:02:43
+4 : updated 5's heartbeat sequence to 18 based on 2 at node time 11:02:43
+4 : updated 6's heartbeat sequence to 18 based on 2 at node time 11:02:43
+2 : no heartbeat from server 1 - server failed
+4 : updated 8's heartbeat sequence to 11 based on 2 at node time 11:02:43
+4 : updated 9's heartbeat sequence to 20 based on 2 at node time 11:02:43
+7 : updated 3's heartbeat sequence to 19 based on 3 at node time 11:02:43
+7 : updated 6's heartbeat sequence to 14 based on 3 at node time 11:02:43
+7 : updated 8's heartbeat sequence to 12 based on 3 at node time 11:02:43
+8 : updated 4's heartbeat sequence to 17 based on 7 at node time 11:02:43
+8 : updated 5's heartbeat sequence to 20 based on 7 at node time 11:02:43
+8 : updated 7's heartbeat sequence to 18 based on 7 at node time 11:02:43
+8 : updated 9's heartbeat sequence to 23 based on 7 at node time 11:02:43
+9 : updated 2's heartbeat sequence to 15 based on 4 at node time 11:02:46
+9 : updated 4's heartbeat sequence to 20 based on 4 at node time 11:02:46
+9 : updated 5's heartbeat sequence to 16 based on 4 at node time 11:02:46
+5 : updated 7's heartbeat sequence to 17 based on 7 at node time 11:02:46
+3 : updated -1's heartbeat sequence to 24 based on -1 at node time 11:02:46
+3 : updated 2's heartbeat sequence to 18 based on -1 at node time 11:02:46
+3 : updated 4's heartbeat sequence to 15 based on -1 at node time 11:02:46
+3 : updated 5's heartbeat sequence to 20 based on -1 at node time 11:02:46
+3 : updated 6's heartbeat sequence to 18 based on -1 at node time 11:02:46
+6 : updated 3's heartbeat sequence to 14 based on 9 at node time 11:02:46
+6 : updated 9's heartbeat sequence to 22 based on 9 at node time 11:02:46
+2 : updated 3's heartbeat sequence to 20 based on 3 at node time 11:02:46
+2 : updated 8's heartbeat sequence to 12 based on 3 at node time 11:02:46
+7 : updated 2's heartbeat sequence to 16 based on 6 at node time 11:02:46
+7 : updated 6's heartbeat sequence to 19 based on 6 at node time 11:02:46
+8 : updated -1's heartbeat sequence to 22 based on 4 at node time 11:02:46
+8 : updated 2's heartbeat sequence to 18 based on 4 at node time 11:02:46
+8 : updated 4's heartbeat sequence to 22 based on 4 at node time 11:02:46
+8 : updated 6's heartbeat sequence to 18 based on 4 at node time 11:02:46
+-1 : updated 4's heartbeat sequence to 17 based on 8 at node time 11:02:46
+-1 : updated 7's heartbeat sequence to 18 based on 8 at node time 11:02:46
+-1 : updated 8's heartbeat sequence to 13 based on 8 at node time 11:02:46
+-1 : updated 9's heartbeat sequence to 23 based on 8 at node time 11:02:46
+4 : updated 3's heartbeat sequence to 19 based on 7 at node time 11:02:46
+4 : updated 5's heartbeat sequence to 20 based on 7 at node time 11:02:46
+4 : updated 7's heartbeat sequence to 19 based on 7 at node time 11:02:46
+4 : updated 8's heartbeat sequence to 12 based on 7 at node time 11:02:46
+4 : updated 9's heartbeat sequence to 23 based on 7 at node time 11:02:46
+5 : updated 9's heartbeat sequence to 26 based on 9 at node time 11:02:49
+6 : updated 7's heartbeat sequence to 13 based on 9 at node time 11:02:49
+6 : updated 9's heartbeat sequence to 24 based on 9 at node time 11:02:49
+7 : updated 4's heartbeat sequence to 22 based on 4 at node time 11:02:49
+-1 : updated 3's heartbeat sequence to 20 based on 3 at node time 11:02:49
+5 : updated -1's heartbeat sequence to 25 based on -1 at node time 11:02:52
+5 : updated 3's heartbeat sequence to 18 based on -1 at node time 11:02:52
+5 : updated 7's heartbeat sequence to 18 based on -1 at node time 11:02:52
+5 : updated 8's heartbeat sequence to 13 based on -1 at node time 11:02:52
+6 : updated 3's heartbeat sequence to 20 based on 3 at node time 11:02:52
+6 : updated 8's heartbeat sequence to 12 based on 3 at node time 11:02:52
+2 : updated 4's heartbeat sequence to 17 based on 5 at node time 11:02:52
+2 : updated 5's heartbeat sequence to 23 based on 5 at node time 11:02:52
+2 : updated 6's heartbeat sequence to 20 based on 5 at node time 11:02:52
+2 : updated 7's heartbeat sequence to 16 based on 5 at node time 11:02:52
+8 : updated 2's heartbeat sequence to 21 based on 2 at node time 11:02:52
+8 : updated 3's heartbeat sequence to 20 based on 2 at node time 11:02:52
+8 : updated 5's heartbeat sequence to 21 based on 2 at node time 11:02:52
+3 : updated 4's heartbeat sequence to 17 based on 5 at node time 11:02:52
+3 : updated 5's heartbeat sequence to 25 based on 5 at node time 11:02:52
+3 : updated 6's heartbeat sequence to 20 based on 5 at node time 11:02:52
+3 : updated 7's heartbeat sequence to 17 based on 5 at node time 11:02:52
+3 : updated 9's heartbeat sequence to 26 based on 5 at node time 11:02:52
+7 : updated -1's heartbeat sequence to 18 based on 6 at node time 11:02:52
+-1 : updated 6's heartbeat sequence to 23 based on 6 at node time 11:02:52
+7 : updated 6's heartbeat sequence to 21 based on 6 at node time 11:02:52
+6 : updated -1's heartbeat sequence to 21 based on 8 at node time 11:02:55
+2 : updated 4's heartbeat sequence to 23 based on 4 at node time 11:02:55
+2 : updated 7's heartbeat sequence to 19 based on 4 at node time 11:02:55
+2 : updated 9's heartbeat sequence to 23 based on 4 at node time 11:02:55
+4 : updated -1's heartbeat sequence to 25 based on 5 at node time 11:02:55
+4 : updated 5's heartbeat sequence to 26 based on 5 at node time 11:02:55
+4 : updated 6's heartbeat sequence to 20 based on 5 at node time 11:02:55
+4 : updated 8's heartbeat sequence to 13 based on 5 at node time 11:02:55
+4 : updated 9's heartbeat sequence to 26 based on 5 at node time 11:02:55
+7 : updated 2's heartbeat sequence to 17 based on 6 at node time 11:02:55
+7 : updated 6's heartbeat sequence to 22 based on 6 at node time 11:02:55
+8 : updated 6's heartbeat sequence to 21 based on 7 at node time 11:02:55
+8 : updated 7's heartbeat sequence to 22 based on 7 at node time 11:02:55
+5 : updated -1's heartbeat sequence to 27 based on -1 at node time 11:02:55
+5 : updated 3's heartbeat sequence to 20 based on -1 at node time 11:02:55
+5 : updated 6's heartbeat sequence to 23 based on -1 at node time 11:02:55
+-1 : updated 4's heartbeat sequence to 22 based on 8 at node time 11:02:55
+-1 : updated 8's heartbeat sequence to 14 based on 8 at node time 11:02:55
+6 : updated 9's heartbeat sequence to 25 based on 9 at node time 11:02:58
+2 : updated 7's heartbeat sequence to 21 based on 7 at node time 11:02:58
+7 : updated -1's heartbeat sequence to 24 based on 3 at node time 11:02:58
+7 : updated 2's heartbeat sequence to 18 based on 3 at node time 11:02:58
+7 : updated 3's heartbeat sequence to 21 based on 3 at node time 11:02:58
+7 : updated 5's heartbeat sequence to 25 based on 3 at node time 11:02:58
+7 : updated 9's heartbeat sequence to 26 based on 3 at node time 11:02:58
+4 : updated 2's heartbeat sequence to 21 based on 8 at node time 11:02:58
+4 : updated 3's heartbeat sequence to 20 based on 8 at node time 11:02:58
+-1 : updated 7's heartbeat sequence to 20 based on 7 at node time 11:02:58
+4 : updated 6's heartbeat sequence to 21 based on 8 at node time 11:02:58
+5 : updated 6's heartbeat sequence to 26 based on 6 at node time 11:02:58
+4 : updated 7's heartbeat sequence to 22 based on 8 at node time 11:02:58
+4 : updated 8's heartbeat sequence to 16 based on 8 at node time 11:02:58
+6 : updated -1's heartbeat sequence to 23 based on -1 at node time 11:03:01
+6 : updated 5's heartbeat sequence to 20 based on -1 at node time 11:03:01
+2 : updated -1's heartbeat sequence to 26 based on -1 at node time 11:03:01
+8 : updated 2's heartbeat sequence to 24 based on 2 at node time 11:03:01
+2 : updated 8's heartbeat sequence to 13 based on -1 at node time 11:03:01
+8 : updated 4's heartbeat sequence to 23 based on 2 at node time 11:03:01
+8 : updated 5's heartbeat sequence to 23 based on 2 at node time 11:03:01
+-1 : updated 6's heartbeat sequence to 24 based on 6 at node time 11:03:01
+-1 : updated 9's heartbeat sequence to 24 based on 6 at node time 11:03:01
+4 : updated -1's heartbeat sequence to 28 based on -1 at node time 11:03:01
+4 : updated 6's heartbeat sequence to 23 based on -1 at node time 11:03:01
+6 : updated 8's heartbeat sequence to 13 based on 8 at node time 11:03:04
+2 : updated 8's heartbeat sequence to 15 based on 8 at node time 11:03:04
+8 : updated -1's heartbeat sequence to 24 based on 7 at node time 11:03:04
+8 : updated 3's heartbeat sequence to 21 based on 7 at node time 11:03:04
+8 : updated 5's heartbeat sequence to 25 based on 7 at node time 11:03:04
+8 : updated 6's heartbeat sequence to 22 based on 7 at node time 11:03:04
+8 : updated 7's heartbeat sequence to 24 based on 7 at node time 11:03:04
+8 : updated 9's heartbeat sequence to 26 based on 7 at node time 11:03:04
+7 : updated 2's heartbeat sequence to 24 based on 8 at node time 11:03:04
+7 : updated 4's heartbeat sequence to 23 based on 8 at node time 11:03:04
+7 : updated 8's heartbeat sequence to 17 based on 8 at node time 11:03:04
+-1 : updated 2's heartbeat sequence to 22 based on 2 at node time 11:03:04
+-1 : updated 5's heartbeat sequence to 23 based on 2 at node time 11:03:04
+4 : updated -1's heartbeat sequence to 29 based on -1 at node time 11:03:04
+6 : updated 2's heartbeat sequence to 20 based on 2 at node time 11:03:07
+6 : updated 5's heartbeat sequence to 21 based on 2 at node time 11:03:07
+2 : updated 6's heartbeat sequence to 27 based on 6 at node time 11:03:07
+2 : updated 9's heartbeat sequence to 25 based on 6 at node time 11:03:07
+7 : updated 8's heartbeat sequence to 18 based on 8 at node time 11:03:07
+8 : updated 3's heartbeat sequence to 22 based on 3 at node time 11:03:07
+-1 : updated 2's heartbeat sequence to 23 based on 2 at node time 11:03:07
+-1 : updated 4's heartbeat sequence to 23 based on 2 at node time 11:03:07
+4 : updated 5's heartbeat sequence to 29 based on 5 at node time 11:03:07
+4 : updated 6's heartbeat sequence to 26 based on 5 at node time 11:03:07
+6 : updated 4's heartbeat sequence to 24 based on 4 at node time 11:03:10
+6 : updated 7's heartbeat sequence to 19 based on 4 at node time 11:03:10
+2 : updated 3's heartbeat sequence to 21 based on 7 at node time 11:03:10
+2 : updated 5's heartbeat sequence to 25 based on 7 at node time 11:03:10
+2 : updated 7's heartbeat sequence to 25 based on 7 at node time 11:03:10
+2 : updated 8's heartbeat sequence to 17 based on 7 at node time 11:03:10
+2 : updated 9's heartbeat sequence to 26 based on 7 at node time 11:03:10
+7 : updated -1's heartbeat sequence to 26 based on 2 at node time 11:03:10
+7 : updated 2's heartbeat sequence to 27 based on 2 at node time 11:03:10
+7 : updated 6's heartbeat sequence to 27 based on 2 at node time 11:03:10
+8 : updated -1's heartbeat sequence to 27 based on 5 at node time 11:03:10
+8 : updated 5's heartbeat sequence to 29 based on 5 at node time 11:03:10
+8 : updated 6's heartbeat sequence to 26 based on 5 at node time 11:03:10
+-1 : updated 4's heartbeat sequence to 24 based on 4 at node time 11:03:10
+4 : updated 6's heartbeat sequence to 30 based on 6 at node time 11:03:10
+-1 : updated 5's heartbeat sequence to 26 based on 4 at node time 11:03:10
+-1 : updated 9's heartbeat sequence to 26 based on 4 at node time 11:03:10
+6 : updated 7's heartbeat sequence to 23 based on 7 at node time 11:03:13
+2 : updated 3's heartbeat sequence to 22 based on 8 at node time 11:03:13
+2 : updated 8's heartbeat sequence to 19 based on 8 at node time 11:03:13
+3 : updated -1's heartbeat sequence to 26 based on 2 at node time 11:03:13
+3 : updated 2's heartbeat sequence to 28 based on 2 at node time 11:03:13
+3 : updated 4's heartbeat sequence to 23 based on 2 at node time 11:03:13
+7 : updated -1's heartbeat sequence to 29 based on 4 at node time 11:03:13
+3 : updated 6's heartbeat sequence to 27 based on 2 at node time 11:03:13
+3 : updated 7's heartbeat sequence to 25 based on 2 at node time 11:03:13
+7 : updated 4's heartbeat sequence to 28 based on 4 at node time 11:03:13
+3 : updated 8's heartbeat sequence to 17 based on 2 at node time 11:03:13
+7 : updated 5's heartbeat sequence to 29 based on 4 at node time 11:03:13
+8 : updated -1's heartbeat sequence to 32 based on -1 at node time 11:03:13
+-1 : updated 6's heartbeat sequence to 28 based on 6 at node time 11:03:13
+6 : updated -1's heartbeat sequence to 27 based on 5 at node time 11:03:16
+6 : updated 5's heartbeat sequence to 27 based on 5 at node time 11:03:16
+6 : updated 9's heartbeat sequence to 26 based on 5 at node time 11:03:16
+2 : updated 4's heartbeat sequence to 24 based on 6 at node time 11:03:16
+2 : updated 6's heartbeat sequence to 31 based on 6 at node time 11:03:16
+3 : updated -1's heartbeat sequence to 27 based on 8 at node time 11:03:16
+7 : updated 6's heartbeat sequence to 32 based on 6 at node time 11:03:16
+3 : updated 5's heartbeat sequence to 29 based on 8 at node time 11:03:16
+3 : updated 8's heartbeat sequence to 20 based on 8 at node time 11:03:16
+8 : updated -1's heartbeat sequence to 33 based on -1 at node time 11:03:16
+8 : updated 4's heartbeat sequence to 24 based on -1 at node time 11:03:16
+4 : updated -1's heartbeat sequence to 32 based on 8 at node time 11:03:16
+4 : updated 2's heartbeat sequence to 24 based on 8 at node time 11:03:16
+4 : updated 3's heartbeat sequence to 22 based on 8 at node time 11:03:16
+4 : updated 7's heartbeat sequence to 24 based on 8 at node time 11:03:16
+4 : updated 8's heartbeat sequence to 21 based on 8 at node time 11:03:16
+-1 : updated 4's heartbeat sequence to 26 based on 4 at node time 11:03:16
+-1 : updated 7's heartbeat sequence to 22 based on 4 at node time 11:03:16
+-1 : updated 8's heartbeat sequence to 16 based on 4 at node time 11:03:16
+6 : updated 2's heartbeat sequence to 21 based on 4 at node time 11:03:19
+6 : updated 4's heartbeat sequence to 25 based on 4 at node time 11:03:19
+6 : updated 8's heartbeat sequence to 16 based on 4 at node time 11:03:19
+2 : updated -1's heartbeat sequence to 27 based on 3 at node time 11:03:19
+2 : updated 3's heartbeat sequence to 23 based on 3 at node time 11:03:19
+2 : updated 5's heartbeat sequence to 29 based on 3 at node time 11:03:19
+2 : updated 8's heartbeat sequence to 20 based on 3 at node time 11:03:19
+8 : updated 2's heartbeat sequence to 28 based on 3 at node time 11:03:19
+8 : updated 6's heartbeat sequence to 27 based on 3 at node time 11:03:19
+8 : updated 7's heartbeat sequence to 25 based on 3 at node time 11:03:19
+4 : updated -1's heartbeat sequence to 34 based on -1 at node time 11:03:19
+-1 : updated 2's heartbeat sequence to 26 based on 2 at node time 11:03:19
+5 : updated -1's heartbeat sequence to 32 based on 4 at node time 11:03:19
+5 : updated 2's heartbeat sequence to 24 based on 4 at node time 11:03:19
+5 : updated 3's heartbeat sequence to 22 based on 4 at node time 11:03:19
+5 : updated 4's heartbeat sequence to 30 based on 4 at node time 11:03:19
+5 : updated 6's heartbeat sequence to 30 based on 4 at node time 11:03:19
+5 : updated 7's heartbeat sequence to 24 based on 4 at node time 11:03:19
+5 : updated 8's heartbeat sequence to 21 based on 4 at node time 11:03:19
+6 : updated -1's heartbeat sequence to 30 based on -1 at node time 11:03:22
+3 : updated -1's heartbeat sequence to 29 based on 7 at node time 11:03:22
+3 : updated 4's heartbeat sequence to 28 based on 7 at node time 11:03:22
+3 : updated 6's heartbeat sequence to 32 based on 7 at node time 11:03:22
+3 : updated 7's heartbeat sequence to 30 based on 7 at node time 11:03:22
+8 : updated 2's heartbeat sequence to 30 based on 2 at node time 11:03:22
+8 : updated 6's heartbeat sequence to 31 based on 2 at node time 11:03:22
+2 : updated -1's heartbeat sequence to 33 based on 8 at node time 11:03:22
+2 : updated 8's heartbeat sequence to 23 based on 8 at node time 11:03:22
+-1 : updated 3's heartbeat sequence to 21 based on 7 at node time 11:03:22
+-1 : updated 7's heartbeat sequence to 26 based on 7 at node time 11:03:22
+-1 : updated 8's heartbeat sequence to 18 based on 7 at node time 11:03:22
+5 : updated -1's heartbeat sequence to 34 based on 4 at node time 11:03:22
+5 : updated 4's heartbeat sequence to 31 based on 4 at node time 11:03:22
+6 : updated 4's heartbeat sequence to 27 based on 4 at node time 11:03:25
+3 : updated -1's heartbeat sequence to 36 based on -1 at node time 11:03:25
+8 : updated 2's heartbeat sequence to 31 based on 2 at node time 11:03:25
+8 : updated 3's heartbeat sequence to 23 based on 2 at node time 11:03:25
+7 : updated -1's heartbeat sequence to 33 based on 8 at node time 11:03:25
+7 : updated 2's heartbeat sequence to 30 based on 8 at node time 11:03:25
+7 : updated 3's heartbeat sequence to 22 based on 8 at node time 11:03:25
+7 : updated 8's heartbeat sequence to 24 based on 8 at node time 11:03:25
+-1 : updated 2's heartbeat sequence to 27 based on 7 at node time 11:03:25
+5 : updated 6's heartbeat sequence to 35 based on 6 at node time 11:03:25
+-1 : updated 7's heartbeat sequence to 27 based on 7 at node time 11:03:25
+4 : updated -1's heartbeat sequence to 37 based on -1 at node time 11:03:25
+4 : updated 2's heartbeat sequence to 26 based on -1 at node time 11:03:25
+4 : updated 7's heartbeat sequence to 26 based on -1 at node time 11:03:25
+6 : updated 4's heartbeat sequence to 29 based on 4 at node time 11:03:28
+6 : updated 5's heartbeat sequence to 29 based on 4 at node time 11:03:28
+3 : updated 4's heartbeat sequence to 30 based on 5 at node time 11:03:28
+3 : updated 8's heartbeat sequence to 21 based on 5 at node time 11:03:28
+2 : updated 8's heartbeat sequence to 25 based on 8 at node time 11:03:28
+7 : updated 6's heartbeat sequence to 36 based on 6 at node time 11:03:28
+-1 : updated 2's heartbeat sequence to 29 based on 2 at node time 11:03:28
+-1 : updated 3's heartbeat sequence to 22 based on 2 at node time 11:03:28
+-1 : updated 8's heartbeat sequence to 19 based on 2 at node time 11:03:28
+6 : updated 2's heartbeat sequence to 27 based on 7 at node time 11:03:31
+6 : updated 3's heartbeat sequence to 21 based on 7 at node time 11:03:31
+6 : updated 7's heartbeat sequence to 28 based on 7 at node time 11:03:31
+6 : updated 8's heartbeat sequence to 18 based on 7 at node time 11:03:31
+4 : updated 6's heartbeat sequence to 37 based on 6 at node time 11:03:31
+3 : updated -1's heartbeat sequence to 38 based on -1 at node time 11:03:31
+8 : updated 2's heartbeat sequence to 33 based on 2 at node time 11:03:31
+7 : updated -1's heartbeat sequence to 34 based on 5 at node time 11:03:31
+7 : updated 4's heartbeat sequence to 31 based on 5 at node time 11:03:31
+7 : updated 5's heartbeat sequence to 31 based on 5 at node time 11:03:31
+-1 : updated 5's heartbeat sequence to 29 based on 5 at node time 11:03:31
+6 : updated 7's heartbeat sequence to 30 based on 7 at node time 11:03:34
+4 : updated -1's heartbeat sequence to 39 based on -1 at node time 11:03:34
+4 : updated 2's heartbeat sequence to 29 based on -1 at node time 11:03:34
+4 : updated 7's heartbeat sequence to 27 based on -1 at node time 11:03:34
+3 : updated 2's heartbeat sequence to 30 based on 7 at node time 11:03:34
+3 : updated 6's heartbeat sequence to 36 based on 7 at node time 11:03:34
+3 : updated 7's heartbeat sequence to 31 based on 7 at node time 11:03:34
+3 : updated 8's heartbeat sequence to 24 based on 7 at node time 11:03:34
+2 : updated 4's heartbeat sequence to 29 based on 6 at node time 11:03:34
+5 : updated 2's heartbeat sequence to 33 based on 8 at node time 11:03:34
+5 : updated 3's heartbeat sequence to 23 based on 8 at node time 11:03:34
+2 : updated 6's heartbeat sequence to 38 based on 6 at node time 11:03:34
+2 : updated 7's heartbeat sequence to 28 based on 6 at node time 11:03:34
+5 : updated 7's heartbeat sequence to 25 based on 8 at node time 11:03:34
+7 : updated 2's heartbeat sequence to 31 based on 8 at node time 11:03:34
+5 : updated 8's heartbeat sequence to 26 based on 8 at node time 11:03:34
+7 : updated 3's heartbeat sequence to 23 based on 8 at node time 11:03:34
+7 : updated 8's heartbeat sequence to 26 based on 8 at node time 11:03:34
+5 : no heartbeat from server 9 - server failed
+5 : switching from FOLLOWING to LOOKING
+-1 : updated 6's heartbeat sequence to 33 based on 6 at node time 11:03:34
+6 : updated -1's heartbeat sequence to 34 based on 5 at node time 11:03:37
+6 : updated 3's heartbeat sequence to 22 based on 5 at node time 11:03:37
+6 : updated 4's heartbeat sequence to 31 based on 5 at node time 11:03:37
+6 : updated 5's heartbeat sequence to 30 based on 5 at node time 11:03:37
+6 : updated 8's heartbeat sequence to 21 based on 5 at node time 11:03:37
+4 : updated 2's heartbeat sequence to 30 based on 7 at node time 11:03:37
+4 : updated 5's heartbeat sequence to 31 based on 7 at node time 11:03:37
+4 : updated 7's heartbeat sequence to 32 based on 7 at node time 11:03:37
+4 : updated 8's heartbeat sequence to 24 based on 7 at node time 11:03:37
+3 : updated -1's heartbeat sequence to 40 based on -1 at node time 11:03:37
+3 : no heartbeat from server 9 - server failed
+3 : switching from FOLLOWING to LOOKING
+2 : updated -1's heartbeat sequence to 39 based on 4 at node time 11:03:37
+2 : updated 4's heartbeat sequence to 34 based on 4 at node time 11:03:37
+7 : updated -1's heartbeat sequence to 38 based on 3 at node time 11:03:37
+7 : updated 3's heartbeat sequence to 28 based on 3 at node time 11:03:37
+-1 : updated 4's heartbeat sequence to 28 based on 7 at node time 11:03:37
+-1 : updated 7's heartbeat sequence to 29 based on 7 at node time 11:03:37
+6 : updated -1's heartbeat sequence to 36 based on 3 at node time 11:03:40
+6 : updated 2's heartbeat sequence to 28 based on 3 at node time 11:03:40
+6 : updated 3's heartbeat sequence to 26 based on 3 at node time 11:03:40
+4 : updated 6's heartbeat sequence to 39 based on 6 at node time 11:03:40
+5 : updated -1's heartbeat sequence to 39 based on 4 at node time 11:03:40
+5 : updated 4's heartbeat sequence to 35 based on 4 at node time 11:03:40
+4 : no heartbeat from server 9 - server failed
+5 : updated 6's heartbeat sequence to 37 based on 4 at node time 11:03:40
+5 : updated 7's heartbeat sequence to 32 based on 4 at node time 11:03:40
+2 : updated 3's heartbeat sequence to 29 based on 3 at node time 11:03:40
+2 : updated 7's heartbeat sequence to 31 based on 3 at node time 11:03:40
+7 : updated 2's heartbeat sequence to 33 based on 5 at node time 11:03:40
+7 : updated 5's heartbeat sequence to 32 based on 5 at node time 11:03:40
+8 : updated -1's heartbeat sequence to 38 based on 7 at node time 11:03:40
+8 : updated 3's heartbeat sequence to 28 based on 7 at node time 11:03:40
+8 : updated 4's heartbeat sequence to 31 based on 7 at node time 11:03:40
+8 : updated 5's heartbeat sequence to 31 based on 7 at node time 11:03:40
+8 : updated 6's heartbeat sequence to 36 based on 7 at node time 11:03:40
+8 : updated 7's heartbeat sequence to 34 based on 7 at node time 11:03:40
+4 : switching from FOLLOWING to LOOKING
+6 : updated 3's heartbeat sequence to 27 based on 3 at node time 11:03:43
+3 : updated 4's heartbeat sequence to 36 based on 4 at node time 11:03:43
+3 : updated 5's heartbeat sequence to 31 based on 4 at node time 11:03:43
+3 : updated 6's heartbeat sequence to 39 based on 4 at node time 11:03:43
+3 : updated 7's heartbeat sequence to 32 based on 4 at node time 11:03:43
+5 : updated 3's heartbeat sequence to 26 based on 6 at node time 11:03:43
+5 : updated 6's heartbeat sequence to 41 based on 6 at node time 11:03:43
+7 : updated 6's heartbeat sequence to 40 based on 6 at node time 11:03:43
+2 : updated 8's heartbeat sequence to 27 based on 8 at node time 11:03:43
+7 : no heartbeat from server 9 - server failed
+8 : updated -1's heartbeat sequence to 39 based on 5 at node time 11:03:43
+8 : updated 4's heartbeat sequence to 35 based on 5 at node time 11:03:43
+8 : updated 5's heartbeat sequence to 33 based on 5 at node time 11:03:43
+8 : updated 6's heartbeat sequence to 37 based on 5 at node time 11:03:43
+4 : updated 2's heartbeat sequence to 33 based on 8 at node time 11:03:43
+4 : updated 3's heartbeat sequence to 28 based on 8 at node time 11:03:43
+4 : updated 7's heartbeat sequence to 34 based on 8 at node time 11:03:43
+4 : updated 8's heartbeat sequence to 27 based on 8 at node time 11:03:43
+7 : switching from FOLLOWING to LOOKING
+-1 : updated 8's heartbeat sequence to 22 based on 8 at node time 11:03:43
+6 : updated 2's heartbeat sequence to 34 based on 2 at node time 11:03:46
+6 : updated 8's heartbeat sequence to 25 based on 2 at node time 11:03:46
+5 : updated 3's heartbeat sequence to 28 based on 7 at node time 11:03:46
+5 : updated 7's heartbeat sequence to 35 based on 7 at node time 11:03:46
+7 : updated -1's heartbeat sequence to 39 based on 2 at node time 11:03:46
+2 : updated -1's heartbeat sequence to 42 based on -1 at node time 11:03:46
+7 : updated 2's heartbeat sequence to 35 based on 2 at node time 11:03:46
+7 : updated 4's heartbeat sequence to 34 based on 2 at node time 11:03:46
+-1 : updated 3's heartbeat sequence to 24 based on 3 at node time 11:03:46
+6 : updated -1's heartbeat sequence to 41 based on -1 at node time 11:03:49
+5 : updated 2's heartbeat sequence to 36 based on 2 at node time 11:03:49
+5 : updated 3's heartbeat sequence to 29 based on 2 at node time 11:03:49
+2 : updated 3's heartbeat sequence to 31 based on 3 at node time 11:03:49
+7 : updated 6's heartbeat sequence to 43 based on 6 at node time 11:03:49
+8 : updated -1's heartbeat sequence to 42 based on 2 at node time 11:03:49
+8 : updated 2's heartbeat sequence to 38 based on 2 at node time 11:03:49
+8 : updated 3's heartbeat sequence to 29 based on 2 at node time 11:03:49
+8 : updated 6's heartbeat sequence to 38 based on 2 at node time 11:03:49
+8 : no heartbeat from server 9 - server failed
+8 : switching from FOLLOWING to LOOKING
+3 : updated 2's heartbeat sequence to 33 based on 5 at node time 11:03:49
+3 : updated 5's heartbeat sequence to 35 based on 5 at node time 11:03:49
+3 : updated 6's heartbeat sequence to 41 based on 5 at node time 11:03:49
+3 : updated 7's heartbeat sequence to 35 based on 5 at node time 11:03:49
+3 : updated 8's heartbeat sequence to 26 based on 5 at node time 11:03:49
+-1 : updated 4's heartbeat sequence to 32 based on 4 at node time 11:03:49
+6 : updated -1's heartbeat sequence to 43 based on -1 at node time 11:03:52
+5 : updated -1's heartbeat sequence to 40 based on 3 at node time 11:03:52
+5 : updated 3's heartbeat sequence to 31 based on 3 at node time 11:03:52
+5 : updated 4's heartbeat sequence to 36 based on 3 at node time 11:03:52
+2 : updated 4's heartbeat sequence to 35 based on 5 at node time 11:03:52
+7 : updated 4's heartbeat sequence to 35 based on 8 at node time 11:03:52
+2 : updated 5's heartbeat sequence to 34 based on 5 at node time 11:03:52
+7 : updated 5's heartbeat sequence to 33 based on 8 at node time 11:03:52
+2 : updated 6's heartbeat sequence to 41 based on 5 at node time 11:03:52
+7 : updated 8's heartbeat sequence to 29 based on 8 at node time 11:03:52
+2 : updated 7's heartbeat sequence to 32 based on 5 at node time 11:03:52
+8 : updated 6's heartbeat sequence to 40 based on 7 at node time 11:03:52
+8 : updated 7's heartbeat sequence to 37 based on 7 at node time 11:03:52
+4 : updated -1's heartbeat sequence to 42 based on 8 at node time 11:03:52
+4 : updated 2's heartbeat sequence to 38 based on 8 at node time 11:03:52
+4 : updated 3's heartbeat sequence to 29 based on 8 at node time 11:03:52
+4 : updated 5's heartbeat sequence to 33 based on 8 at node time 11:03:52
+4 : updated 8's heartbeat sequence to 29 based on 8 at node time 11:03:52
+3 : updated -1's heartbeat sequence to 45 based on -1 at node time 11:03:52
+-1 : updated 2's heartbeat sequence to 32 based on 2 at node time 11:03:52
+-1 : updated 8's heartbeat sequence to 23 based on 2 at node time 11:03:52
+5 : updated 7's heartbeat sequence to 36 based on 7 at node time 11:03:55
+6 : updated 2's heartbeat sequence to 36 based on 5 at node time 11:03:55
+6 : updated 3's heartbeat sequence to 31 based on 5 at node time 11:03:55
+6 : updated 4's heartbeat sequence to 36 based on 5 at node time 11:03:55
+6 : updated 5's heartbeat sequence to 37 based on 5 at node time 11:03:55
+6 : updated 7's heartbeat sequence to 35 based on 5 at node time 11:03:55
+6 : updated 8's heartbeat sequence to 26 based on 5 at node time 11:03:55
+2 : updated 6's heartbeat sequence to 42 based on 6 at node time 11:03:55
+2 : no heartbeat from server 9 - server failed
+2 : switching from FOLLOWING to LOOKING
+7 : updated -1's heartbeat sequence to 42 based on 2 at node time 11:03:55
+7 : updated 2's heartbeat sequence to 40 based on 2 at node time 11:03:55
+8 : updated 4's heartbeat sequence to 38 based on 4 at node time 11:03:55
+7 : updated 3's heartbeat sequence to 31 based on 2 at node time 11:03:55
+7 : updated 5's heartbeat sequence to 34 based on 2 at node time 11:03:55
+4 : updated 3's heartbeat sequence to 32 based on 3 at node time 11:03:55
+4 : updated 5's heartbeat sequence to 35 based on 3 at node time 11:03:55
+4 : updated 6's heartbeat sequence to 41 based on 3 at node time 11:03:55
+4 : updated 7's heartbeat sequence to 35 based on 3 at node time 11:03:55
+-1 : updated 2's heartbeat sequence to 33 based on 2 at node time 11:03:55
+-1 : no heartbeat from server 9 - server failed
+4 : switching from LOOKING to FOLLOWING
+7 : switching from LOOKING to FOLLOWING
+8 : switching from LOOKING to LEADING
+2 : switching from LOOKING to FOLLOWING
+3 : switching from LOOKING to FOLLOWING
+5 : switching from LOOKING to FOLLOWING
+5 : updated 3's heartbeat sequence to 32 based on 3 at node time 11:03:58
+6 : updated 2's heartbeat sequence to 38 based on 4 at node time 11:03:58
+6 : updated 4's heartbeat sequence to 38 based on 4 at node time 11:03:58
+6 : updated 8's heartbeat sequence to 29 based on 4 at node time 11:03:58
+3 : updated 2's heartbeat sequence to 36 based on 5 at node time 11:03:58
+3 : updated 5's heartbeat sequence to 38 based on 5 at node time 11:03:58
+3 : updated 7's heartbeat sequence to 36 based on 5 at node time 11:03:58
+2 : updated 4's heartbeat sequence to 37 based on 4 at node time 11:03:58
+2 : updated 7's heartbeat sequence to 34 based on 4 at node time 11:03:58
+8 : updated -1's heartbeat sequence to 45 based on 3 at node time 11:03:58
+8 : updated 3's heartbeat sequence to 33 based on 3 at node time 11:03:58
+8 : updated 5's heartbeat sequence to 35 based on 3 at node time 11:03:58
+8 : updated 6's heartbeat sequence to 41 based on 3 at node time 11:03:58
+4 : updated -1's heartbeat sequence to 43 based on 6 at node time 11:03:58
+4 : updated 6's heartbeat sequence to 45 based on 6 at node time 11:03:58
+-1 : updated 7's heartbeat sequence to 30 based on 7 at node time 11:03:58
+-1 : updated 8's heartbeat sequence to 24 based on 7 at node time 11:03:58
+5 : updated -1's heartbeat sequence to 42 based on 2 at node time 11:04:01
+5 : updated 2's heartbeat sequence to 39 based on 2 at node time 11:04:01
+5 : updated 8's heartbeat sequence to 27 based on 2 at node time 11:04:01
+6 : updated 2's heartbeat sequence to 41 based on 2 at node time 11:04:01
+6 : no heartbeat from server 9 - server failed
+6 : switching from FOLLOWING to LOOKING
+6 : switching from LOOKING to FOLLOWING
+2 : updated 8's heartbeat sequence to 28 based on 8 at node time 11:04:01
+8 : updated 4's heartbeat sequence to 39 based on 4 at node time 11:04:01
+4 : updated 7's heartbeat sequence to 39 based on 7 at node time 11:04:01
+-1 : updated 5's heartbeat sequence to 32 based on 5 at node time 11:04:01
+-1 : updated 6's heartbeat sequence to 35 based on 5 at node time 11:04:01
+7 : updated -1's heartbeat sequence to 49 based on -1 at node time 11:04:01
+5 : updated 7's heartbeat sequence to 37 based on 8 at node time 11:04:04
+5 : updated 8's heartbeat sequence to 30 based on 8 at node time 11:04:04
+2 : updated -1's heartbeat sequence to 44 based on -1 at node time 11:04:04
+6 : updated 7's heartbeat sequence to 40 based on 7 at node time 11:04:04
+8 : updated 2's heartbeat sequence to 39 based on 5 at node time 11:04:04
+8 : updated 5's heartbeat sequence to 40 based on 5 at node time 11:04:04
+4 : updated 5's heartbeat sequence to 37 based on 6 at node time 11:04:04
+4 : updated 6's heartbeat sequence to 46 based on 6 at node time 11:04:04
+7 : updated 2's heartbeat sequence to 41 based on 6 at node time 11:04:04
+-1 : updated 4's heartbeat sequence to 33 based on 4 at node time 11:04:04
+7 : updated 4's heartbeat sequence to 38 based on 6 at node time 11:04:04
+-1 : updated 6's heartbeat sequence to 37 based on 4 at node time 11:04:04
+7 : updated 5's heartbeat sequence to 37 based on 6 at node time 11:04:04
+7 : updated 6's heartbeat sequence to 48 based on 6 at node time 11:04:04
+3 : updated -1's heartbeat sequence to 50 based on -1 at node time 11:04:04
+5 : updated -1's heartbeat sequence to 48 based on -1 at node time 11:04:07
+6 : updated 3's heartbeat sequence to 32 based on 5 at node time 11:04:07
+2 : updated 6's heartbeat sequence to 44 based on 6 at node time 11:04:07
+6 : updated 5's heartbeat sequence to 39 based on 5 at node time 11:04:07
+8 : updated 2's heartbeat sequence to 43 based on 2 at node time 11:04:07
+8 : updated 6's heartbeat sequence to 42 based on 2 at node time 11:04:07
+4 : updated 2's heartbeat sequence to 40 based on 7 at node time 11:04:07
+4 : updated 7's heartbeat sequence to 41 based on 7 at node time 11:04:07
+7 : updated 3's heartbeat sequence to 32 based on 4 at node time 11:04:07
+7 : updated 4's heartbeat sequence to 42 based on 4 at node time 11:04:07
+-1 : updated 2's heartbeat sequence to 34 based on 2 at node time 11:04:07
+-1 : updated 8's heartbeat sequence to 25 based on 2 at node time 11:04:07
+3 : updated 2's heartbeat sequence to 39 based on 5 at node time 11:04:07
+3 : updated 5's heartbeat sequence to 41 based on 5 at node time 11:04:07
+3 : updated 7's heartbeat sequence to 37 based on 5 at node time 11:04:07
+3 : updated 8's heartbeat sequence to 30 based on 5 at node time 11:04:07
+5 : updated 2's heartbeat sequence to 42 based on 2 at node time 11:04:10
+5 : updated 4's heartbeat sequence to 37 based on 2 at node time 11:04:10
+5 : updated 6's heartbeat sequence to 42 based on 2 at node time 11:04:10
+2 : updated 5's heartbeat sequence to 36 based on 5 at node time 11:04:10
+6 : updated 4's heartbeat sequence to 40 based on 4 at node time 11:04:10
+2 : updated 7's heartbeat sequence to 35 based on 5 at node time 11:04:10
+8 : updated -1's heartbeat sequence to 49 based on 7 at node time 11:04:10
+8 : updated 6's heartbeat sequence to 43 based on 7 at node time 11:04:10
+8 : updated 7's heartbeat sequence to 41 based on 7 at node time 11:04:10
+4 : updated -1's heartbeat sequence to 45 based on 8 at node time 11:04:10
+4 : updated 3's heartbeat sequence to 33 based on 8 at node time 11:04:10
+4 : updated 8's heartbeat sequence to 32 based on 8 at node time 11:04:10
+7 : updated 5's heartbeat sequence to 42 based on 5 at node time 11:04:10
+7 : updated 8's heartbeat sequence to 30 based on 5 at node time 11:04:10
+-1 : updated 7's heartbeat sequence to 33 based on 7 at node time 11:04:10
+-1 : updated 8's heartbeat sequence to 26 based on 7 at node time 11:04:10
+3 : updated 2's heartbeat sequence to 44 based on 2 at node time 11:04:10
+3 : updated 4's heartbeat sequence to 37 based on 2 at node time 11:04:10
+3 : updated 6's heartbeat sequence to 42 based on 2 at node time 11:04:10
+5 : updated -1's heartbeat sequence to 50 based on 3 at node time 11:04:13
+5 : updated 3's heartbeat sequence to 35 based on 3 at node time 11:04:13
+6 : updated -1's heartbeat sequence to 45 based on 8 at node time 11:04:13
+2 : updated 7's heartbeat sequence to 38 based on 7 at node time 11:04:13
+6 : updated 3's heartbeat sequence to 33 based on 8 at node time 11:04:13
+6 : updated 8's heartbeat sequence to 33 based on 8 at node time 11:04:13
+8 : updated 6's heartbeat sequence to 48 based on 7 at node time 11:04:13
+8 : updated 7's heartbeat sequence to 42 based on 7 at node time 11:04:13
+7 : updated 2's heartbeat sequence to 46 based on 2 at node time 11:04:13
+-1 : updated 3's heartbeat sequence to 30 based on 3 at node time 11:04:13
+3 : updated 4's heartbeat sequence to 39 based on 8 at node time 11:04:13
+3 : updated 8's heartbeat sequence to 34 based on 8 at node time 11:04:13
+5 : updated 4's heartbeat sequence to 38 based on 6 at node time 11:04:16
+5 : updated 6's heartbeat sequence to 50 based on 6 at node time 11:04:16
+5 : updated 7's heartbeat sequence to 40 based on 6 at node time 11:04:16
+2 : updated -1's heartbeat sequence to 47 based on -1 at node time 11:04:16
+6 : updated 2's heartbeat sequence to 45 based on 2 at node time 11:04:16
+8 : updated -1's heartbeat sequence to 50 based on 3 at node time 11:04:16
+8 : updated 3's heartbeat sequence to 36 based on 3 at node time 11:04:16
+8 : updated 5's heartbeat sequence to 41 based on 3 at node time 11:04:16
+-1 : updated 2's heartbeat sequence to 40 based on 4 at node time 11:04:16
+-1 : updated 3's heartbeat sequence to 32 based on 4 at node time 11:04:16
+-1 : updated 4's heartbeat sequence to 43 based on 4 at node time 11:04:16
+-1 : updated 5's heartbeat sequence to 37 based on 4 at node time 11:04:16
+-1 : updated 6's heartbeat sequence to 46 based on 4 at node time 11:04:16
+-1 : updated 7's heartbeat sequence to 41 based on 4 at node time 11:04:16
+-1 : updated 8's heartbeat sequence to 29 based on 4 at node time 11:04:16
+3 : updated -1's heartbeat sequence to 51 based on -1 at node time 11:04:16
+5 : updated -1's heartbeat sequence to 53 based on -1 at node time 11:04:19
+2 : updated 4's heartbeat sequence to 38 based on 8 at node time 11:04:19
+6 : updated 5's heartbeat sequence to 40 based on 8 at node time 11:04:19
+2 : updated 8's heartbeat sequence to 31 based on 8 at node time 11:04:19
+6 : updated 8's heartbeat sequence to 35 based on 8 at node time 11:04:19
+8 : updated 5's heartbeat sequence to 43 based on 5 at node time 11:04:19
+-1 : updated 2's heartbeat sequence to 42 based on 5 at node time 11:04:19
+-1 : updated 3's heartbeat sequence to 35 based on 5 at node time 11:04:19
+-1 : updated 5's heartbeat sequence to 44 based on 5 at node time 11:04:19
+-1 : updated 8's heartbeat sequence to 30 based on 5 at node time 11:04:19
+3 : updated 4's heartbeat sequence to 42 based on 7 at node time 11:04:19
+3 : updated 6's heartbeat sequence to 48 based on 7 at node time 11:04:19
+3 : updated 7's heartbeat sequence to 43 based on 7 at node time 11:04:19
+5 : updated 2's heartbeat sequence to 46 based on 7 at node time 11:04:22
+5 : updated 4's heartbeat sequence to 42 based on 7 at node time 11:04:22
+5 : updated 7's heartbeat sequence to 45 based on 7 at node time 11:04:22
+4 : updated -1's heartbeat sequence to 53 based on 5 at node time 11:04:22
+4 : updated 2's heartbeat sequence to 42 based on 5 at node time 11:04:22
+4 : updated 3's heartbeat sequence to 35 based on 5 at node time 11:04:22
+4 : updated 5's heartbeat sequence to 46 based on 5 at node time 11:04:22
+4 : updated 6's heartbeat sequence to 50 based on 5 at node time 11:04:22
+2 : updated 3's heartbeat sequence to 34 based on 3 at node time 11:04:22
+6 : updated -1's heartbeat sequence to 49 based on 7 at node time 11:04:22
+6 : updated 4's heartbeat sequence to 42 based on 7 at node time 11:04:22
+6 : updated 5's heartbeat sequence to 42 based on 7 at node time 11:04:22
+2 : updated 5's heartbeat sequence to 38 based on 3 at node time 11:04:22
+6 : updated 7's heartbeat sequence to 44 based on 7 at node time 11:04:22
+7 : updated 3's heartbeat sequence to 33 based on 6 at node time 11:04:22
+8 : updated 4's heartbeat sequence to 40 based on 6 at node time 11:04:22
+7 : updated 6's heartbeat sequence to 54 based on 6 at node time 11:04:22
+8 : updated 6's heartbeat sequence to 51 based on 6 at node time 11:04:22
+7 : updated 8's heartbeat sequence to 35 based on 6 at node time 11:04:22
+-1 : updated 5's heartbeat sequence to 45 based on 5 at node time 11:04:22
+-1 : updated 6's heartbeat sequence to 50 based on 5 at node time 11:04:22
+3 : updated 4's heartbeat sequence to 45 based on 4 at node time 11:04:22
+5 : updated -1's heartbeat sequence to 54 based on -1 at node time 11:04:25
+4 : updated 2's heartbeat sequence to 49 based on 2 at node time 11:04:25
+6 : updated -1's heartbeat sequence to 50 based on 3 at node time 11:04:25
+2 : updated 3's heartbeat sequence to 35 based on 3 at node time 11:04:25
+6 : updated 3's heartbeat sequence to 38 based on 3 at node time 11:04:25
+8 : updated 4's heartbeat sequence to 44 based on 4 at node time 11:04:25
+7 : updated -1's heartbeat sequence to 56 based on -1 at node time 11:04:25
+7 : updated 3's heartbeat sequence to 35 based on -1 at node time 11:04:25
+7 : updated 4's heartbeat sequence to 43 based on -1 at node time 11:04:25
+7 : updated 5's heartbeat sequence to 44 based on -1 at node time 11:04:25
+-1 : updated 4's heartbeat sequence to 45 based on 4 at node time 11:04:25
+-1 : updated 8's heartbeat sequence to 32 based on 4 at node time 11:04:25
+3 : updated 8's heartbeat sequence to 37 based on 8 at node time 11:04:25
+5 : updated 2's heartbeat sequence to 48 based on 2 at node time 11:04:28
+2 : updated 4's heartbeat sequence to 41 based on 4 at node time 11:04:28
+2 : updated 6's heartbeat sequence to 45 based on 4 at node time 11:04:28
+2 : updated 7's heartbeat sequence to 39 based on 4 at node time 11:04:28
+6 : updated -1's heartbeat sequence to 51 based on 3 at node time 11:04:28
+6 : updated 3's heartbeat sequence to 39 based on 3 at node time 11:04:28
+8 : updated 2's heartbeat sequence to 47 based on 2 at node time 11:04:28
+7 : updated 6's heartbeat sequence to 55 based on 6 at node time 11:04:28
+4 : updated -1's heartbeat sequence to 56 based on 7 at node time 11:04:28
+4 : updated 6's heartbeat sequence to 54 based on 7 at node time 11:04:28
+4 : updated 7's heartbeat sequence to 47 based on 7 at node time 11:04:28
+4 : updated 8's heartbeat sequence to 35 based on 7 at node time 11:04:28
+-1 : updated 2's heartbeat sequence to 46 based on 7 at node time 11:04:28
+-1 : updated 7's heartbeat sequence to 46 based on 7 at node time 11:04:28
+3 : updated -1's heartbeat sequence to 55 based on -1 at node time 11:04:28
+5 : updated 2's heartbeat sequence to 50 based on 2 at node time 11:04:31
+5 : updated 8's heartbeat sequence to 31 based on 2 at node time 11:04:31
+2 : updated 6's heartbeat sequence to 49 based on 6 at node time 11:04:31
+6 : updated 5's heartbeat sequence to 43 based on 8 at node time 11:04:31
+2 : updated 7's heartbeat sequence to 40 based on 6 at node time 11:04:31
+6 : updated 8's heartbeat sequence to 39 based on 8 at node time 11:04:31
+8 : updated 6's heartbeat sequence to 52 based on 6 at node time 11:04:31
+7 : updated 3's heartbeat sequence to 36 based on 8 at node time 11:04:31
+7 : updated 4's heartbeat sequence to 44 based on 8 at node time 11:04:31
+7 : updated 8's heartbeat sequence to 41 based on 8 at node time 11:04:31
+4 : updated 3's heartbeat sequence to 38 based on 6 at node time 11:04:31
+4 : updated 6's heartbeat sequence to 56 based on 6 at node time 11:04:31
+3 : updated 2's heartbeat sequence to 49 based on 4 at node time 11:04:31
+3 : updated 4's heartbeat sequence to 46 based on 4 at node time 11:04:31
+3 : updated 5's heartbeat sequence to 46 based on 4 at node time 11:04:31
+3 : updated 6's heartbeat sequence to 50 based on 4 at node time 11:04:31
+5 : updated 6's heartbeat sequence to 54 based on 7 at node time 11:04:34
+5 : updated 7's heartbeat sequence to 46 based on 7 at node time 11:04:34
+5 : updated 8's heartbeat sequence to 35 based on 7 at node time 11:04:34
+2 : updated -1's heartbeat sequence to 52 based on -1 at node time 11:04:34
+8 : updated 6's heartbeat sequence to 53 based on 6 at node time 11:04:34
+7 : updated 2's heartbeat sequence to 49 based on 4 at node time 11:04:34
+7 : updated 4's heartbeat sequence to 47 based on 4 at node time 11:04:34
+7 : updated 5's heartbeat sequence to 46 based on 4 at node time 11:04:34
+4 : updated -1's heartbeat sequence to 59 based on -1 at node time 11:04:34
+3 : updated -1's heartbeat sequence to 58 based on -1 at node time 11:04:34
+5 : updated 4's heartbeat sequence to 45 based on 4 at node time 11:04:37
+2 : updated 5's heartbeat sequence to 40 based on 8 at node time 11:04:37
+2 : updated 7's heartbeat sequence to 41 based on 8 at node time 11:04:37
+2 : updated 8's heartbeat sequence to 36 based on 8 at node time 11:04:37
+7 : updated 8's heartbeat sequence to 43 based on 8 at node time 11:04:37
+8 : updated -1's heartbeat sequence to 51 based on 3 at node time 11:04:37
+8 : updated 3's heartbeat sequence to 40 based on 3 at node time 11:04:37
+8 : updated 7's heartbeat sequence to 43 based on 3 at node time 11:04:37
+-1 : updated 3's heartbeat sequence to 39 based on 6 at node time 11:04:37
+-1 : updated 6's heartbeat sequence to 59 based on 6 at node time 11:04:37
+-1 : updated 8's heartbeat sequence to 39 based on 6 at node time 11:04:37
+4 : updated 2's heartbeat sequence to 50 based on 5 at node time 11:04:37
+4 : updated 5's heartbeat sequence to 50 based on 5 at node time 11:04:37
+3 : updated 6's heartbeat sequence to 55 based on 7 at node time 11:04:37
+3 : updated 7's heartbeat sequence to 48 based on 7 at node time 11:04:37
+5 : updated 3's heartbeat sequence to 36 based on 8 at node time 11:04:40
+5 : updated 8's heartbeat sequence to 40 based on 8 at node time 11:04:40
+2 : updated 3's heartbeat sequence to 37 based on 3 at node time 11:04:40
+7 : updated 8's heartbeat sequence to 44 based on 8 at node time 11:04:40
+2 : updated 5's heartbeat sequence to 41 based on 3 at node time 11:04:40
+8 : updated 3's heartbeat sequence to 41 based on 3 at node time 11:04:40
+8 : updated 4's heartbeat sequence to 45 based on 3 at node time 11:04:40
+-1 : updated 2's heartbeat sequence to 54 based on 2 at node time 11:04:40
+4 : updated 2's heartbeat sequence to 53 based on 2 at node time 11:04:40
+6 : updated 2's heartbeat sequence to 47 based on 8 at node time 11:04:40
+6 : updated 3's heartbeat sequence to 40 based on 8 at node time 11:04:40
+6 : updated 4's heartbeat sequence to 44 based on 8 at node time 11:04:40
+6 : updated 8's heartbeat sequence to 45 based on 8 at node time 11:04:40
+3 : updated 4's heartbeat sequence to 48 based on 4 at node time 11:04:40
+3 : updated 6's heartbeat sequence to 56 based on 4 at node time 11:04:40
+5 : updated -1's heartbeat sequence to 57 based on -1 at node time 11:04:43
+2 : updated 7's heartbeat sequence to 42 based on 8 at node time 11:04:43
+2 : updated 8's heartbeat sequence to 38 based on 8 at node time 11:04:43
+8 : updated -1's heartbeat sequence to 54 based on 5 at node time 11:04:43
+8 : updated 5's heartbeat sequence to 48 based on 5 at node time 11:04:43
+8 : updated 7's heartbeat sequence to 45 based on 5 at node time 11:04:43
+-1 : updated 5's heartbeat sequence to 52 based on 5 at node time 11:04:43
+7 : updated -1's heartbeat sequence to 58 based on 3 at node time 11:04:43
+7 : updated 3's heartbeat sequence to 45 based on 3 at node time 11:04:43
+4 : updated 2's heartbeat sequence to 55 based on 2 at node time 11:04:43
+4 : updated 8's heartbeat sequence to 36 based on 2 at node time 11:04:43
+6 : updated 3's heartbeat sequence to 41 based on 8 at node time 11:04:43
+6 : updated 4's heartbeat sequence to 45 based on 8 at node time 11:04:43
+6 : updated 8's heartbeat sequence to 46 based on 8 at node time 11:04:43
+3 : updated 7's heartbeat sequence to 49 based on 7 at node time 11:04:43
+3 : updated 8's heartbeat sequence to 41 based on 7 at node time 11:04:43
+5 : updated 2's heartbeat sequence to 52 based on 2 at node time 11:04:46
+2 : updated -1's heartbeat sequence to 53 based on 5 at node time 11:04:46
+2 : updated 4's heartbeat sequence to 42 based on 5 at node time 11:04:46
+2 : updated 5's heartbeat sequence to 47 based on 5 at node time 11:04:46
+2 : updated 6's heartbeat sequence to 50 based on 5 at node time 11:04:46
+2 : updated 7's heartbeat sequence to 45 based on 5 at node time 11:04:46
+8 : updated 2's heartbeat sequence to 51 based on 2 at node time 11:04:46
+7 : updated 3's heartbeat sequence to 46 based on 3 at node time 11:04:46
+4 : updated 3's heartbeat sequence to 40 based on 6 at node time 11:04:46
+4 : updated 6's heartbeat sequence to 59 based on 6 at node time 11:04:46
+4 : updated 8's heartbeat sequence to 45 based on 6 at node time 11:04:46
+6 : updated -1's heartbeat sequence to 59 based on 4 at node time 11:04:46
+6 : updated 2's heartbeat sequence to 55 based on 4 at node time 11:04:46
+6 : updated 4's heartbeat sequence to 52 based on 4 at node time 11:04:46
+6 : updated 5's heartbeat sequence to 50 based on 4 at node time 11:04:46
+6 : updated 7's heartbeat sequence to 47 based on 4 at node time 11:04:46
+3 : updated 2's heartbeat sequence to 50 based on 5 at node time 11:04:46
+3 : updated 5's heartbeat sequence to 51 based on 5 at node time 11:04:46
+5 : updated -1's heartbeat sequence to 60 based on -1 at node time 11:04:49
+8 : updated 5's heartbeat sequence to 49 based on 5 at node time 11:04:49
+2 : updated 3's heartbeat sequence to 42 based on 3 at node time 11:04:49
+2 : updated 4's heartbeat sequence to 45 based on 3 at node time 11:04:49
+-1 : updated 5's heartbeat sequence to 53 based on 5 at node time 11:04:49
+-1 : updated 8's heartbeat sequence to 40 based on 5 at node time 11:04:49
+4 : updated 2's heartbeat sequence to 57 based on 2 at node time 11:04:49
+7 : updated -1's heartbeat sequence to 59 based on 6 at node time 11:04:49
+7 : updated 2's heartbeat sequence to 55 based on 6 at node time 11:04:49
+7 : updated 4's heartbeat sequence to 52 based on 6 at node time 11:04:49
+7 : updated 5's heartbeat sequence to 50 based on 6 at node time 11:04:49
+7 : updated 6's heartbeat sequence to 61 based on 6 at node time 11:04:49
+7 : updated 8's heartbeat sequence to 46 based on 6 at node time 11:04:49
+3 : updated 2's heartbeat sequence to 58 based on 2 at node time 11:04:49
+5 : updated 3's heartbeat sequence to 44 based on 3 at node time 11:04:52
+5 : updated 4's heartbeat sequence to 46 based on 3 at node time 11:04:52
+8 : updated -1's heartbeat sequence to 55 based on 3 at node time 11:04:52
+2 : updated 6's heartbeat sequence to 57 based on 6 at node time 11:04:52
+8 : updated 3's heartbeat sequence to 43 based on 3 at node time 11:04:52
+-1 : updated 5's heartbeat sequence to 54 based on 5 at node time 11:04:52
+4 : updated 3's heartbeat sequence to 41 based on 8 at node time 11:04:52
+4 : updated 8's heartbeat sequence to 47 based on 8 at node time 11:04:52
+3 : updated -1's heartbeat sequence to 59 based on 4 at node time 11:04:52
+3 : updated 4's heartbeat sequence to 53 based on 4 at node time 11:04:52
+3 : updated 6's heartbeat sequence to 59 based on 4 at node time 11:04:52
+3 : updated 8's heartbeat sequence to 45 based on 4 at node time 11:04:52
+5 : updated 4's heartbeat sequence to 50 based on 4 at node time 11:04:55
+5 : updated 6's heartbeat sequence to 56 based on 4 at node time 11:04:55
+5 : updated 7's heartbeat sequence to 47 based on 4 at node time 11:04:55
+6 : updated -1's heartbeat sequence to 60 based on 5 at node time 11:04:55
+6 : updated 3's heartbeat sequence to 44 based on 5 at node time 11:04:55
+6 : updated 5's heartbeat sequence to 57 based on 5 at node time 11:04:55
+2 : updated 8's heartbeat sequence to 42 based on 8 at node time 11:04:55
+8 : updated -1's heartbeat sequence to 56 based on 7 at node time 11:04:55
+8 : updated 4's heartbeat sequence to 47 based on 7 at node time 11:04:55
+8 : updated 6's heartbeat sequence to 55 based on 7 at node time 11:04:55
+8 : updated 7's heartbeat sequence to 51 based on 7 at node time 11:04:55
+-1 : updated 5's heartbeat sequence to 55 based on 5 at node time 11:04:55
+4 : updated 6's heartbeat sequence to 60 based on 6 at node time 11:04:55
+3 : updated 2's heartbeat sequence to 59 based on 2 at node time 11:04:55
+5 : updated 2's heartbeat sequence to 56 based on 2 at node time 11:04:58
+6 : updated -1's heartbeat sequence to 65 based on -1 at node time 11:04:58
+2 : updated 6's heartbeat sequence to 58 based on 6 at node time 11:04:58
+8 : updated -1's heartbeat sequence to 61 based on -1 at node time 11:04:58
+8 : updated 2's heartbeat sequence to 54 based on -1 at node time 11:04:58
+8 : updated 6's heartbeat sequence to 59 based on -1 at node time 11:04:58
+-1 : updated 3's heartbeat sequence to 41 based on 8 at node time 11:04:58
+-1 : updated 8's heartbeat sequence to 48 based on 8 at node time 11:04:58
+4 : updated 3's heartbeat sequence to 46 based on 7 at node time 11:04:58
+4 : updated 7's heartbeat sequence to 54 based on 7 at node time 11:04:58
+7 : updated 2's heartbeat sequence to 57 based on 4 at node time 11:04:58
+7 : updated 4's heartbeat sequence to 56 based on 4 at node time 11:04:58
+7 : updated 8's heartbeat sequence to 47 based on 4 at node time 11:04:58
+3 : updated 4's heartbeat sequence to 55 based on 4 at node time 11:04:58
+3 : updated 8's heartbeat sequence to 47 based on 4 at node time 11:04:58
+5 : updated 4's heartbeat sequence to 51 based on 4 at node time 11:05:01
+2 : updated -1's heartbeat sequence to 56 based on 7 at node time 11:05:01
+2 : updated 4's heartbeat sequence to 47 based on 7 at node time 11:05:01
+2 : updated 7's heartbeat sequence to 50 based on 7 at node time 11:05:01
+8 : updated -1's heartbeat sequence to 62 based on -1 at node time 11:05:01
+8 : updated 5's heartbeat sequence to 52 based on -1 at node time 11:05:01
+-1 : updated 8's heartbeat sequence to 49 based on 8 at node time 11:05:01
+6 : updated 7's heartbeat sequence to 51 based on 8 at node time 11:05:01
+6 : updated 8's heartbeat sequence to 52 based on 8 at node time 11:05:01
+4 : updated 3's heartbeat sequence to 49 based on 3 at node time 11:05:01
+4 : updated 5's heartbeat sequence to 51 based on 3 at node time 11:05:01
+3 : updated 7's heartbeat sequence to 51 based on 8 at node time 11:05:01
+3 : updated 8's heartbeat sequence to 51 based on 8 at node time 11:05:01
+7 : updated 2's heartbeat sequence to 59 based on 3 at node time 11:05:01
+7 : updated 3's heartbeat sequence to 53 based on 3 at node time 11:05:01
+7 : updated 5's heartbeat sequence to 51 based on 3 at node time 11:05:01
+5 : updated 3's heartbeat sequence to 47 based on 3 at node time 11:05:04
+5 : updated 7's heartbeat sequence to 48 based on 3 at node time 11:05:04
+2 : updated -1's heartbeat sequence to 59 based on 4 at node time 11:05:04
+2 : updated 4's heartbeat sequence to 49 based on 4 at node time 11:05:04
+8 : updated 5's heartbeat sequence to 56 based on 5 at node time 11:05:04
+-1 : updated 2's heartbeat sequence to 55 based on 7 at node time 11:05:04
+-1 : updated 3's heartbeat sequence to 46 based on 7 at node time 11:05:04
+-1 : updated 4's heartbeat sequence to 52 based on 7 at node time 11:05:04
+-1 : updated 6's heartbeat sequence to 61 based on 7 at node time 11:05:04
+-1 : updated 7's heartbeat sequence to 56 based on 7 at node time 11:05:04
+6 : updated 2's heartbeat sequence to 57 based on 4 at node time 11:05:04
+6 : updated 3's heartbeat sequence to 46 based on 4 at node time 11:05:04
+6 : updated 4's heartbeat sequence to 57 based on 4 at node time 11:05:04
+6 : updated 7's heartbeat sequence to 54 based on 4 at node time 11:05:04
+4 : updated -1's heartbeat sequence to 64 based on -1 at node time 11:05:04
+4 : updated 5's heartbeat sequence to 53 based on -1 at node time 11:05:04
+3 : updated 6's heartbeat sequence to 61 based on 7 at node time 11:05:04
+3 : updated 7's heartbeat sequence to 56 based on 7 at node time 11:05:04
+7 : updated -1's heartbeat sequence to 60 based on 5 at node time 11:05:04
+7 : updated 5's heartbeat sequence to 60 based on 5 at node time 11:05:04
+5 : updated -1's heartbeat sequence to 63 based on -1 at node time 11:05:07
+5 : updated 6's heartbeat sequence to 59 based on -1 at node time 11:05:07
+2 : updated -1's heartbeat sequence to 60 based on -1 at node time 11:05:07
+8 : updated 2's heartbeat sequence to 55 based on 6 at node time 11:05:07
+2 : updated 6's heartbeat sequence to 59 based on -1 at node time 11:05:07
+8 : updated 4's heartbeat sequence to 52 based on 6 at node time 11:05:07
+8 : updated 6's heartbeat sequence to 62 based on 6 at node time 11:05:07
+-1 : updated 2's heartbeat sequence to 61 based on 2 at node time 11:05:07
+6 : updated 7's heartbeat sequence to 56 based on 7 at node time 11:05:07
+4 : updated 6's heartbeat sequence to 61 based on 7 at node time 11:05:07
+4 : updated 7's heartbeat sequence to 55 based on 7 at node time 11:05:07
+3 : updated -1's heartbeat sequence to 65 based on 6 at node time 11:05:07
+3 : updated 5's heartbeat sequence to 57 based on 6 at node time 11:05:07
+3 : updated 6's heartbeat sequence to 63 based on 6 at node time 11:05:07
+7 : updated 2's heartbeat sequence to 63 based on 2 at node time 11:05:07
+5 : updated 8's heartbeat sequence to 50 based on 8 at node time 11:05:10
+2 : updated 7's heartbeat sequence to 52 based on 7 at node time 11:05:10
+8 : updated 2's heartbeat sequence to 57 based on 4 at node time 11:05:10
+2 : updated 8's heartbeat sequence to 44 based on 7 at node time 11:05:10
+8 : updated 4's heartbeat sequence to 54 based on 4 at node time 11:05:10
+-1 : updated 3's heartbeat sequence to 54 based on 3 at node time 11:05:10
+-1 : updated 4's heartbeat sequence to 55 based on 3 at node time 11:05:10
+-1 : updated 8's heartbeat sequence to 51 based on 3 at node time 11:05:10
+6 : updated -1's heartbeat sequence to 68 based on -1 at node time 11:05:10
+4 : updated 2's heartbeat sequence to 60 based on 2 at node time 11:05:10
+3 : updated 2's heartbeat sequence to 65 based on 2 at node time 11:05:10
+7 : updated -1's heartbeat sequence to 62 based on 8 at node time 11:05:10
+7 : updated 8's heartbeat sequence to 53 based on 8 at node time 11:05:10
+5 : updated -1's heartbeat sequence to 66 based on -1 at node time 11:05:13
+8 : updated 2's heartbeat sequence to 58 based on 3 at node time 11:05:13
+8 : updated 3's heartbeat sequence to 50 based on 3 at node time 11:05:13
+-1 : updated 5's heartbeat sequence to 61 based on 5 at node time 11:05:13
+2 : updated 3's heartbeat sequence to 45 based on 7 at node time 11:05:13
+2 : updated 7's heartbeat sequence to 53 based on 7 at node time 11:05:13
+6 : updated 2's heartbeat sequence to 64 based on 2 at node time 11:05:13
+4 : updated 5's heartbeat sequence to 58 based on 5 at node time 11:05:13
+3 : updated 4's heartbeat sequence to 60 based on 4 at node time 11:05:13
+7 : updated -1's heartbeat sequence to 70 based on -1 at node time 11:05:13
+5 : updated 2's heartbeat sequence to 57 based on 6 at node time 11:05:16
+5 : updated 4's heartbeat sequence to 57 based on 6 at node time 11:05:16
+5 : updated 6's heartbeat sequence to 66 based on 6 at node time 11:05:16
+5 : updated 7's heartbeat sequence to 56 based on 6 at node time 11:05:16
+5 : updated 8's heartbeat sequence to 52 based on 6 at node time 11:05:16
+8 : updated 3's heartbeat sequence to 51 based on 3 at node time 11:05:16
+-1 : updated 4's heartbeat sequence to 59 based on 4 at node time 11:05:16
+2 : updated 3's heartbeat sequence to 48 based on 3 at node time 11:05:16
+6 : updated 2's heartbeat sequence to 66 based on 2 at node time 11:05:16
+4 : updated -1's heartbeat sequence to 67 based on -1 at node time 11:05:16
+4 : updated 8's heartbeat sequence to 48 based on -1 at node time 11:05:16
+3 : updated 5's heartbeat sequence to 63 based on 5 at node time 11:05:16
+7 : updated 6's heartbeat sequence to 62 based on 8 at node time 11:05:16
+7 : updated 8's heartbeat sequence to 56 based on 8 at node time 11:05:16
+5 : updated 2's heartbeat sequence to 59 based on 3 at node time 11:05:19
+5 : updated 3's heartbeat sequence to 56 based on 3 at node time 11:05:19
+8 : updated 5's heartbeat sequence to 57 based on 6 at node time 11:05:19
+-1 : updated 6's heartbeat sequence to 62 based on 8 at node time 11:05:19
+-1 : updated 8's heartbeat sequence to 55 based on 8 at node time 11:05:19
+2 : updated -1's heartbeat sequence to 65 based on 6 at node time 11:05:19
+2 : updated 4's heartbeat sequence to 52 based on 6 at node time 11:05:19
+2 : updated 5's heartbeat sequence to 57 based on 6 at node time 11:05:19
+2 : updated 6's heartbeat sequence to 64 based on 6 at node time 11:05:19
+2 : updated 8's heartbeat sequence to 52 based on 6 at node time 11:05:19
+6 : updated 3's heartbeat sequence to 53 based on 7 at node time 11:05:19
+6 : updated 5's heartbeat sequence to 60 based on 7 at node time 11:05:19
+6 : updated 7's heartbeat sequence to 60 based on 7 at node time 11:05:19
+6 : updated 8's heartbeat sequence to 53 based on 7 at node time 11:05:19
+4 : updated 8's heartbeat sequence to 54 based on 8 at node time 11:05:19
+3 : updated -1's heartbeat sequence to 66 based on 5 at node time 11:05:19
+3 : updated 5's heartbeat sequence to 64 based on 5 at node time 11:05:19
+7 : updated 2's heartbeat sequence to 65 based on 3 at node time 11:05:19
+7 : updated 3's heartbeat sequence to 57 based on 3 at node time 11:05:19
+7 : updated 6's heartbeat sequence to 63 based on 3 at node time 11:05:19
+5 : updated -1's heartbeat sequence to 68 based on 6 at node time 11:05:22
+5 : updated 6's heartbeat sequence to 67 based on 6 at node time 11:05:22
+8 : updated 2's heartbeat sequence to 59 based on 3 at node time 11:05:22
+8 : updated 3's heartbeat sequence to 52 based on 3 at node time 11:05:22
+-1 : updated 4's heartbeat sequence to 63 based on 4 at node time 11:05:22
+2 : updated 3's heartbeat sequence to 53 based on 7 at node time 11:05:22
+2 : updated 4's heartbeat sequence to 56 based on 7 at node time 11:05:22
+2 : updated 7's heartbeat sequence to 57 based on 7 at node time 11:05:22
+6 : updated -1's heartbeat sequence to 72 based on -1 at node time 11:05:22
+6 : updated 3's heartbeat sequence to 54 based on -1 at node time 11:05:22
+6 : updated 5's heartbeat sequence to 61 based on -1 at node time 11:05:22
+4 : updated 3's heartbeat sequence to 53 based on 7 at node time 11:05:22
+4 : updated 5's heartbeat sequence to 60 based on 7 at node time 11:05:22
+4 : updated 7's heartbeat sequence to 58 based on 7 at node time 11:05:22
+3 : updated 8's heartbeat sequence to 57 based on 8 at node time 11:05:22
+7 : updated 4's heartbeat sequence to 64 based on 4 at node time 11:05:22
+5 : updated 2's heartbeat sequence to 60 based on 4 at node time 11:05:25
+5 : updated 4's heartbeat sequence to 62 based on 4 at node time 11:05:25
+8 : updated 5's heartbeat sequence to 59 based on 5 at node time 11:05:25
+-1 : updated 2's heartbeat sequence to 68 based on 2 at node time 11:05:25
+2 : updated -1's heartbeat sequence to 69 based on -1 at node time 11:05:25
+6 : updated 2's heartbeat sequence to 67 based on 2 at node time 11:05:25
+4 : updated 5's heartbeat sequence to 62 based on 5 at node time 11:05:25
+3 : updated -1's heartbeat sequence to 68 based on 6 at node time 11:05:25
+3 : updated 6's heartbeat sequence to 68 based on 6 at node time 11:05:25
+7 : updated 2's heartbeat sequence to 70 based on 2 at node time 11:05:25
+7 : updated 6's heartbeat sequence to 64 based on 2 at node time 11:05:25
+5 : updated 2's heartbeat sequence to 65 based on 3 at node time 11:05:28
+5 : updated 3's heartbeat sequence to 58 based on 3 at node time 11:05:28
+8 : updated 2's heartbeat sequence to 62 based on 2 at node time 11:05:28
+-1 : updated 8's heartbeat sequence to 60 based on 8 at node time 11:05:28
+2 : updated 4's heartbeat sequence to 57 based on 6 at node time 11:05:28
+2 : updated 6's heartbeat sequence to 65 based on 6 at node time 11:05:28
+6 : updated -1's heartbeat sequence to 73 based on -1 at node time 11:05:28
+6 : updated 4's heartbeat sequence to 59 based on -1 at node time 11:05:28
+4 : updated 2's heartbeat sequence to 65 based on 3 at node time 11:05:28
+4 : updated 3's heartbeat sequence to 59 based on 3 at node time 11:05:28
+4 : updated 5's heartbeat sequence to 63 based on 3 at node time 11:05:28
+4 : updated 6's heartbeat sequence to 63 based on 3 at node time 11:05:28
+3 : updated -1's heartbeat sequence to 70 based on 7 at node time 11:05:28
+3 : updated 7's heartbeat sequence to 63 based on 7 at node time 11:05:28
+7 : updated 4's heartbeat sequence to 65 based on 4 at node time 11:05:28
+5 : updated 8's heartbeat sequence to 58 based on 8 at node time 11:05:31
+8 : updated 4's heartbeat sequence to 58 based on 4 at node time 11:05:31
+8 : updated 7's heartbeat sequence to 54 based on 4 at node time 11:05:31
+-1 : updated 2's heartbeat sequence to 71 based on 2 at node time 11:05:31
+-1 : updated 6's heartbeat sequence to 64 based on 2 at node time 11:05:31
+-1 : updated 7's heartbeat sequence to 57 based on 2 at node time 11:05:31
+6 : updated 8's heartbeat sequence to 59 based on 8 at node time 11:05:31
+2 : updated 3's heartbeat sequence to 55 based on 3 at node time 11:05:31
+4 : updated 3's heartbeat sequence to 60 based on 3 at node time 11:05:31
+4 : updated 5's heartbeat sequence to 64 based on 3 at node time 11:05:31
+3 : updated -1's heartbeat sequence to 75 based on -1 at node time 11:05:31
+3 : updated 4's heartbeat sequence to 63 based on -1 at node time 11:05:31
+7 : updated 3's heartbeat sequence to 61 based on 3 at node time 11:05:31
+7 : updated 5's heartbeat sequence to 64 based on 3 at node time 11:05:31
+7 : updated 8's heartbeat sequence to 57 based on 3 at node time 11:05:31

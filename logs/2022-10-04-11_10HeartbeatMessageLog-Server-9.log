@@ -1,0 +1,44 @@
+Oct 04, 2022 11:10:06 AM edu.yu.cs.com3800.LoggingServer fileHandler
+INFO: Logging to file begins:
+Oct 04, 2022 11:10:06 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Received at: Oct 04, 2022 11:10:06
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30030
+Receiver Host: localhost
+Receiver port: 30080
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:-1
+	ID:1 Heartbeat:-1
+	ID:2 Heartbeat:-1
+	ID:3 Heartbeat:-1
+	ID:4 Heartbeat:1
+	ID:5 Heartbeat:-1
+	ID:6 Heartbeat:-1
+	ID:7 Heartbeat:-1
+	ID:8 Heartbeat:-1
+	ID:9 Heartbeat:-1
+Oct 04, 2022 11:10:09 AM edu.yu.cs.com3800.stage5.GossipThread run
+INFO: Received at: Oct 04, 2022 11:10:09
+Message Type: GOSSIP
+Sender Host: localhost
+Sender port: 30070
+Receiver Host: localhost
+Receiver port: 30080
+Request ID: -1
+Error Occurred: false
+Message Contents: 
+Gossip Payload:
+	ID:-1 Heartbeat:-1
+	ID:1 Heartbeat:-1
+	ID:2 Heartbeat:-1
+	ID:3 Heartbeat:-1
+	ID:4 Heartbeat:-1
+	ID:5 Heartbeat:-1
+	ID:6 Heartbeat:-1
+	ID:7 Heartbeat:-1
+	ID:8 Heartbeat:1
+	ID:9 Heartbeat:-1
